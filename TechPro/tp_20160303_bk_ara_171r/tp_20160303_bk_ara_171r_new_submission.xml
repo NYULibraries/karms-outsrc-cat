@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<outsrcCatReq>
+	<contact>
+		<lastname>Jia</lastname>
+		<firstname>Wenchao</firstname>
+		<phone>212-992-7301</phone>
+		<email>wpj1@nyu.edu</email>
+		<dept>KARMS</dept>
+	</contact>
+	<batch>
+		<batch_type>new</batch_type>
+		<batch_name>tp_20160303_bk_ara</batch_name>
+		<orig_filename>20160302-Arabic List.txt</orig_filename>
+		<date_submitted>Thu Mar 03 2016 14:39:57 GMT-0500 (Eastern Standard Time)</date_submitted>
+		<vendor>tp</vendor>
+		<matType>bk</matType>
+		<language>ara</language>
+		<barcodesCount>180</barcodesCount>
+		<bsnsCount>171</bsnsCount>
+		<dupBSNs>
+			<dupBSN>004229964</dupBSN>
+			<dupBSN>004229964</dupBSN>
+			<dupBSN>004229964</dupBSN>
+			<dupBSN>004229964</dupBSN>
+			<dupBSN>004230073</dupBSN>
+			<dupBSN>004230074</dupBSN>
+			<dupBSN>004230103</dupBSN>
+			<dupBSN>004230103</dupBSN>
+			<dupBSN>004230103</dupBSN>
+		</dupBSNs>
+	</batch>
+</outsrcCatReq>
