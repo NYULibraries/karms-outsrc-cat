@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<outsrcCatReq>
+	<contact>
+		<lastname>Jia</lastname>
+		<firstname>Wenchao</firstname>
+		<phone>212-992-7301</phone>
+		<email>wpj1@nyu.edu</email>
+		<dept>KARMS</dept>
+	</contact>
+	<batch>
+		<batch_type>new</batch_type>
+		<batch_name>bs_20160219_bk_tur</batch_name>
+		<orig_filename>20160211-Turkish_Rev.txt</orig_filename>
+		<date_submitted>Fri Feb 19 2016 10:51:20 GMT-0500 (Eastern Standard Time)</date_submitted>
+		<vendor>bs</vendor>
+		<matType>bk</matType>
+		<language>tur</language>
+		<barcodesCount>19</barcodesCount>
+		<bsnsCount>19</bsnsCount>
+	</batch>
+</outsrcCatReq>

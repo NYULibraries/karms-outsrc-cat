@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<outsrcCatReq>
+	<contact>
+		<lastname>Jia</lastname>
+		<firstname>Wenchao</firstname>
+		<phone>212-992-7301</phone>
+		<email>wpj1@nyu.edu</email>
+		<dept>KARMS</dept>
+	</contact>
+	<batch>
+		<batch_type>corr</batch_type>
+		<batch_name>tp_20160219_bk_per_273r</batch_name>
+		<orig_filename>20160216_Persian_BSN List.txt</orig_filename>
+		<date_submitted>Mon Feb 22 2016 09:12:23 GMT-0500 (Eastern Standard Time)</date_submitted>
+		<vendor>tp</vendor>
+		<matType>bk</matType>
+		<language>per</language>
+		<barcodesCount>287</barcodesCount>
+		<bsnsCount>274</bsnsCount>
+		<dupBSNs>
+			<dupBSN>004051682</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004087056</dupBSN>
+			<dupBSN>004202329</dupBSN>
+			<dupBSN>004227913</dupBSN>
+			<dupBSN>004227914</dupBSN>
+			<dupBSN>004227915</dupBSN>
+		</dupBSNs>
+	</batch>
+</outsrcCatReq>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<outsrcCatReq>
+	<contact>
+		<lastname>Jia</lastname>
+		<firstname>Wenchao</firstname>
+		<phone>212-992-7301</phone>
+		<email>wpj1@nyu.edu</email>
+		<dept>KARMS</dept>
+	</contact>
+	<batch>
+		<batch_type>pkgd</batch_type>
+		<batch_name>bs_20160211_bk_hin_1r</batch_name>
+		<orig_filename>20160211_Hindi.txt</orig_filename>
+		<date_submitted>Mon Feb 22 2016 09:12:23 GMT-0500 (Eastern Standard Time)</date_submitted>
+		<vendor>bs</vendor>
+		<matType>bk</matType>
+		<language>hin</language>
+		<barcodesCount>2</barcodesCount>
+		<bsnsCount>2</bsnsCount>
+	</batch>
+</outsrcCatReq>

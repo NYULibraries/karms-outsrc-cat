@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<outsrcCatReq>
+	<contact>
+		<lastname>Jia</lastname>
+		<firstname>Wenchao</firstname>
+		<phone>212-992-7301</phone>
+		<email>wpj1@nyu.edu</email>
+		<dept>KARMS</dept>
+	</contact>
+	<batch>
+		<batch_type>new</batch_type>
+		<batch_name>tp_20160121_bk_gre</batch_name>
+		<orig_filename>20160121-103422 BOOK BSN List.txt</orig_filename>
+		<date_submitted>Thu Jan 21 2016 10:38:21 GMT-0500 (Eastern Standard Time)</date_submitted>
+		<vendor>tp</vendor>
+		<matType>bk</matType>
+		<language>gre</language>
+		<barcodesCount>14</barcodesCount>
+		<bsnsCount>14</bsnsCount>
+	</batch>
+</outsrcCatReq>
