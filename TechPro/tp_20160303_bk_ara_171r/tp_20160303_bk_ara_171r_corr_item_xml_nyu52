@@ -1,0 +1,16 @@
+## - XML_XSL
+<?xml version="1.0"?>
+<printout>
+<form-name>general-retrieval-form</form-name>
+<form-language>ENG</form-language>
+<form-format>00</form-format>
+<subject>General Retrieval Form</subject>
+
+
+<section-01>
+<form-date>03/05/2016</form-date>
+<sub-library-address-1-occ1>NYU52</sub-library-address-1-occ1>
+<sorted-by>Title</sorted-by>
+</section-01>
+
+</printout>
