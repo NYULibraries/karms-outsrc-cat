@@ -5,6 +5,7 @@ import time
 import csv
 import pymarc
 from pymarc import Record, Field
+import operator
 
 #current_timestamp = time.strftime('%B %d, %Y%t%I:%M:%S %p', time.localtime())
 current_timestamp = time.strftime('%Y-%m-%d_%H:%M:%S', time.localtime())
@@ -70,10 +71,16 @@ if process == 'return from vendor' or process == 'load to Aleph':
 				elif process == 'load to Aleph':
 					line[6] = current_timestamp
 
+bsns_lines_header = bsns_lines.pop(0)
+bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1))
+for line in bsns_lines_sorted:
+	print line
+
 # Write out lines to bsns_log.csv file, replacing rows with updated statuses
 bsns_csv_file_out = open(parent_dir+'/bsns_log.csv', 'wb')
 bsns_log_out = csv.writer(bsns_csv_file_out)
-bsns_log_out.writerows(bsns_lines)
+bsns_log_out.writerow(bsns_lines_header)
+bsns_log_out.writerows(bsns_lines_sorted)
 bsns_csv_file_out.close()
 
 
