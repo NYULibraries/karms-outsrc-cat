@@ -11,22 +11,26 @@ import operator
 current_timestamp = time.strftime('%Y-%m-%d_%H:%M:%S', time.localtime())
 print current_timestamp
 
-process = raw_input('Enter the process (e.g., add new batch, send to vendor, return from vendor, load to Aleph): ')
-batch_name = raw_input('Enter the batch name (e.g., tp_20160121_bk_gre_14r): ')
-vendor_code = batch_name.split('_')[0]
-if vendor_code == 'tp':
-	vendor = 'TechPro'
-elif vendor_code == 'bs':
-	vendor = 'BackStage'
-else:
-	vendor = 'NOTE:  Not Assigned'
-batch_date = batch_name.split('_')[1]
-batch_mat = batch_name.split('_')[2]
-language = batch_name.split('_')[3]
-batch_rec_cnt = batch_name.split('_')[4]
-batch_rec_cnt = int(batch_rec_cnt[:-1])
 parent_dir = os.path.dirname(os.getcwd())
-batch_folder = parent_dir+'/submissions/'+vendor+'/'+batch_name+'/'
+
+process = raw_input('Enter the process (e.g., add new batch, send to vendor, return from vendor, load to Aleph): ')
+vendor = raw_input('Enter the vendor name (TechPro or BackStage): ')
+
+if process == 'add new batch' or process == 'send to vendor':
+	batch_name = raw_input('Enter the batch name (e.g., tp_20160121_bk_gre_14r): ')
+	vendor_code = batch_name.split('_')[0]
+	if vendor_code == 'tp':
+		vendor = 'TechPro'
+	elif vendor_code == 'bs':
+		vendor = 'BackStage'
+	else:
+		vendor = 'NOTE:  Not Assigned'
+	batch_date = batch_name.split('_')[1]
+	batch_mat = batch_name.split('_')[2]
+	language = batch_name.split('_')[3]
+	batch_rec_cnt = batch_name.split('_')[4]
+	batch_rec_cnt = int(batch_rec_cnt[:-1])
+	batch_folder = parent_dir+'/submissions/'+vendor+'/'+batch_name+'/'
 
 bsns_lines = []
 # Read all current data from the bsns_log.csv file
@@ -34,6 +38,10 @@ bsns_csv_file_in = open(parent_dir+'/bsns_log.csv', 'rb')
 bsns_log_in = csv.reader(bsns_csv_file_in)
 bsns_lines.extend(bsns_log_in)
 bsns_csv_file_in.close()
+
+match = False
+matched_cnt = 0
+not_matched_cnt = 0
 
 # Method: Add new batch of BSNs to log file
 if process == 'add new batch':
@@ -51,30 +59,45 @@ if process == 'send to vendor':
 		f_marc_rec_001 = f_marc_rec.get_fields('001')[0].value() + 'NYU01'
 		for line in bsns_lines:
 			if line[0] == f_marc_rec_001:
+				match = True
 				line[4] = current_timestamp
+		if match:
+			print f_marc_rec_001 + ' was MATCHED in the BSNs log'
+			matched_cnt += 1
+		else:
+			print f_marc_rec_001 + ' was NOT MATCHED in the BSNs log'
+			not_matched_cnt += 1
 
 # Method: Match returned file of vendor BSNs and add status date for when BSNs are processed as "returned from vendor" or as "loaded to Aleph"
 if process == 'return from vendor' or process == 'load to Aleph':
-	batch_filenames = os.listdir(batch_folder)
-	for filename in batch_filenames:
+	marc_returned_folder = parent_dir+'/submissions/'+vendor+'/marc_returned/'
+	marc_returned_filenames = os.listdir(marc_returned_folder)
+	for filename in marc_returned_filenames:
 		if filename.endswith('.mrc'):
 			print filename
-	vendor_filename = raw_input('Enter the vendor .mrc filename for this batch: ')
-	vendor_marc_recs = pymarc.MARCReader(file(batch_folder+vendor_filename), to_unicode=True, force_utf8=True)
+	vendor_filename = raw_input('Enter the .mrc filename for the returned file of vendor records to be logged: ')
+	vendor_marc_recs = pymarc.MARCReader(file(marc_returned_folder+vendor_filename), to_unicode=True, force_utf8=True)
 	for v_marc_rec in vendor_marc_recs:
 		v_marc_rec_001 = v_marc_rec.get_fields('001')[0].value() + 'NYU01'
 		for line in bsns_lines:
 			if line[0] == v_marc_rec_001:
+				match = True
 				if process == 'return from vendor':
 					line[2] = vendor_filename
 					line[5] = current_timestamp
 				elif process == 'load to Aleph':
 					line[6] = current_timestamp
+		if match:
+			print v_marc_rec_001 + ' was MATCHED in the BSNs log'
+			matched_cnt += 1
+		else:
+			print v_marc_rec_001 + ' was NOT MATCHED in the BSNs log'
+			not_matched_cnt += 1
 
 bsns_lines_header = bsns_lines.pop(0)
 bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1))
-for line in bsns_lines_sorted:
-	print line
+#for line in bsns_lines_sorted:
+#	print line
 
 # Write out lines to bsns_log.csv file, replacing rows with updated statuses
 bsns_csv_file_out = open(parent_dir+'/bsns_log.csv', 'wb')
