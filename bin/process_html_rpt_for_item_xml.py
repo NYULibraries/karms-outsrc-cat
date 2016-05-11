@@ -25,21 +25,22 @@ batch_date = batch_name.split('_')[1]
 batch_mat = batch_name.split('_')[2]
 language = batch_name.split('_')[3]
 num_recs = batch_name.split('_')[4]
-batch_stage = raw_input('Enter the stage of processing (submission or return): ')
-batch_type = raw_input('Enter the batch type (i.e., new, corr, or pkgd): ')
+batch_type = raw_input('Enter the batch type (i.e., new, corr, pkgd or ret): ')
 parent_dir = os.path.dirname(os.getcwd())
 batch_folder = parent_dir+'/submissions/'+vendor+'/'+batch_name+'/'
 
 current_timestamp = time.strftime('%B %d, %Y%t%I:%M:%S %p', time.localtime())
 
 # INPUT FILE(S)
-subm_xml = minidom.parse(batch_folder+'submission-files/'+batch_name+'_'+batch_type+'_submission.xml')
+if batch_type == 'ret':
+	batch_type_prev = 'pkgd'
+subm_xml = minidom.parse(batch_folder+batch_name+'_'+batch_type_prev+'_submission.xml')
 subm_email = subm_xml.getElementsByTagName('email')[0].childNodes[0].nodeValue
 firstname = subm_xml.getElementsByTagName('firstname')[0].childNodes[0].nodeValue
 lastname = subm_xml.getElementsByTagName('lastname')[0].childNodes[0].nodeValue
 subm_batch_name = subm_xml.getElementsByTagName('batch_name')[0].childNodes[0].nodeValue
 
-batch_barcodes_file = codecs.open(batch_folder+'submission-files/'+batch_name+'_'+batch_type+'_barcodes', 'r')
+batch_barcodes_file = codecs.open(batch_folder+batch_name+'_'+batch_type_prev+'_barcodes', 'r')
 batch_barcodes_lines = batch_barcodes_file.readlines()
 batch_barcodes_file.close()
 batch_barcodes = []
@@ -47,9 +48,9 @@ for batch_barcode_line in batch_barcodes_lines:
 	batch_barcode = batch_barcode_line.strip()
 	batch_barcodes.append(batch_barcode)
 
-item_xml_file_nyu50 = codecs.open(batch_folder+batch_stage+'-files/'+batch_name+'_'+batch_type+'_item_xml_nyu50','r')
-item_xml_file_nyu51 = codecs.open(batch_folder+batch_stage+'-files/'+batch_name+'_'+batch_type+'_item_xml_nyu51','r')
-item_xml_file_nyu52 = codecs.open(batch_folder+batch_stage+'-files/'+batch_name+'_'+batch_type+'_item_xml_nyu52','r')
+item_xml_file_nyu50 = codecs.open(batch_folder+batch_name+'_'+batch_type+'_item_xml_nyu50','r')
+item_xml_file_nyu51 = codecs.open(batch_folder+batch_name+'_'+batch_type+'_item_xml_nyu51','r')
+item_xml_file_nyu52 = codecs.open(batch_folder+batch_name+'_'+batch_type+'_item_xml_nyu52','r')
 item_xml_str_all = item_xml_file_nyu50.read() + item_xml_file_nyu51.read() + item_xml_file_nyu52.read()
 item_xml_file_nyu50.close()
 item_xml_file_nyu51.close()
@@ -59,7 +60,7 @@ item_xml_file_nyu52.close()
 item_recs = re.findall(r'<section-02>.*?</section-02>', item_xml_str_all, re.S)
 
 # OUTPUT FILE(S)
-all_items_analysis_file_html = codecs.open(batch_folder+batch_stage+'-files/'+batch_name+'_'+batch_type+'_report.html', 'w')
+all_items_analysis_file_html = codecs.open(batch_folder+batch_name+'_'+batch_type+'_report.html', 'w')
 
 item_fields_dict = {
 	'<z13u-doc-number>': (0,'BSN'),
@@ -149,7 +150,7 @@ for item in item_recs:
 	
 	if (batch_type=='new' or batch_type=='corr') and not ips=='Cataloging Hold - TechPro':
 		item_msg += 'ERROR: Item IPS is NOT set to HP (Cat Hold-TP)<br>'
-	elif batch_type=='pkgd' and not ips=='TechPro':
+	elif (batch_type=='pkgd' or batch_type=='ret') and not ips=='TechPro':
 		item_msg += 'ERROR: Item IPS is NOT set to XM (TechPro)<br>'
 	
 	# Build nested dictionaries of item record numbers (BSN, Hol num, Barcode) and error messages
