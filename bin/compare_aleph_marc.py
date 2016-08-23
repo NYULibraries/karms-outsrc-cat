@@ -12,7 +12,7 @@ batch_dir = '../submissions/TechPro/'+batch_name+'/'
 
 #INPUT Files
 orig_marc_recs = pymarc.MARCReader(file(batch_dir + batch_name + '_pkgd_marc_final.mrc'), to_unicode=True, force_utf8=True)
-curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160614_21r/' + batch_name + '_ret_20160614_21r_bsns.mrc'), to_unicode=True, force_utf8=True)
+curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160628_25r/' + batch_name + '_ret_20160628_25r_bsns.mrc'), to_unicode=True, force_utf8=True)
 
 orig_recs_dict = {}
 for orig_rec in orig_marc_recs:
@@ -39,14 +39,15 @@ for curr_rec in curr_marc_recs:
 		
 		if not curr_tags == orig_tags:
 			diff_tags = set(curr_tags) - set(orig_tags)
+			diff_tags = sorted(diff_tags)
 			print 'BSN '+curr_bsn+' has changed!'
-			print 'Current fields: ' + str(curr_tags)
 			print 'Original fields: ' + str(orig_tags)
+			print 'Current fields: ' + str(curr_tags)
 			print 'DIFFERENCE: ' + str(diff_tags)
 			print '--------------------------------------------'
 			bsns_changed.write('BSN '+curr_bsn+' has changed:\n')
-			bsns_changed.write('Current fields: ' + str(curr_tags) + '\n')
 			bsns_changed.write('Original fields: ' + str(orig_tags) + '\n')
+			bsns_changed.write('Current fields: ' + str(curr_tags) + '\n')
 			bsns_changed.write('DIFFERENCE: ' + str(diff_tags) + '\n')
 			bsns_changed.write('--------------------------------------------\n')
 	
