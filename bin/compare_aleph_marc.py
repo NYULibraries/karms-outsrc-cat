@@ -12,7 +12,7 @@ batch_dir = '../submissions/TechPro/'+batch_name+'/'
 
 #INPUT Files
 orig_marc_recs = pymarc.MARCReader(file(batch_dir + batch_name + '_pkgd_marc_final.mrc'), to_unicode=True, force_utf8=True)
-curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160506_50r/' + batch_name + '_ret_20160506_50r_bsns_mod.mrc'), to_unicode=True, force_utf8=True)
+curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160513_48r/' + batch_name + '_ret_20160513_48r_bsns_mod.mrc'), to_unicode=True, force_utf8=True)
 
 orig_recs_dict = {}
 for orig_rec in orig_marc_recs:
