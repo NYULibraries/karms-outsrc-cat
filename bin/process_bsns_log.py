@@ -107,7 +107,7 @@ if process == 'R' or process == 'L':
 			not_matched_cnt += 1
 
 bsns_lines_header = bsns_lines.pop(0)
-bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1))
+bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1), reverse=True)
 #for line in bsns_lines_sorted:
 #	print line
 

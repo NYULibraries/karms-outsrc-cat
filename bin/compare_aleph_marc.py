@@ -7,7 +7,7 @@ from pymarc import Record, Field
 #curr_dir = os.path.dirname(os.getcwd())
 #parent_dir = os.chdir("..")
 
-batch_name = 'tp_20160219_bk_per_273r'
+batch_name = 'tp_20160303_bk_ara_171r'
 batch_dir = '../submissions/TechPro/'+batch_name+'/'
 
 #INPUT Files
@@ -44,4 +44,7 @@ for curr_rec in curr_marc_recs:
 			bsns_changed.write('Current fields: ' + str(curr_tags) + '\n')
 			bsns_changed.write('Original fields: ' + str(orig_tags) + '\n')
 			bsns_changed.write('--------------------------------------------\n')
+	
+	else:
+		print 'BSN '+curr_bsn+' NOT FOUND in file of original MARC records.'
 
