@@ -107,9 +107,23 @@ if process == 'R' or process == 'L':
 			not_matched_cnt += 1
 
 bsns_lines_header = bsns_lines.pop(0)
-bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1), reverse=True)
-#for line in bsns_lines_sorted:
-#	print line
+# def sort_null(row):
+# 	if row[6] == '':
+# 		row[6] = 0
+# 	if row[5] == '':
+# 		row[5] = 0
+# 	if row[4] == '':
+# 		row[4] = 0
+# 	if row[3] == '':
+# 		row[3] = 0
+# 	if row[1] == '':
+# 		row[1] = 0
+# 	
+# 	return operator.itemgetter(row[6],row[5],row[4],row[3],row[1])
+
+#bsns_lines_sorted = sorted(bsns_lines, key=sort_null, reverse=True)
+#bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1), reverse=True)
+bsns_lines_sorted = sorted(bsns_lines, key=operator.itemgetter(6, 5, 4, 3, 1))
 
 # Write out lines to bsns_log.csv file, replacing rows with updated statuses
 bsns_csv_file_out = open(parent_dir+'/bsns_log.csv', 'wb')
