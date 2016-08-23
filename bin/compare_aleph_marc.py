@@ -5,15 +5,14 @@ import pymarc
 from pymarc import Record, Field
 
 #curr_dir = os.path.dirname(os.getcwd())
-#print curr_dir
 #parent_dir = os.chdir("..")
 
-batch_name = raw_input('Enter the batch name: ')
+batch_name = 'tp_20160219_bk_per_273r'
 batch_dir = '../submissions/TechPro/'+batch_name+'/'
 
 #INPUT Files
 orig_marc_recs = pymarc.MARCReader(file(batch_dir + batch_name + '_pkgd_marc_final.mrc'), to_unicode=True, force_utf8=True)
-curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160422_99r/' + batch_name + '_ret_20160422_99r_bsns_mod.mrc'), to_unicode=True, force_utf8=True)
+curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160506_50r/' + batch_name + '_ret_20160506_50r_bsns_mod.mrc'), to_unicode=True, force_utf8=True)
 
 orig_recs_dict = {}
 for orig_rec in orig_marc_recs:
@@ -44,5 +43,5 @@ for curr_rec in curr_marc_recs:
 			bsns_changed.write('BSN '+curr_bsn+' has changed:\n')
 			bsns_changed.write('Current fields: ' + str(curr_tags) + '\n')
 			bsns_changed.write('Original fields: ' + str(orig_tags) + '\n')
-			bsns_changed.write('--------------------------------------------')
+			bsns_changed.write('--------------------------------------------\n')
 
