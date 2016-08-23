@@ -1,0 +1,807 @@
+004230198 LDR   L ^^^^^cam^a2200481^i^4500
+004230198 001   L 004230198
+004230198 003   L NNU
+004230198 005   L 20160705024112.0
+004230198 008   L 151027s2014^^^^mr^^^^^^^b^^^^000^0^ara^^
+004230198 010   L $$a  2015352166
+004230198 040   L $$aDLC$$beng$$erda$$cDLC$$dOSU
+004230198 066   L $$c(3
+004230198 020   L $$a9789954342305$$q(pbk.)
+004230198 020   L $$a9954342303$$q(pbk.)
+004230198 035   L $$a(OCoLC)947104592
+004230198 042   L $$apcc$$alcode
+004230198 043   L $$af-mr---
+004230198 050 4 L $$aDT329.S68$$bB59 2014
+004230198 1001  L $$601$$aBizhār, ʻUmar,$$eauthor.
+004230198 1001  L $$601$$aبزهار، عمر.
+004230198 24510 L $$602$$aQaḍāyā fikrīyah wa-ẓawāhir ibdāʻīyah bi-jihat Sūs /$$cD.ʻUmar Bizhār.
+004230198 24510 L $$602$$aقضايا فكرية وظواهر إبداعية بجهة سوس /$$cد.عمر بزهار.
+004230198 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004230198 250   L $$603$$aالطبعة الأولى.
+004230198 264 1 L $$a[Agadir] :$$b[publisher not identified],$$c2014.
+004230198 264 3 L $$604$$aAkādīr :$$bMaṭbaʻat al-Wurūd
+004230198 264 3 L $$604$$aأكادير :$$bمطبعة الورود
+004230198 300   L $$a289 pages ;$$c22 cm
+004230198 336   L $$atext$$btxt$$2rdacontent
+004230198 337   L $$aunmediated$$bn$$2rdamedia
+004230198 338   L $$avolume$$bnc$$2rdacarrier
+004230198 504   L $$aIncludes bibliographical references.
+004230198 651 0 L $$aSous Region (Morocco)$$xIntellectual life$$y20th century.
+004230198 651 7 L $$605$$aMorocco$$zSous Region$$2fast$$0(OCoLC)fst01253863
+004230198 651 7 L $$605$$aسوس (المغرب)$$2local/OSU
+004230198 650 7 L $$606$$aIntellectual life$$2fast$$0(OCoLC)fst00975769
+004230198 650 7 L $$606$$aالحياة الفكرية.$$2qrmak
+004230198 648 7 L $$607$$a1900 - 1999$$2fast
+004230198 648 7 L $$607$$a١٩٠٠ - ١٩٩٩$$2qrmak
+004230198 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT329.S68$$iB59 2014$$p31142056885950
+004230198 648 7 L $$600$$aالقرن العشرون.$$2qrmak
+004230198 FMT   L BK
+004037256 LDR   L ^^^^^cam^a2200373^i^4500
+004037256 001   L 004037256
+004037256 003   L NNU
+004037256 005   L 20160705035348.0
+004037256 008   L 131002s2006^^^^su^^^^^^^^^^^^000^0^ara^^
+004037256 010   L $$a  2013328466
+004037256 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004037256 066   L $$c(3
+004037256 020   L $$a996052843X
+004037256 020   L $$a9789960528434
+004037256 035   L $$a(OCoLC)890798200
+004037256 042   L $$alcode$$apcc
+004037256 050 4 L $$aPN1530$$b.R353 2006
+004037256 1001  L $$601$$aRajab, Muḥammad Ḥammūd,$$eauthor.
+004037256 1001  L $$601$$aرجب، محمد حمود.
+004037256 24510 L $$602$$aRūwād al-mūnūlūj fī al-Mamlakah al-ʻArabīyah al-Saʻūdīyah wa-Miṣr al-ʻArabīyah /$$ciʻdād Muḥammad Ḥammūd Rajab.
+004037256 24510 L $$602$$aرواد المونولوج في المملكة العربية السعودية ومصر العربية /$$cإعداد محمد حمود رجب.
+004037256 264 1 L $$603$$a[Jiddah] :$$bal-Jamʻīyah al-ʻArabīyah al-Saʻūdīyah lil-Thaqāfah wa-al-Funūn,$$c1427 [2006 or 2007]
+004037256 264 1 L $$603$$a[جدة] :$$bالجمعية العربية السعودية للثقافة والفنون،$$c1427 [2006 or 2007]
+004037256 300   L $$a121 pages ;$$c24 cm
+004037256 336   L $$atext$$2rdacontent
+004037256 337   L $$aunmediated$$2rdamedia
+004037256 338   L $$avolume$$2rdacarrier
+004037256 520   L $$aPopular music; songs, Arabic; monologue; monologists; Saudi Arabia; Egypt; biography.
+004037256 650 0 L $$aMonologue.
+004037256 650 0 L $$aPopular music$$zSaudi Arabia.
+004037256 650 0 L $$aPopular music$$zEgypt.
+004037256 8590  L $$aNNU$$bBOBST$$cMAIN$$hPN1530$$i.R353 2006$$p31142057525613
+004037256 FMT   L BK
+004230221 LDR   L ^^^^^cam^a2200445^i^4500
+004230221 001   L 004230221
+004230221 003   L NNU
+004230221 005   L 20160706092818.0
+004230221 008   L 150117s2014^^^^mr^^^^^^^^^^^^000^p^fre^^
+004230221 010   L $$a  2014336446
+004230221 040   L $$aDLC$$beng$$erda$$cDLC$$dOSU$$dTEF
+004230221 066   L $$c(3
+004230221 020   L $$a9789954511701
+004230221 020   L $$a9954511709
+004230221 035   L $$a(OCoLC)900568161
+004230221 037   L $$c75.00 MAD
+004230221 0410  L $$afre$$aara
+004230221 042   L $$alcode
+004230221 050 4 L $$aPQ3989.3.M677$$bV55 2014
+004230221 1001  L $$601$$aMuntaṣir, ʻAbd al-Wāḥid,$$eauthor.
+004230221 1001  L $$601$$aمنتصر، عبد الواحد.
+004230221 24510 L $$602$$aVilles-périphéries :$$bjournal à bord du train = al-Mudun al-ḍawāḥī : yawmīyāt ʻabir al-qiṭār /$$cAbdelouahed Mountassir ; [Mehdi Akhrif].
+004230221 24510 L $$602$$aVilles-périphéries :$$bjournal à bord du train = المدن الضواحي : يوميات عبر القطار /$$cAbdelouahed Mountassir ; [Mehdi Akhrif].
+004230221 24615 L $$603$$aMudun al-ḍawāḥī :$$byawmīyāt ʻabir al-qiṭār
+004230221 24615 L $$603$$aمدن الضواحي :$$bيوميات عبر القطار
+004230221 250   L $$aPremière édition.
+004230221 264 1 L $$aCasablanca, Belvedère, Maroc :$$bEditions Toubkal,$$c2014.
+004230221 300   L $$a74, 70 pages ;$$c23 cm.
+004230221 336   L $$atext$$btxt$$2rdacontent
+004230221 337   L $$aunmediated$$bn$$2rdamedia
+004230221 338   L $$avolume$$bnc$$2rdacarrier
+004230221 4901  L $$aRepères ;$$v517
+004230221 546   L $$aIn French and Arabic.
+004230221 500   L $$aPoems.
+004230221 7001  L $$604$$aAkhrīf, al-Mahdī.
+004230221 7001  L $$604$$aأخريف، المهدي.
+004230221 830 0 L $$aRepères (Casablanca, Morocco) ;$$v517.
+004230221 8590  L $$aNNU$$bBOBST$$cMAIN$$hPQ3989.3.M677$$iV55 2014$$p31142056885919
+004230221 FMT   L BK
+004228023 LDR   L ^^^^^nam^a2200361^i^4500
+004228023 001   L 004228023
+004228023 003   L NNU
+004228023 005   L 20160705011420.0
+004228023 008   L 160705e201310^^ti^^^^^^^b^^^^000^e^ara^d
+004228023 040   L $$aNNU$$beng$$erda$$cTEF
+004228023 066   L $$c(3
+004228023 020   L $$a9789938056570
+004228023 020   L $$a9938056571
+004228023 035   L $$a(OCoLC)953037357
+004228023 050 4 L $$aAC106.A456$$bB88 2013
+004228023 1001  L $$601$$aAmīn, al-Ṭāhir,$$d1960-$$eauthor.
+004228023 1001  L $$601$$aامين، الطاهر،$$eauthor.
+004228023 24510 L $$602$$aBuʼs al-huwīyah /$$cal-Ṭāhir Amīn.
+004228023 24510 L $$602$$aبؤس الهُوية /$$cالطاهر امين.
+004228023 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228023 250   L $$603$$aالطبعة الأولى.
+004228023 264 1 L $$604$$aTūnis :$$bal-Ṭāhir Amīn,$$cUktūbir 2013.
+004228023 264 1 L $$604$$aتونس :$$bالطاهر امين،$$cاكتوبر 2013.
+004228023 300   L $$a158 pages ;$$c21 cm
+004228023 336   L $$atext$$btxt$$2rdacontent
+004228023 337   L $$aunmediated$$bn$$2rdamedia
+004228023 338   L $$avolume$$bnc$$2rdacarrier
+004228023 500   L $$aEssays.
+004228023 504   L $$aIncludes bibliographical references (pages 147-158).
+004228023 650 0 L $$aArabic essays.
+004228023 8590  L $$aNNU$$bBOBST$$cMAIN$$hAC106.A456$$iB88 2013$$p31142059512890
+004228023 FMT   L BK
+004229948 LDR   L ^^^^^nam^a2200373^i^4500
+004229948 001   L 004229948
+004229948 003   L NNU
+004229948 005   L 20160705102100.0
+004229948 008   L 160705e201502^^mr^^^^^^^b^^^^000^0^ara^d
+004229948 040   L $$aNNU$$beng$$erda$$cTEF
+004229948 066   L $$c(3
+004229948 020   L $$a9789954109830
+004229948 020   L $$a9954109838
+004229948 035   L $$a(OCoLC)953029912
+004229948 050 4 L $$aDT194$$b.H377 2015
+004229948 1001  L $$601$$aḤarrāq, Muḥammad Shaddād,$$eauthor.
+004229948 1001  L $$601$$aحراق، محمد شداد،$$eauthor.
+004229948 24513 L $$602$$aal-Usrah al-ʻilmīyah al-Nāṣirīyah fī khidmat turāth al-bādīyah :$$bqirāʻah fī al-tajribah al-tārīkhīyah lil-muʼarrikh al-durʻī Muḥammad al-Makkī ibn Mūsá al-Nāṣiri (t baʻda 1184) /$$cD. Muḥammad Shaddād al-Ḥarrāq.
+004229948 24512 L $$602$$aالاسرة العلمية الناصرية في خدمة تراث البادية :$$bقراعة في التجربة التاريخية للمؤرخ الدرعي محمد المكي بن موسى الناصر (ت بعد 1184) /$$cد. محمد شداد الحراق.
+004229948 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004229948 250   L $$603$$aالطبعة الأولى.
+004229948 264 1 L $$604$$aal-Rabāṭ, al-Maghrib :$$bDār al-Waṭan lil-Ṣiḥāfah wa-al-Ṭibāʻah wa-al-Nashr,$$cFibrāyir 2015.
+004229948 264 1 L $$604$$aالرباط، المغرب :$$bدار الوطن للصحافة والطباعة والنشر،$$cفبراير 2015.
+004229948 300   L $$a189 pages ;$$c20 cm
+004229948 336   L $$atext$$btxt$$2rdacontent
+004229948 337   L $$aunmediated$$bn$$2rdamedia
+004229948 338   L $$avolume$$bnc$$2rdacarrier
+004229948 504   L $$aIncludes bibliographical references (pages 178-188).
+004229948 60010 L $$605$$aNāṣirī, Muḥammad al-Makkī.
+004229948 60014 L $$605$$aناصري، محمد المكي.
+004229948 651 0 L $$aAfrica, North$$xHistory.
+004229948 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT194$$i.H377 2015$$p31142056886065
+004229948 FMT   L BK
+004258583 LDR   L ^^^^^cam^a2200361^i^4500
+004258583 001   L 004258583
+004258583 003   L NNU
+004258583 005   L 20160705033717.0
+004258583 008   L 150121s2013^^^^mr^^^^^^^^^^^^000^d^ara^^
+004258583 010   L $$a  2014336735
+004258583 040   L $$aDLC$$beng$$erda$$cDLC$$dNDD$$dTEF
+004258583 066   L $$c(3
+004258583 020   L $$a978995432609
+004258583 035   L $$a(OCoLC)900634527
+004258583 042   L $$alcode$$apcc
+004258583 050 4 L $$aPJ7942.H376$$bT43 2013
+004258583 1001  L $$601$$aKhaṭīb, Mājid.
+004258583 1001  L $$601$$aخطيب، ماجد.
+004258583 24510 L $$602$$aThawr Fālārs :$$bmasraḥīyat /$$cMājid al-Khaṭīb.
+004258583 24510 L $$602$$aثور فالارس :$$bمسرحية /$$cماجد الخطيب.
+004258583 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004258583 250   L $$603$$aالطبعة الأولى.
+004258583 264 1 L $$a[Rabat] :$$b[publisher not identified],$$c2013.
+004258583 264 3 L $$604$$aMarrākush :$$bal-Maṭbaʻah wa-al-Wirāqah al-Waṭanīyah
+004258583 264 3 L $$604$$aمراكش :$$bالمطبعة والوراقة الوطنية
+004258583 300   L $$a88 pages ;$$c20 cm
+004258583 336   L $$atext$$btxt$$2rdacontent
+004258583 337   L $$aunmediated$$bn$$2rdamedia
+004258583 338   L $$avolume$$bnc$$2rdacarrier
+004258583 500   L $$aPlay.
+004258583 8590  L $$aNNU$$bBOBST$$cMAIN$$hPJ7942.H376$$iT43 2013$$p31142056886289
+004258583 FMT   L BK
+004140597 LDR   L ^^^^^cam^a2200409^i^4500
+004140597 001   L 004140597
+004140597 003   L NNU
+004140597 005   L 20160303082837.7
+004140597 008   L 130607s2012^^^^su^a^^^^^b^^^^000^0bara^^
+004140597 010   L $$a  2013312905
+004140597 040   L $$aDLC$$beng$$erda$$cDLC
+004140597 066   L $$c(3
+004140597 020   L $$a9786030089109
+004140597 020   L $$a6030089102
+004140597 042   L $$alcode$$apcc
+004140597 043   L $$aa-su---
+004140597 05000 L $$aDS244.526.A28$$bI265 2012
+004140597 1001  L $$601$$aIbn Jurays, Ghaythān ibn ʻAlī,$$eauthor.
+004140597 1001  L $$601$$aإبن جريس، غيثان بن علي.
+004140597 24510 L $$602$$aʻAbd al-Wahhāb Abū Malḥah fī janūbī al-bilād al-Saʻūdīyah, 1340-1374 H/1921-1954 M :$$bdirāsah tārīkhīyah wathāʼiqīyah /$$ctaʼlīf U.D. Ghaythān ibn ʻAlī ibn Jurays, ustādh al-tārīkh, Jāmiʻat al-Malik Khālid = Abdulwahhab Abu Milha in Southern Saudi Arabia, 1340-1374 AH/1921-1954 AD : a documentary historic study / author, Prof. Ghithan bin Alin Bin Jrais, Department of History, College of Human Sciences, King Khalid University.
+004140597 24510 L $$602$$aعبد الوهاب أبو ملحة في جنوبي البلاد السعودية، ١٣٤٠-١٣٧٤ هـ/١٩٢١-١٩٥٤ م :$$bدراسة تاريخية وثائقية /$$cتأليف ا.د. غيثان بن علي بن جريس، أستاذ التاريخ، جامعة الملك خالد = Abdulwahhab Abu Milha in Southern Saudi Arabia, 1340-1374 AH/1921-1954 AD : a documentary historic study / author, Prof. Ghithan bin Alin Bin Jrais, Department of History, College of Human Sciences, King Khalid University.
+004140597 24615 L $$aAbdulwahhab Abu Milha in Southern Saudi Arabia, 1340-1374 AH/1921-1954 AD :$$ba documentary historic study
+004140597 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004140597 250   L $$603$$aالطبعة الأولى.
+004140597 264 1 L $$aAbhā :$$b[publisher not identified],$$c2012.
+004140597 264 3 L $$604$$aal-Riyāḍ :$$bMaṭbaʻat al-Ḥumayḍī
+004140597 264 3 L $$604$$aالرياض :$$bمطبعة الحميضي
+004140597 300   L $$a594 pages :$$billustrations (cheifly color) ;$$c25 cm
+004140597 336   L $$atext$$btxt$$2rdacontent
+004140597 337   L $$aunmediated$$bn$$2rdamedia
+004140597 338   L $$avolume$$bnc$$2rdacarrier
+004140597 504   L $$aIncludes bibliographical references (pages 546-566).
+004140597 60010 L $$aAbū Malḥah, ʻAbd al-Wahhāb,$$d1885-1955.
+004140597 651 0 L $$aʻAsīr (Saudi Arabia)$$xHistory.
+004140597 650 0 L $$aStatesmen$$zSaudi Arabia$$vBiography.
+004140597 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS244.526.A28$$iI265 2012$$p31142058157812
+004140597 FMT   L BK
+004230147 LDR   L ^^^^^cam^a2200517^i^4500
+004230147 001   L 004230147
+004230147 003   L NNU
+004230147 005   L 20160705013642.0
+004230147 008   L 110413s2014^^^^mr^^^^^^^b^^^^000^0^ara^d
+004230147 040   L $$aHLS$$beng$$erda$$cHLS$$dOCLCO$$dTEF
+004230147 066   L $$c(3
+004230147 020   L $$a9789954516300
+004230147 020   L $$a9954516301
+004230147 035   L $$a(OCoLC)947156981
+004230147 050 4 L $$aPN56.O69$$bD435 2014
+004230147 1001  L $$601$$aDhākir, ʻAbd al-Nabī,$$eauthor.
+004230147 1001  L $$601$$aذاكر، عبد النبي،$$eauthor.
+004230147 24513 L $$602$$aal-Ṣūrah, al-anā, al-ākhar :$$bDāniyāl-Hinrī Bājū, Jān-Mārk Mūrā = Pageaux Daniel-Henri, Moura Jean-Marc /$$cʻAbd al-Nabī Dhākir.
+004230147 24512 L $$602$$aالصورة، الانا، الآخر :$$bدانيالهنري باجوا، جانمارك مورا = Pageaux Daniel-Henri, Moura Jean-Marc /$$cعبد النبي ذاكر.
+004230147 24630 L $$603$$aDāniyāl-Hinrī Bājū, Jān-Mārk Mūrā
+004230147 24630 L $$603$$aدانيالهنري باجوا، جانمارك مورا
+004230147 24631 L $$aPageaux, Daniel-Henri, Moura Jean-Marc
+004230147 264 1 L $$604$$aal-Rabāṭ :$$bManshūrāt al-Zaman,$$c2014.
+004230147 264 1 L $$604$$aالرباط :$$bمنشورات الزمن،$$c2014.
+004230147 300   L $$a158 pages ;$$c21 cm.
+004230147 336   L $$atext$$btxt$$2rdacontent
+004230147 337   L $$aunmediated$$bn$$2rdamedia
+004230147 338   L $$avolume$$bnc$$2rdacarrier
+004230147 4901  L $$605$$aSilsilat shurufāt ;$$v43
+004230147 4901  L $$605$$aسلسلة شرفات ؛$$v43
+004230147 504   L $$aIncludes bibliographical references.
+004230147 60010 L $$aMoura, Jean-Marc.
+004230147 60010 L $$aPageaux, Daniel-Henri,$$d1939-
+004230147 650 0 L $$aOther (Philosophy) in literature.
+004230147 650 0 L $$aOther (Philosophy)
+004230147 650 0 L $$aSemiotics.
+004230147 650 0 L $$aDiscourse analysis, Literary.
+004230147 650 0 L $$aRepresentation (Philosophy)
+004230147 650 0 L $$aRepresentation (Psychoanalysis)
+004230147 650 0 L $$aVisual perception$$vCross-cultural studies.
+004230147 752   L $$aMorocco$$dRabat.
+004230147 830 0 L $$606$$aSilsilat shurufāt ;$$v43.
+004230147 830 0 L $$606$$aسلسلة شرفات ؛$$v43.
+004230147 8590  L $$aNNU$$bBOBST$$cMAIN$$hPN56.O69$$iD435 2014$$p31142056886206
+004230147 FMT   L BK
+004228128 LDR   L ^^^^^cam^a2200481^i^4500
+004228128 001   L 004228128
+004228128 003   L NNU
+004228128 005   L 20160705050345.0
+004228128 008   L 160203s2015^^^^ti^a^^^^^b^^^^000^0^ara^d
+004228128 040   L $$aLEILA$$beng$$erda$$cLEILA$$dOSU
+004228128 066   L $$c(3
+004228128 020   L $$a9789938890501$$q(pbk.)
+004228128 020   L $$a9938890504$$q(pbk.)
+004228128 035   L $$a(OCoLC)936619131
+004228128 050 4 L $$aBP190.5.A7$$bK55 2015
+004228128 1001  L $$601$$aKhiḍr, al-ʻĀdil,$$eauthor.
+004228128 1001  L $$601$$aخضر، العادل.
+004228128 24510 L $$602$$aFī al-ṣūrah wa-al-wajh wa-al-kalimah :$$bmaqālāt mīdiyūlūjīyah /$$cal-ʻĀdil Khiḍr.
+004228128 24510 L $$602$$aفي الصورة والوجه والكلمة :$$bمقالات ميديولوجية /$$cالعادل خضر.
+004228128 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228128 250   L $$603$$aالطبعة الأولى.
+004228128 264 1 L $$604$$aTūnis :$$bal-Dār al-Tūnisīyah lil-Kitāb,$$c2015.
+004228128 264 1 L $$604$$aتونس :$$bالدار التونسية للكتاب،$$c2015.
+004228128 300   L $$a188 pages :$$billustrations ;$$c24 cm.
+004228128 336   L $$atext$$btxt$$2rdacontent
+004228128 337   L $$aunmediated$$bn$$2rdamedia
+004228128 338   L $$avolume$$bnc$$2rdacarrier
+004228128 4901  L $$605$$aSilsilat Washūm yudīruhā al-Duktūr al-ʻĀdil Khiḍr
+004228128 4901  L $$605$$aسلسلة وشوم يديرها الدكتور العادل خضر
+004228128 504   L $$aIncludes bibliographical references (pages 173-188).
+004228128 650 0 L $$aPhotography$$xReligious aspects$$xIslam.
+004228128 650 7 L $$606$$aPhotography$$xReligious aspects$$2fast$$0(OCoLC)fst01061816
+004228128 650 7 L $$606$$aالتصوير.$$2qrmak
+004228128 650 7 L $$607$$aIslam$$2fast$$0(OCoLC)fst00979776
+004228128 650 7 L $$607$$aالإسلام.$$2qrmak
+004228128 830 0 L $$608$$aWashūm.
+004228128 830 0 L $$608$$aوشوم.
+004228128 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP190.5.A7$$iK55 2015$$p31142059512866
+004228128 650 7 L $$600$$aالتصوير في الإسلام.$$2local/OSU
+004228128 650 7 L $$600$$aتحريم الصورة.$$2local/OSU
+004228128 FMT   L BK
+004228123 LDR   L ^^^^^nam^a2200361^i^4500
+004228123 001   L 004228123
+004228123 003   L NNU
+004228123 005   L 20160705113820.0
+004228123 008   L 160705s2015^^^^ti^^^^^^^b^^^^000^0^ara^d
+004228123 040   L $$aNNU$$beng$$erda$$cTEF
+004228123 066   L $$c(3
+004228123 020   L $$a9789938854268
+004228123 020   L $$a9938854265
+004228123 035   L $$a(OCoLC)953033659
+004228123 050 4 L $$aBP195.S18$$bS536 2015
+004228123 1001  L $$601$$aShammām, al-Bashīr,$$eauthor.
+004228123 1001  L $$601$$aشمام، البشير،$$eauthor.
+004228123 24513 L $$602$$aal-Fikr al-Salafī :$$bmā la-hu wa-mā ʻalayhi /$$cD. al-Bashīr Shammām.
+004228123 24512 L $$602$$aالفكر السلفي :$$bما له وما عليه /$$cد. البشير شمام.
+004228123 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228123 250   L $$603$$aالطبعة الأولى.
+004228123 264 1 L $$604$$aTūnis :$$bMaktabat Tūnis,$$c2015,
+004228123 264 1 L $$604$$aتونس :$$bمكتبة تونس،$$c2015،
+004228123 300   L $$a84 pages ;$$c21 cm
+004228123 336   L $$atext$$btxt$$2rdacontent
+004228123 337   L $$aunmediated$$bn$$2rdamedia
+004228123 338   L $$avolume$$bnc$$2rdacarrier
+004228123 504   L $$aIncludes bibliographical references.
+004228123 650 0 L $$aSalafīyah.
+004228123 650 0 L $$aIslam$$xDoctrines.
+004228123 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP195.S18$$iS536 2015$$p31142059512999
+004228123 FMT   L BK
+004229951 LDR   L ^^^^^nam^a2200337^i^4500
+004229951 001   L 004229951
+004229951 003   L NNU
+004229951 005   L 20160705105807.0
+004229951 008   L 160705s2015^^^^mr^^^^^^^^^^^^000^p^ara^d
+004229951 040   L $$aNNU$$beng$$erda$$cTEF
+004229951 066   L $$c(3
+004229951 020   L $$a9789954953136
+004229951 020   L $$a9954953132
+004229951 035   L $$a(OCoLC)953032639
+004229951 050 4 L $$aPJ7914.Z439$$bA87 2015
+004229951 1001  L $$601$$aAzghāy, ʻAzīz,$$eauthor.
+004229951 1001  L $$601$$aازغاي، عزيز،$$eauthor.
+004229951 24510 L $$602$$aAsrá ʻalá qimāsh :$$bshiʻr /$$cʻAzīz Azghāy.
+004229951 24510 L $$602$$aاسرى على قماش :$$bشعر /$$cعزيز ازغاي.
+004229951 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004229951 250   L $$603$$aالطبعة الأولى.
+004229951 264 1 L $$604$$a[Morocco] :$$bBayt al-Shiʻr fī al-Maghrib,$$c2015.
+004229951 264 1 L $$604$$a[Morocco] :$$bبيت الشعر في المغرب،$$c2015.
+004229951 300   L $$a96 pages ;$$c22 cm
+004229951 336   L $$atext$$btxt$$2rdacontent
+004229951 337   L $$aunmediated$$bn$$2rdamedia
+004229951 338   L $$avolume$$bnc$$2rdacarrier
+004229951 500   L $$aPoetry.
+004229951 8590  L $$aNNU$$bBOBST$$cMAIN$$hPJ7914.Z439$$iA87 2015$$p31142056886073
+004229951 FMT   L BK
+004230104 LDR   L ^^^^^cam^a2200457^i^4500
+004230104 001   L 004230104
+004230104 003   L NNU
+004230104 005   L 20160705012520.0
+004230104 008   L 110413s2015^^^^mr^^^^^^^b^^^^000^0^ara^c
+004230104 040   L $$aHLS$$beng$$erda$$cHLS$$dOCLCO$$dOSU
+004230104 066   L $$c(3
+004230104 020   L $$a9789954947517$$q(pbk.)
+004230104 020   L $$a9954947515$$q(pbk.)
+004230104 035   L $$a(OCoLC)947158144
+004230104 042   L $$apcc
+004230104 050 4 L $$aBP185.7$$b.I27 2015
+004230104 1001  L $$601$$aIdrīsī, Abū Zayd al-Muqriʼ,$$d1960-$$eauthor.
+004230104 1001  L $$601$$aادريسي، أبو زيد المقرئ،$$d1960-
+004230104 24510 L $$602$$aRihānāt al-khiṭāb al-iʻlāmī /$$cAbū Zayd al-Muqriʼ al-Idrīsī.
+004230104 24510 L $$602$$aرهانات الخطاب الاعلامي /$$cأبو زيد المقرئ الإدريسي.
+004230104 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004230104 250   L $$603$$aالطبعة الأولى.
+004230104 264 1 L $$604$$aal-Dār al-Bayḍāʼ :$$bMuʼassasat al-Idrīsī al-Fikrīyah lil-Abḥāth wa-al-Dirāsāt,$$c2015.
+004230104 264 1 L $$604$$aالدار البيضاء :$$bمؤسسة الإدريسي الفكرية للأبحاث والدراسات،$$c2015.
+004230104 264 3 L $$605$$aal-Dār al-Bayḍāʼ :$$bMaṭbaʻat al-Najāḥ al-Jadīdah
+004230104 264 3 L $$605$$aالدار البيضاء :$$bمطبعة النجاح الجديدة
+004230104 300   L $$a156 pages ;$$c21 cm
+004230104 336   L $$atext$$btxt$$2rdacontent
+004230104 337   L $$aunmediated$$bn$$2rdamedia
+004230104 338   L $$avolume$$bnc$$2rdacarrier
+004230104 504   L $$aIncludes bibliographical references (pages 152-156).
+004230104 650 0 L $$aMass media$$xReligious aspects$$xIslam.
+004230104 650 0 L $$aIslamic ethics.
+004230104 650 7 L $$606$$aMass media$$xReligious aspects$$xIslam$$2fast$$0(OCoLC)fst01011294
+004230104 650 7 L $$606$$aالإعلام الإسلامى.$$2qrmak
+004230104 650 7 L $$607$$aIslamic ethics$$2fast$$0(OCoLC)fst00979936
+004230104 650 7 L $$607$$aالأخلاق الإسلامية.$$2qrmak
+004230104 752   L $$aMorocco$$dCasablanca.
+004230104 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP185.7$$i.I27 2015$$p31142056886214
+004230104 FMT   L BK
+004136424 LDR   L ^^^^^nam^a2200361^a^4500
+004136424 001   L 004136424
+004136424 003   L NNU
+004136424 005   L 20160705023828.0
+004136424 008   L 160705s2013^^^^iq^^^^^^^b^^^^000^0^ara^d
+004136424 040   L $$aNNU$$cTEF
+004136424 066   L $$c(3
+004136424 035   L $$a(OCoLC)953042165
+004136424 050 4 L $$aJQ3945$$b.H363 2013
+004136424 1001  L $$601$$aḤamadī, Ṣabrī Fāliḥ,$$eauthor.
+004136424 1001  L $$601$$aحمدي، صبري فالح،$$eauthor.
+004136424 24510 L $$602$$aḤarakat al-taḥarrur al-waṭanī fī al-Maghrib al-ʻArabī fī munāqashāt Majlis al-Nawāb al-ʻIrāqī (1950-1958) :$$bdirāsah tārīkhīyah /$$cal-Ustādh al-Duktūr Ṣabrī Fāliḥ al-Ḥamadī.
+004136424 24510 L $$602$$aحركة التحرر الوطني في المغرب العربي في مناقشات مجلس النواب العراقي (1950-1958) :$$bدراسة تاريخية /$$cالاستاذ الدكتور صبري فالح الحمدي.
+004136424 264 1 L $$603$$aBaghdād :$$bBayt al-Ḥikmah al-ʻIrāqī,$$c2013.
+004136424 264 1 L $$603$$aبغداد :$$bبيت الحكمة العراقي،$$c2013.
+004136424 300   L $$a320 pages ;$$c23 cm
+004136424 336   L $$atext$$btxt$$2rdacontent
+004136424 337   L $$aunmediated$$bn$$2rdamedia
+004136424 338   L $$avolume$$bnc$$2rdacarrier
+004136424 4901  L $$604$$aSilsilat kutub thaqāfīyah shahrīyah ;$$val-ʻadad 39
+004136424 4901  L $$604$$aسلسلة كتب ثقافية شهرية ؛$$vالعدد 39
+004136424 504   L $$aIncludes bibliographical references (p. 312-317).
+004136424 651 0 L $$aAfrica, North$$xPolitics and government.
+004136424 651 0 L $$aIraq$$xPolitics and government.
+004136424 830 0 L $$605$$aSilsilat kutub thaqāfīyah shahrīyah ;$$val-ʻadad 39.
+004136424 830 0 L $$605$$aسلسلة كتب ثقافية شهرية ؛$$vالعدد 39.
+004136424 8590  L $$aNNU$$bBOBST$$cMAIN$$hJQ3945$$i.H363 2013$$p31142058156129
+004136424 FMT   L BK
+004228118 LDR   L ^^^^^nam^a2200409^i^4500
+004228118 001   L 004228118
+004228118 003   L NNU
+004228118 005   L 20160705052705.0
+004228118 008   L 160705s2015^^^^ti^^^^^^^b^^^^000^0^ara^d
+004228118 040   L $$aNNU$$beng$$erda$$cTEF
+004228118 066   L $$c(3
+004228118 020   L $$a9789938843439
+004228118 020   L $$a9938843433
+004228118 035   L $$a(OCoLC)953046202
+004228118 050 4 L $$aLA1816$$b.S853 2015
+004228118 1001  L $$601$$aSulaymānī, Munjī,$$eauthor.
+004228118 1001  L $$601$$aسليماني، منجي،$$eauthor.
+004228118 24510 L $$602$$aFāʻilūn al-siyāsīyūn wa-taḥdīth al-taʻlīm fī Tūnis 1956-1994 /$$cMunjī Sulaymānī.
+004228118 24510 L $$602$$aفاعلون السياسيون وتحديث التعليم في تونس 1956-1994 /$$cمنجي سليماني.
+004228118 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228118 250   L $$603$$aالطبعة الأولى.
+004228118 264 1 L $$604$$aTūnis :$$bDār Āfāq,$$c2015.
+004228118 264 1 L $$604$$aتونس :$$bدار آفاق،$$c2015.
+004228118 300   L $$a191 pages ;$$c24 cm
+004228118 336   L $$atext$$btxt$$2rdacontent
+004228118 337   L $$aunmediated$$bn$$2rdamedia
+004228118 338   L $$avolume$$bnc$$2rdacarrier
+004228118 4901  L $$605$$aSilsilat āfāq al-dirāsāt wa-al-buḥūth
+004228118 4901  L $$605$$aسلسلة آفاق الدراسات والبحوث
+004228118 504   L $$aIncludes bibliographical references (pages 181-183).
+004228118 650 0 L $$aEducation$$zTunisia$$xHistory.
+004228118 650 0 L $$aEducation$$xPolitical aspects$$zTunisia.
+004228118 830 0 L $$606$$aSilsilat āfāq al-dirāsāt wa-al-buḥūth.
+004228118 830 0 L $$606$$aسلسلة آفاق الدراسات والبحوث.
+004228118 8590  L $$aNNU$$bBOBST$$cMAIN$$hLA1816$$i.S853 2015$$p31142059512700
+004228118 FMT   L BK
+004228189 LDR   L ^^^^^cam^a2200397^i^4500
+004228189 001   L 004228189
+004228189 003   L NNU
+004228189 005   L 20160705110134.0
+004228189 008   L 160203s2015^^^^ti^^^^^^^b^^^^000^0^ara^c
+004228189 040   L $$aLEILA$$beng$$erda$$cLEILA$$dOSU
+004228189 066   L $$c(3
+004228189 020   L $$a9789938854305$$q(pbk.)
+004228189 020   L $$a9938854303$$q(pbk.)
+004228189 035   L $$a(OCoLC)936619467
+004228189 042   L $$apcc
+004228189 050 4 L $$aKBP440.32.S575$$bA35 2015
+004228189 1001  L $$601$$aShitīwī, Muḥammad,$$eauthor.
+004228189 1001  L $$601$$aشتيوى، محمد.
+004228189 24513 L $$602$$aal-Manṭūq wa-al-mafhūm /$$cD. Muḥammad al-Shitīwī.
+004228189 24512 L $$602$$aالمنطوق والمفهوم /$$cد. محمد الشتيوى.
+004228189 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228189 250   L $$603$$aالطبعة الأولى.
+004228189 264 1 L $$604$$aTūnis :$$bMaktabat Tūnis,$$c2015.
+004228189 264 1 L $$604$$aتونس :$$bمكتبة تونس،$$c2015.
+004228189 300   L $$a159 pages ;$$c21 cm
+004228189 336   L $$atext$$btxt$$2rdacontent
+004228189 337   L $$aunmediated$$bn$$2rdamedia
+004228189 338   L $$avolume$$bnc$$2rdacarrier
+004228189 504   L $$aIncludes bibliographical references (pages 147-156).
+004228189 650 0 L $$aIslamic law$$xInterpretation and construction.
+004228189 650 7 L $$605$$aIslamic law$$xInterpretation and construction$$2fast$$0(OCoLC)fst00979955
+004228189 650 7 L $$605$$aالفقه الإسلامي، أصول.$$2qrmak
+004228189 8590  L $$aNNU$$bBOBST$$cMAIN$$hKBP440.32.S575$$iA35 2015$$p31142059512767
+004228189 FMT   L BK
+004230057 LDR   L ^^^^^cam^a2200349^a^4500
+004230057 001   L 004230057
+004230057 003   L NNU
+004230057 005   L 20160705042659.0
+004230057 008   L 150119s2014^^^^ua^^^^^^^b^^^^000^0^ara^d
+004230057 040   L $$aLEILA$$beng$$cLEILA$$dOCLCQ$$dTEF
+004230057 066   L $$c(3
+004230057 020   L $$z9981290792
+004230057 035   L $$a(OCoLC)900999890
+004230057 050 4 L $$aPJ7510$$b.D848 2014
+004230057 1001  L $$601$$aDūhū, Muḥammad.
+004230057 1001  L $$601$$aدوهو، محمد.
+004230057 24510 L $$602$$aḤiwār al-nuṣūṣ bayna al-riwāyah al-ʻArabīyah wa-al-riwāyah al-ʻālamīyah :$$babḥāth /$$cMuḥammad al-Dūhū.
+004230057 24510 L $$602$$aحوار النصوص بين الرواية العربية والرواية العالمية :$$bأبحاث /$$cمحمد الدوهو.
+004230057 250   L $$603$$aal-Ṭabʻah 1.
+004230057 250   L $$603$$aالطبعة ١.
+004230057 260   L $$604$$a[Rabat?] :$$bIttiḥād Kuttāb al-Maghrib,$$c2014.
+004230057 260   L $$604$$a[Rabat?] :$$bإتحاد كتاب المغرب،$$c2014.
+004230057 300   L $$a106 pages ;$$c23 cm
+004230057 336   L $$atext$$btxt$$2rdacontent
+004230057 337   L $$aunmediated$$bn$$2rdamedia
+004230057 338   L $$avolume$$bnc$$2rdacarrier
+004230057 504   L $$aIncludes bibliographical references.
+004230057 650 0 L $$aArabic fiction$$xHistory and criticism.
+004230057 8590  L $$aNNU$$bBOBST$$cMAIN$$hPJ7510$$i.D848 2014$$p31142056885885
+004230057 FMT   L BK
+004228083 LDR   L ^^^^^nam^a2200361^i^4500
+004228083 001   L 004228083
+004228083 003   L NNU
+004228083 005   L 20160705010409.0
+004228083 008   L 160705s2015^^^^ti^^^^^^^b^^^^000^0^ara^d
+004228083 040   L $$aNNU$$beng$$erda$$cTEF
+004228083 066   L $$c(3
+004228083 020   L $$a9789938854275
+004228083 020   L $$a9938854273
+004228083 035   L $$a(OCoLC)953036970
+004228083 050 4 L $$aBP170.82$$b.S536 2015
+004228083 1001  L $$601$$aShammām, al-Bashīr,$$eauthor.
+004228083 1001  L $$601$$aشمام، البشير،$$eauthor.
+004228083 24510 L $$602$$aRuʼyah fī al-muwāzanah bayna al-uṣūlīyah wa al-madhhabīyah /$$cD. al-Bashīr Shammām.
+004228083 24510 L $$602$$aرؤية في الموازنة بين الصولية و المذهبية /$$cد. البشير شمام.
+004228083 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228083 250   L $$603$$aالطبعة الأولى.
+004228083 264 1 L $$604$$aTūnis :$$bMaktabat Tūnis,$$c2015.
+004228083 264 1 L $$604$$aتونس :$$bمكتبة تونس،$$c2015.
+004228083 300   L $$a75 pages ;$$c21 cm
+004228083 336   L $$atext$$btxt$$2rdacontent
+004228083 337   L $$aunmediated$$bn$$2rdamedia
+004228083 338   L $$avolume$$bnc$$2rdacarrier
+004228083 504   L $$aIncludes bibliographical references.
+004228083 650 0 L $$aIslam$$xUnity.
+004228083 650 0 L $$aIslamic sects.
+004228083 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP170.82$$i.S536 2015$$p31142059513005
+004228083 FMT   L BK
+004230240 LDR   L ^^^^^cam^a2200361^i^4500
+004230240 001   L 004230240
+004230240 003   L NNU
+004230240 005   L 20160705044334.0
+004230240 008   L 160705s2014^^^^mr^^^^^^^b^^^^000^0^ara^d
+004230240 040   L $$aNNU$$beng$$erda$$cTEF$$dTEF
+004230240 066   L $$c(3
+004230240 020   L $$z9789254342859
+004230240 035   L $$a(OCoLC)953045806
+004230240 050 4 L $$aPJ8006$$b.A439 2014
+004230240 1001  L $$601$$aʻAlawī, ʻAbd Allāh Binaṣr,$$eauthor.
+004230240 1001  L $$601$$aعلوي، عبد الله بنصر،$$eauthor.
+004230240 24510 L $$602$$aMaʻālim adabīyah Imārātīyah /$$cal-duktūr ʻAbd Allāh Binaṣr al-ʻAlawī.
+004230240 24510 L $$602$$aمعال ادبية اماراتية /$$cالدكتور عبد الله بنصر العلوي.
+004230240 264 1 L $$603$$a[Morocco] :$$bal-Markaz al-Akādīmī lil-Thaqāfah wa-al-Dirāsāt al-Maghāribīyah wa-al-Sharq al-Awsaṭīyah,$$c2014.
+004230240 264 1 L $$603$$a[Morocco] :$$bالمركز الاكاديمي للثقافة والدراسات المغاربية والشرق الاوسطية،$$c2014.
+004230240 300   L $$a119 pages ;$$c24 cm
+004230240 336   L $$atext$$btxt$$2rdacontent
+004230240 337   L $$aunmediated$$bn$$2rdamedia
+004230240 338   L $$avolume$$bnc$$2rdacarrier
+004230240 4901  L $$604$$aṢaḥabat al-adabīyah wa-al-Imārātīyah ;$$v3
+004230240 4901  L $$604$$aصحبة الادبية والاماراتية ؛$$v3
+004230240 504   L $$aIncludes bibliographical references.
+004230240 650 0 L $$aArabic literature$$zUnited Arab Emirates$$xHistory and criticism.
+004230240 830 0 L $$605$$aṢaḥabat al-adabīyah wa-al-Imārātīyah ;$$v3.
+004230240 830 0 L $$605$$aصحبة الادبية والاماراتية ؛$$v3.
+004230240 8590  L $$aNNU$$bBOBST$$cMAIN$$hPJ8006$$i.A439 2014$$p31142056886222
+004230240 FMT   L BK
+004228095 LDR   L ^^^^^cam^a2200445^i^4500
+004228095 001   L 004228095
+004228095 003   L NNU
+004228095 005   L 20160705103244.0
+004228095 008   L 150730s2014^^^^ti^^^^^^^b^^^^000^0^ara^^
+004228095 010   L $$a  2015353915
+004228095 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004228095 066   L $$c(3
+004228095 020   L $$a9789973284334
+004228095 020   L $$a997328433X
+004228095 035   L $$a(OCoLC)920681064
+004228095 042   L $$apcc$$alcode
+004228095 050 4 L $$aHC820$$b.B374 2014
+004228095 1001  L $$601$$aBarhūmī, Ṣalāḥ al-Dīn,$$eauthor.
+004228095 1001  L $$601$$aبرهومي، صلاح الدين.
+004228095 24513 L $$602$$aal-Shamāl al-Gharbī al-jabalī al-majāl al-zirāʻī wa-maṣādir al-ʻumlah /$$cṢalāḥ al-Dīn Barhūmī.
+004228095 24512 L $$602$$aالشمال الغربي الجبلي المجال الزراعي ومصادر العملة /$$cصلاح الدين برهومي.
+004228095 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004228095 250   L $$603$$aالطبعة الأولى.
+004228095 264 1 L $$604$$aTūnis :$$bDār Saḥar lil-Nashr,$$c[2014]
+004228095 264 1 L $$604$$aتونس :$$bدار سحر للنشر،$$c[2014]
+004228095 300   L $$a132 pages ;$$c20 cm.
+004228095 336   L $$atext$$btxt$$2rdacontent
+004228095 337   L $$aunmediated$$bn$$2rdamedia
+004228095 338   L $$avolume$$bnc$$2rdacarrier
+004228095 4901  L $$605$$aSilsilat kitāb al-shahr ;$$v9
+004228095 4901  L $$605$$aسلسلة كتاب الشهر ؛$$v9
+004228095 504   L $$aIncludes bibliographical references.
+004228095 650 0 L $$aAgriculture$$zTunisia.
+004228095 650 0 L $$aMoney$$zTunisia.
+004228095 651 0 L $$aTunisia$$xEconomic conditions.
+004228095 830 0 L $$606$$aSilsilat kitāb al-shahr (Tunis, Tunisia) ;$$v9.
+004228095 830 0 L $$606$$aسلسلة كتاب الشهر (تونس، التونس) ؛$$v9.
+004228095 8590  L $$aNNU$$bBOBST$$cMAIN$$hHC820$$i.B374 2014$$p31142059512957
+004228095 FMT   L BK
+004230215 LDR   L ^^^^^cam^a2200529^i^4500
+004230215 001   L 004230215
+004230215 003   L NNU
+004230215 005   L 20160705030437.0
+004230215 008   L 160414s2013^^^^mr^ah^^^^b^^^^000^0dara^d
+004230215 040   L $$aHLS$$beng$$erda$$cHLS$$dOSU$$dPAU$$dTEF
+004230215 066   L $$c(3
+004230215 020   L $$a9789954437209$$q(pbk.)
+004230215 020   L $$a9954437207$$q(pbk.)
+004230215 020   L $$q(hbk.)
+004230215 020   L $$q(pbk.)
+004230215 035   L $$a(OCoLC)946613343
+004230215 043   L $$af-mr---
+004230215 05000 L $$aPJ7816.I5$$bZ68 2013
+004230215 1001  L $$601$$aLūmah, Muḥammad,$$eauthor.
+004230215 1001  L $$601$$aلومة، محمد.
+004230215 24510 L $$602$$aMuḥammad bin al-Ḥusayn al-shāʻir alladhī aḥabba waṭanahu :$$bmalāmiḥ min ḥayātihi wa-naẓarāt fī shiʻrihi, 1927-1989 /$$cMuḥammad Lūmah, Muḥammad Iḥmīdah ; taqdīm ʻAbd al-Karīm Banānī.
+004230215 24510 L $$602$$aمحمد بن الحسين الشاعر الذي أحب وطنه :$$bملامح من حياته ونظرات في شعره، 1927-1989 /$$cمحمد لومة، محمد احميدة ؛ تقديم عبد الكريم بناني.
+004230215 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004230215 250   L $$603$$aالطبعة الأولى.
+004230215 264 1 L $$604$$aal-Rabāṭ :$$bManshūrāt Jamʻīyat Rabāṭ al-Fatḥ,$$c2013.
+004230215 264 1 L $$604$$aالرباط :$$bمنشورات جمعية رباط الفتح،$$c2013.
+004230215 300   L $$a199 pages :$$billustrations, facsimiles ;$$c21 cm
+004230215 336   L $$atext$$btxt$$2rdacontent
+004230215 337   L $$aunmediated$$bn$$2rdamedia
+004230215 338   L $$avolume$$bnc$$2rdacarrier
+004230215 504   L $$aIncludes bibliographical references.
+004230215 60010 L $$605$$aBin al-Ḥusayn, Muḥammad,$$dapproximately 1927-1989.
+004230215 60014 L $$605$$aبن الحسين، محمد،$$dنحو 1927-1989.
+004230215 650 0 L $$aArabic poetry$$zMorocco$$xHistory and criticism.
+004230215 650 7 L $$606$$aArabic poetry$$2fast$$0(OCoLC)fst00812533
+004230215 650 7 L $$606$$aالشعر العربي.$$2qrmak
+004230215 651 7 L $$607$$aMorocco$$2fast$$0(OCoLC)fst01205592
+004230215 651 7 L $$607$$aالمغرب.$$2qrmak
+004230215 655 7 L $$608$$aCriticism, interpretation, etc.$$2fast$$0(OCoLC)fst01411635
+004230215 655 7 L $$608$$aتاريخ و نقد.$$2qrmak
+004230215 7001  L $$609$$aIḥmīdah, Muḥammad,$$eauthor.
+004230215 7000  L $$609$$aاحميدة، محمد.
+004230215 7001  L $$610$$aBanānī, ʻAbd al-Karīm,$$d1977-$$ewriter of introduction.
+004230215 7001  L $$610$$aبناني، عبد الكريم،$$d1977-
+004230215 8590  L $$aNNU$$bBOBST$$cMAIN$$hPJ7816.I5$$iZ68 2013$$p31142056885935
+004230215 FMT   L BK
+004229979 LDR   L ^^^^^nam^a2200337^i^4500
+004229979 001   L 004229979
+004229979 003   L NNU
+004229979 005   L 20160705050234.0
+004229979 008   L 160705s2014^^^^mr^^^^^^^^^^^^000^0^ara^d
+004229979 040   L $$aNNU$$beng$$erda$$cTEF
+004229979 066   L $$c(3
+004229979 020   L $$a9789954341506
+004229979 020   L $$a9954341501
+004229979 035   L $$a(OCoLC)953045972
+004229979 050 4 L $$aGR353.3$$b.K535 2014
+004229979 1001  L $$601$$aKidīyah, al-Jalālī,$$eauthor.
+004229979 1001  L $$601$$aكدية، الجلالي$$eauthor.
+004229979 24510 L $$602$$aAnṭulūjīyā al-ḥikāyah al-shaʻbīyah al-Maghribīyah /$$cD. al-Jalālī al-Kidīyah.
+004229979 24510 L $$602$$aانطلوجيا الحكاية الشعبية المغربية /$$cد. الجلالي الكدية.
+004229979 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004229979 250   L $$603$$aالطبعة الأولى.
+004229979 264 1 L $$604$$aFās :$$bMaṭbaʻat Ānfū,$$c2014.
+004229979 264 1 L $$604$$aفاس :$$bمطبعة آنفو،$$c2014.
+004229979 300   L $$a223 pages ;$$c24 cm
+004229979 336   L $$atext$$btxt$$2rdacontent
+004229979 337   L $$aunmediated$$bn$$2rdamedia
+004229979 338   L $$avolume$$bnc$$2rdacarrier
+004229979 650 0 L $$aFolk literature, Arabic$$zMorocco.
+004229979 8590  L $$aNNU$$bBOBST$$cMAIN$$hGR353.3$$i.K535 2014$$p31142056885877
+004229979 FMT   L BK
+004136433 LDR   L ^^^^^cam^a2200481^i^4500
+004136433 001   L 004136433
+004136433 003   L NNU
+004136433 005   L 20160705022220.0
+004136433 008   L 140608s2013^^^^iq^^^^^^^b^^^f000^0^ara^^
+004136433 010   L $$a  2014337510
+004136433 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dOCLCF
+004136433 066   L $$c(3
+004136433 035   L $$a(OCoLC)918828286
+004136433 042   L $$apcc$$alcode
+004136433 043   L $$aa-iq---
+004136433 05000 L $$aKMJ3127$$b.N86 2013
+004136433 1001  L $$601$$aNuʻmān, Hindrīn Ashraf ʻIzzat,$$d1968-$$eauthor.
+004136433 1001  L $$601$$aنعمان، هندرين أشرف عزت.
+004136433 24513 L $$602$$aal-Qānūn al-duwalī al-insānī wa-al-talawwuth al-bīʼī :$$bal-ʻIrāq bi-shakl ʻāmm wa-Kūrdistān bi-shakl khāṣṣ /$$cHindrīn Ashraf ʻIzzat Nuʻmān.
+004136433 24512 L $$602$$aالقانون الدولي الإنساني والتلوث البيئي :$$bالعراق بشكل عام وكوردستان بشكل خاص /$$cهندرين أشرف عزت نعمان.
+004136433 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004136433 250   L $$603$$aالطبعة الأولى.
+004136433 264 1 L $$604$$aDahūk :$$bḤukūmat Iqlīm Kurdistān, Wizārat al-Thaqāfah wa-al-Shabāb, al-Mudīrīyah al-ʻĀmmah lil-Iʻlām wa-al-Ṭibāʻah wa-al-Nashr, Mudīrīyat al-Ṭibāʻah wa-al-Nashr,$$c2013.
+004136433 264 1 L $$604$$aدهوك :$$bحكومة إقليم كردستان، وزارة الثقافة والشباب، المديرية العامة للإعلام والطباعة والنشر، مديرية الطباعة والنشر،$$c2013.
+004136433 300   L $$a275 pages ;$$c21 cm
+004136433 336   L $$atext$$btxt$$2rdacontent
+004136433 337   L $$aunmediated$$bn$$2rdamedia
+004136433 338   L $$avolume$$bnc$$2rdacarrier
+004136433 504   L $$aIncludes bibliographical references (pages 257-270).
+004136433 520   L $$aEnvironmental protection; law and legislation; pollution; Iraq; Kurdistan.
+004136433 650 0 L $$aEnvironmental law$$zIraq.
+004136433 650 0 L $$aEnvironmental law$$zIraq$$zKurdistān.
+004136433 650 0 L $$aPollution$$xLaw and legislation$$zIraq.
+004136433 650 0 L $$aPollution$$xLaw and legislation$$zIraq$$zKurdistān.
+004136433 650 0 L $$aEnvironmental law, International.
+004136433 650 7 L $$aEnvironmental law.$$2fast$$0(OCoLC)fst00913122
+004136433 650 7 L $$aEnvironmental law, International.$$2fast$$0(OCoLC)fst00913170
+004136433 650 7 L $$aPollution$$xLaw and legislation.$$2fast$$0(OCoLC)fst01070119
+004136433 651 7 L $$aIraq.$$2fast$$0(OCoLC)fst01205757
+004136433 651 7 L $$aIraq$$zKurdistān.$$2fast$$0(OCoLC)fst01237479
+004136433 8590  L $$aNNU$$bBOBST$$cMAIN$$hKMJ3127$$i.N86 2013$$p31142058156160
+004136433 FMT   L BK
+004230225 LDR   L ^^^^^cam^a2200613^i^4500
+004230225 001   L 004230225
+004230225 003   L NNU
+004230225 005   L 20160705044630.0
+004230225 008   L 150918s2014^^^^mr^ah^^^^b^^^^001^0^ara^^
+004230225 010   L $$a  2015351962
+004230225 040   L $$aDLC$$beng$$erda$$cDLC$$dOSU$$dOCLCO
+004230225 066   L $$c(3
+004230225 020   L $$a9789954329337$$q(pbk.)
+004230225 020   L $$a9954329331$$q(pbk.)
+004230225 035   L $$a(OCoLC)946725344
+004230225 042   L $$alcode$$apcc
+004230225 043   L $$af-mr---
+004230225 050 4 L $$aNK3633.A18$$bB83 2014
+004230225 1001  L $$601$$aBūʻaṣab, Imbārak,$$eauthor.
+004230225 1001  L $$601$$aبوعصب، إمبارك.
+004230225 24513 L $$602$$aal-Murāsalāt wa-al-wathāʼiq al-sulṭānīyah khilāl al-ʻAṣr al-ʻAlawī :$$bmusāhamah fī dirāsat al-khaṭṭ al-mujawhar wa-simātihi al-fannīyah /$$cD.Imbārak Būʻaṣab.
+004230225 24512 L $$602$$aالمراسلات والوثائق السلطانية خلال العصر العلوي :$$bمساهمة في دراسة الخط المجوهر وسماته الفنية /$$cد.مبارك بوعصب.
+004230225 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004230225 250   L $$603$$aالطبعة الأولى.
+004230225 264 1 L $$604$$a[Rabat?] :$$bImbārak Būʻaṣab,$$c2014.
+004230225 264 1 L $$604$$a[Rabat?] :$$bامبارك بوعصب،$$c2014.
+004230225 300   L $$a207 pages :$$billustrations (chiefly color), facsimiles (some color) ;$$c24 cm
+004230225 336   L $$atext$$btxt$$2rdacontent
+004230225 337   L $$aunmediated$$bn$$2rdamedia
+004230225 338   L $$avolume$$bnc$$2rdacarrier
+004230225 504   L $$aIncludes bibliographical references (pages 195-200) and indexes.
+004230225 520   L $$aManuscripts; calligraphy; history; interpretation and criticism.
+004230225 650 0 L $$aCalligraphy, Arabic$$zMorocco$$xHistory.
+004230225 650 0 L $$aManuscripts, Arabic$$zMorocco$$xHistory.
+004230225 650 0 L $$aArabic language$$xWriting$$xHistory.
+004230225 650 0 L $$aWriting, Arabic$$xHistory.
+004230225 650 7 L $$605$$aCalligraphy, Arabic$$2fast$$0(OCoLC)fst00844384
+004230225 650 7 L $$605$$aالخط العربي.$$2qrmak
+004230225 650 7 L $$606$$aManuscripts, Arabic$$2fast$$0(OCoLC)fst01008278
+004230225 650 7 L $$606$$aالمخطوطات العربية.$$2qrmak
+004230225 650 7 L $$607$$aArabic language$$2fast$$0(OCoLC)fst00812287
+004230225 650 7 L $$607$$aاللغة العربية.$$2qrmak
+004230225 650 7 L $$608$$aWriting$$2fast$$0(OCoLC)fst01181638
+004230225 650 7 L $$608$$aالكتابة.$$2qrmak
+004230225 650 7 L $$609$$aWriting, Arabic$$2fast$$0(OCoLC)fst01181678
+004230225 650 7 L $$609$$aالكتابة العربية.$$2qrmak
+004230225 651 7 L $$610$$aMorocco$$2fast$$0(OCoLC)fst01205592
+004230225 651 7 L $$610$$aالمغرب.$$2qrmak
+004230225 655 7 L $$611$$aHistory$$2fast$$0(OCoLC)fst01411628
+004230225 655 7 L $$611$$aتاريخ.$$2qrmak
+004230225 8590  L $$aNNU$$bBOBST$$cMAIN$$hNK3633.A18$$iB83 2014$$p31142056885893
+004230225 650 7 L $$600$$aالخط المجوهر.$$2local/OSU
+004230225 FMT   L BK
+004133297 LDR   L ^^^^^cam^a2200373^a^4500
+004133297 001   L 004133297
+004133297 003   L NNU
+004133297 005   L 20160705041130.0
+004133297 008   L 150131s2012^^^^su^a^^^^^b^^^^001^0^ara^d
+004133297 040   L $$aLEILA$$beng$$cLEILA$$dOCLCQ$$dTEF
+004133297 066   L $$c(3
+004133297 020   L $$a9786030044061
+004133297 020   L $$a6030044060
+004133297 035   L $$a(OCoLC)902603922
+004133297 050 4 L $$aDS247.Y47$$bA598 2012
+004133297 1001  L $$601$$aĀl Zuḥayfah, ʻAlī ibn Saʻd.
+004133297 1001  L $$601$$aآل زحيفة، علي بن سعد.
+004133297 24510 L $$602$$aḤukm wa-ḥaḍārat al-malikayn Shahrān Ibn Nahfān wa-Shahrān Ibn Baynūn :$$bdirāsah fī al-tārīkh al-Yamanī al-qadīm /$$ctaʼlīf ʻAlī ibn Saʻd Āl Zuḥayfah al-Shahrānī.
+004133297 24510 L $$602$$aحكم وحضارة الملكين شهران بن نهان وشهران بن بينون :$$bدراسة في التاريخ اليمني /$$cتأليف علي بن سعد آل زحيفة الشهراني.
+004133297 250   L $$603$$aal-Ṭabʻah 1.
+004133297 250   L $$603$$aالطبعة ١.
+004133297 260   L $$604$$aMakkah al-Mukarramah :$$bSaʻd Āl Zuḥayfah al-Shahrānī,$$c2012.
+004133297 260   L $$604$$aمكة المكرمة :$$bسعد آل زحيفة الشهراني،$$c2012.
+004133297 300   L $$a337 pages :$$billustrations, color ;$$c24 cm
+004133297 336   L $$atext$$btxt$$2rdacontent
+004133297 337   L $$aunmediated$$bn$$2rdamedia
+004133297 338   L $$avolume$$bnc$$2rdacarrier
+004133297 504   L $$aIncludes bibliographical references (pages 331-334) and indexes.
+004133297 651 0 L $$aYemen (Republic)$$xKings and rulers.
+004133297 651 0 L $$aYemen (Republic)$$xHistory.
+004133297 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS247.Y47$$iA598 2012$$p31142058154991
+004133297 FMT   L BK
+004228097 LDR   L ^^^^^nam^a2200373^i^4500
+004228097 001   L 004228097
+004228097 003   L NNU
+004228097 005   L 20160705021423.0
+004228097 008   L 160705s2014^^^^ti^^^^^^^b^^^^100^0^ara^d
+004228097 040   L $$aNNU$$beng$$erda$$cTEF
+004228097 066   L $$c(3
+004228097 035   L $$a(OCoLC)953040966
+004228097 050 4 L $$aPN5359$$b.A844 2011
+004228097 1112  L $$601$$aAshghāl al-Multaqá al-Duwalī$$d(2011 :$$cTunis, Tunisia)
+004228097 1112  L $$601$$aاشغال الملتقى الدولي$$d(2011 :$$cتونس، التونس)
+004228097 24510 L $$602$$aṢuḥufī al-yawm fī ʻaṣr ʻawlamat al-ittiṣāl :$$bmithāl al-duwal al-ʻArabīyah wa-al-Ifrīqīyah /$$cmunassaqan al-multaqá, D. Ḥamīdah al-Būr wa-D. Muḥammad al-ʻArabī Shuwaykhah.
+004228097 24510 L $$602$$aصحفي اليوم في عصر عولمة الاتصال :$$bمثال الدول العربية والإفريقية /$$cمنسقن الملتقى، د. حميدة البور ود. محمد العربي شويخة.
+004228097 24615 L $$aÊtre journaliste, aujourd'hui, à l'ère de la mondialisation de la communication :$$bl'exemple des pays arabes et africains
+004228097 2461  L $$603$$iAt head of title:$$aAshghāl al-Multaqá al-Duwalī, 21 wa-22 Afrīl 2011, Tūnis
+004228097 2461  L $$603$$iAt head of title:$$aاشغال الملتقى الدولي، 21 و22 افريل 2011، تونس
+004228097 264 1 L $$604$$aTūnis :$$bMaʻhad al-Ṣaḥāfah,$$c2014.
+004228097 264 1 L $$604$$aتونس :$$bمعهد الصحافة،$$c2014.
+004228097 300   L $$a147, 108 pages ;$$c21 cm
+004228097 336   L $$atext$$btxt$$2rdacontent
+004228097 337   L $$aunmediated$$bn$$2rdamedia
+004228097 338   L $$avolume$$bnc$$2rdacarrier
+004228097 546   L $$aIn Arabic and French.
+004228097 504   L $$aIncludes bibliographical references.
+004228097 650 0 L $$aMass media$$zArab countries.
+004228097 650 0 L $$aMass media$$zAfrica.
+004228097 650 0 L $$aMass media and globalization.
+004228097 8590  L $$aNNU$$bBOBST$$cMAIN$$hPN5359$$i.A844 2011$$p31142059512650
+004228097 FMT   L BK

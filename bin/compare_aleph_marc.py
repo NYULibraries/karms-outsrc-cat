@@ -12,7 +12,7 @@ batch_dir = '../submissions/TechPro/'+batch_name+'/'
 
 #INPUT Files
 orig_marc_recs = pymarc.MARCReader(file(batch_dir + batch_name + '_pkgd_marc_final.mrc'), to_unicode=True, force_utf8=True)
-curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160628_25r/' + batch_name + '_ret_20160628_25r_bsns.mrc'), to_unicode=True, force_utf8=True)
+curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160706_25r/' + batch_name + '_ret_20160706_25r_bsns.mrc'), to_unicode=True, force_utf8=True)
 
 orig_recs_dict = {}
 for orig_rec in orig_marc_recs:
@@ -20,7 +20,7 @@ for orig_rec in orig_marc_recs:
 	orig_recs_dict[orig_bsn] = orig_rec
 
 bsns_changed = open('bsns_changed.txt', 'w')
- 
+bsns_changed.write('BATCH: '+batch_name+'\n--------------------------------------------\n--------------------------------------------\n')
 
 for curr_rec in curr_marc_recs:
 	curr_rec.remove_fields('FMT')
