@@ -1,0 +1,1875 @@
+004202405 LDR   L ^^^^^cam^a2200541^i^4500
+004202405 001   L 004202405
+004202405 003   L NNU
+004202405 005   L 20160426104258.0
+004202405 008   L 150630s2015^^^^ir^h^^^^^b^^^^100^0^per^^
+004202405 010   L $$a  2015326585
+004202405 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dOCLCA$$dTEF
+004202405 066   L $$c(3$$c(4
+004202405 020   L $$a9789649887494
+004202405 020   L $$a9649887490
+004202405 035   L $$a(OCoLC)913117220
+004202405 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202405 042   L $$alcode
+004202405 043   L $$aa-ir---$$aa-iq---
+004202405 05000 L $$aDS274.2.I57$$bA238 2015
+004202405 1112  L $$601$$aHamāyish-i Bayn al-Milalī-i Mīrās̲-i Mushtarak-i Īrān va ʻIrāq$$n(1st :$$d2015 :$$cTehran, Iran)
+004202405 1112  L $$601$$aهمايش بين المللى ميراث مشترک ايران و عراق.
+004202405 24510 L $$602$$aYakṣad sanad az ravābiṭ-i farhangī-i Īrān va ʻIrāq :$$bmawjūd dar Kitābkhānah-i Majlis-i Shūrā-yi Islāmī - Tihrān, Īrān /$$cbih kūshish-i, Asad Allāh ʻAbdulī Āshtiyānī
+004202405 24510 L $$602$$aيکصد سند از روابط فرهنگى ايران و عراق :$$bموجود در کتابخانه مجلس شوراى اسلامى - تهران، ايران /$$cبه کوشش، اسد الله عبدلى آشتيانى
+004202405 250   L $$603$$aChāp-i avval.
+004202405 250   L $$603$$aچاپ اول.
+004202405 264 1 L $$604$$aQum :$$bNashr-i Majmaʻ-i Z̲akhāʼir-i Islāmī, bā hamkārī-i Kitābkhānah-i Majlis-i Shūrā-yi Islāmī,$$c2015.
+004202405 264 1 L $$604$$aقم :$$bنشر مجمع ذخائر اسلامى، با همکارى کتابخانه مجلس شوراى اسلامى،$$c2015.
+004202405 300   L $$a18, 99 pages :$$bchiefly facsimiles ;$$c24 cm.
+004202405 336   L $$atext$$btxt$$2rdacontent
+004202405 337   L $$aunmediated$$bn$$2rdamedia
+004202405 338   L $$avolume$$bnc$$2rdacarrier
+004202405 4900  L $$605$$aMuʻarrifī-i mīrās̲-i makhṭūṭ ;$$v243
+004202405 4900  L $$605$$aمعرفى ميراث مخطوط ؛$$v243
+004202405 504   L $$aIncludes bibliographical references.
+004202405 500   L $$a"Bih munāsabat-i Avvalīn Hamāyish-i Bayn al-Milalī-i Mīrās̲-i Mushtarak-i Īrān va ʻIrāq, Isfand 1393 Sh / Mārs 2015 M"
+004202405 520   L $$aIran - Relations - Iraq ; Iraq - Relations - Iran.
+004202405 546   L $$aIn Persian.
+004202405 651 0 L $$aIran$$xRelations$$zIraq$$vSources.
+004202405 651 0 L $$aIraq$$xRelations$$zIran$$vSources.
+004202405 7001  L $$606$$aʻAbdulī Āshtiyānī, Asad Allāh,$$ecompiler.
+004202405 7001  L $$606$$aعبدلى آشتيانى، اسد الله.
+004202405 7101  L $$607$$aIran.$$bMajlis-i Shūrā-yi Islāmī.$$bKitābkhānah, Mūzih va Markaz-i Asnād.
+004202405 7101  L $$607$$aايران.$$bمجلس شوراى اسلامى.$$bکتابخانه، موزه و مرکز اسناد.
+004202405 7102  L $$608$$aMajmaʻ-i Z̲akhāʼir-i Islāmī (Qum, Iran)
+004202405 7102  L $$608$$aمجمع ذخائر اسلامى (قم، ايران)
+004202405 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS274.2.I57$$iA238 2015$$p31142059874779
+004202405 FMT   L BK
+004202376 LDR   L ^^^^^cam^a2200505^i^4500
+004202376 001   L 004202376
+004202376 003   L NNU
+004202376 005   L 20160425035522.0
+004202376 008   L 150629s2014^^^^ir^a^^^^^^^^^^000^0aper^^
+004202376 010   L $$a  2015326563
+004202376 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dHLS$$dTEF
+004202376 066   L $$c(3$$c(4
+004202376 020   L $$a9786001756924
+004202376 020   L $$a6001756929
+004202376 035   L $$a(OCoLC)912508455
+004202376 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202376 042   L $$alcode
+004202376 050 4 L $$aDS318.84.Q2595$$bA3 2014
+004202376 1001  L $$601$$aQizilī, Mahdī,$$d1980 or 1981-$$eauthor.
+004202376 1001  L $$601$$aقزلى، مهدى.
+004202376 24510 L $$602$$aJā-yi pā-yi Jalāl /$$cMahdī Qizilī.
+004202376 24510 L $$602$$aجاى پاى جلال /$$cمهدى قزلى.
+004202376 250   L $$603$$aChāp-i avval.
+004202376 250   L $$603$$aچاپ اول.
+004202376 264 1 L $$604$$aTihrān :$$bIntishārāt-i Sūrah-i Mihr (vābastah bih Ḥawzah-i Hunarī) :$$bKhabarʹguzārī-i Mihr,$$c1393 [2014 or 2015].
+004202376 264 1 L $$604$$aتهران :$$bانتشارات سوره مهر (وابسته به حوزه هنرى) :$$bخبر‌گزارى مهر،$$c1393 [2014 or 2015].
+004202376 300   L $$a336 pages ;$$billustrations ;$$c21 cm
+004202376 336   L $$atext$$btxt$$2rdacontent
+004202376 337   L $$aunmediated$$bn$$2rdamedia
+004202376 338   L $$avolume$$bnc$$2rdacarrier
+004202376 546   L $$aIn Persian.
+004202376 500   L $$a"Sūrah-i Mihr, Nāshir-i bartar-i Andīshah va Hunar-i Inqilāb-i Islāmī ; Intishārāt-i Rasānah (Vābastah bih Khabarʹguzārī-i Mihr)"--Page 4 of cover.
+004202376 520   L $$aQizilī, Mahdī, 1980 or 1981- -- Diaries ; Āl Aḥmad, Jalāl ; Description and travel.
+004202376 60010 L $$605$$aQizilī, Mahdī,$$d1980 or 1981-$$vTravel.
+004202376 60014 L $$605$$aقزلى، مهدى،.
+004202376 60010 L $$aQizilī, Mahdī,$$d1980 or 1981-$$vDiaries.
+004202376 60010 L $$606$$aĀl Aḥmad, Jalāl$$xTravel.
+004202376 60014 L $$606$$aآل احمد، جلال.
+004202376 7102  L $$607$$aShirkat-i Intishārāt-i Sūrah-i Mihr.
+004202376 7102  L $$607$$aشرکت انتشارات سوره مهر.
+004202376 7102  L $$608$$aSāzmān-i Tablīghāt-i Islāmī (Tehran, Iran).$$bḤawzah-ʼi Hunarī.
+004202376 7102  L $$608$$aسازمان تبليغات اسلامى (تهران، اىران).$$bحوزۀ هنرى.
+004202376 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS318.84.Q2595$$iA3 2014$$p31142059874571
+004202376 FMT   L BK
+004202309 LDR   L ^^^^^cam^a2200457^i^4500
+004202309 001   L 004202309
+004202309 003   L NNU
+004202309 005   L 20160426014650.0
+004202309 008   L 150910s2014^^^^ir^afh^^^b^^^^001^0^per^c
+004202309 040   L $$aOSU$$beng$$erda$$cOSU$$dOCLCF$$dNOC$$dTEF
+004202309 066   L $$c(3$$c(4
+004202309 020   L $$a9789646357624
+004202309 020   L $$a9646357628
+004202309 035   L $$a(OCoLC)920678238
+004202309 042   L $$apcc
+004202309 043   L $$aa-ir---
+004202309 050 4 L $$aHQ1236.5.I7$$bF38 2014
+004202309 1001  L $$601$$aFatḥī, Maryam,$$eauthor.
+004202309 1001  L $$601$$aفتحى، مريم.
+004202309 24510 L $$602$$aKānūn-i Bānuvān :$$bbā rūykardī bih rīshahʹhā-yi tārīkhī-i ḥarakat'hā-yi zanān dar Īrān /$$cMaryam Fatḥī.
+004202309 24510 L $$602$$aكانون بانوان :$$bبا رويكردى به ريشه‌هاى تاريخى حركتهاى زنان در ايران /$$cمريم فتحى.
+004202309 250   L $$603$$aChāp-i duvvum.
+004202309 250   L $$603$$aچاپ دوم.
+004202309 264 1 L $$604$$aTihrān :$$bMuʼassasah-i Muṭāliʻāt-i Tārīkh-i Muʻāṣir-i Īrān,$$c1393 [2014]
+004202309 264 1 L $$604$$aتهران :$$bمؤسسه مطالعات تاريخ معاصر ايران،$$c1393 [2014]
+004202309 300   L $$a187 pages, 86 unnumbered pages of plates :$$billustrations, facsimiles ;$$c24 cm
+004202309 336   L $$atext$$btxt$$2rdacontent
+004202309 337   L $$aunmediated$$bn$$2rdamedia
+004202309 338   L $$avolume$$bnc$$2rdacarrier
+004202309 504   L $$aIncludes bibliographical references (pages 175-182) and index.
+004202309 650 0 L $$aWomen$$xPolitical activity$$zIran.
+004202309 61020 L $$605$$aKānūn-i Bānūvān.
+004202309 61024 L $$605$$aكانون بانوان.
+004202309 650 0 L $$aWomen$$zIran$$xSocieties and clubs.
+004202309 61027 L $$aKānūn-i Bānūvān.$$2fast$$0(OCoLC)fst01630129
+004202309 650 7 L $$aWomen$$xPolitical activity.$$2fast$$0(OCoLC)fst01734136
+004202309 650 7 L $$aWomen$$xSocieties and clubs.$$2fast$$0(OCoLC)fst01176970
+004202309 651 7 L $$aIran.$$2fast$$0(OCoLC)fst01204889
+004202309 8590  L $$aNNU$$bBOBST$$cMAIN$$hHQ1236.5.I7$$iF38 2014$$p31142059874530
+004202309 FMT   L BK
+004087026 LDR   L ^^^^^nam^a2200373^i^4500
+004087026 001   L 004087026
+004087026 003   L NNU
+004087026 005   L 20160425023450.0
+004087026 008   L 160425s2013^^^^ir^^^^^^^bd^^^000^0^per^d
+004087026 040   L $$aNNU$$beng$$erda$$cTEF
+004087026 066   L $$c(3$$c(4
+004087026 020   L $$a9786002201966$$cprint
+004087026 020   L $$a6002201963$$cprint
+004087026 035   L $$a(OCoLC)947722760
+004087026 0410  L $$aper$$apal
+004087026 050 4 L $$aPK6177.P4$$bI79 2013
+004087026 1001  L $$601$$aʻIryān, Muḥammad Saʻīd,$$eauthor.
+004087026 1001  L $$601$$aعرىان، محمد سعىد،$$eauthor.
+004087026 24510 L $$602$$aFarhang-i Pahlavī :$$bvāzhahʹnāmah-ʼi Pahlavī-pāzhand /$$cpizhūhish-i Saʻīd ʻIryān.
+004087026 24510 L $$602$$aفرهنگ پهلوى :$$bواژه‌نامۀ پهلوى-پاژند /$$cپژوهش سعىد عرىان.
+004087026 250   L $$603$$aChāp-i avval.
+004087026 250   L $$603$$aچاپ اول.
+004087026 264 1 L $$604$$aTihrān :$$bKitābkhānah, Mūzah va Markaz-i Asnād-i Majlis-i Shūrā-yi Islāmī,$$c1392 [2013 or 2014].
+004087026 264 1 L $$604$$aتهران :$$bکتابخانه، موزه و مرکز اسناد مجلس شوراى اسلامى،$$c1392 [2013 or 2014].
+004087026 300   L $$a683 pages ;$$c29 cm
+004087026 336   L $$atext$$btxt$$2rdacontent
+004087026 337   L $$aunmediated$$bn$$2rdamedia
+004087026 338   L $$avolume$$bnc$$2rdacarrier
+004087026 546   L $$aIn Persian.
+004087026 504   L $$aIncludes bibliographical references.
+004087026 650 0 L $$aPahlavi language$$vDictionaries$$xPersian.
+004087026 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6177.P4$$iI79 2013$$p31142057914882
+004087026 FMT   L BK
+004149651 LDR   L ^^^^^cam^a2200673^i^4500
+004149651 001   L 004149651
+004149651 003   L NNU
+004149651 005   L 20160425044101.0
+004149651 008   L 150130s2014^^^^ir^^^^^^^b^^^^000^0cper^^
+004149651 010   L $$a  2014310742
+004149651 040   L $$aDLC$$beng$$erda$$cDLC$$dLGG$$dTEF
+004149651 066   L $$c(3$$c(4
+004149651 020   L $$a9786003132030
+004149651 020   L $$a6003132035
+004149651 020   L $$a9786003132031
+004149651 035   L $$a(OCoLC)902599278
+004149651 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004149651 0410  L $$aper$$aeng
+004149651 042   L $$alcode
+004149651 043   L $$aa-ir---$$aa-ii---
+004149651 050 4 L $$aPK6416$$b.A933 2014
+004149651 1001  L $$601$$aĀzād Bilgrāmī, Ghulām ʻAlī ibn Nūḥ,$$d1704-1786,$$eauthor.
+004149651 1001  L $$601$$aآزاد بلگرامى، غلام على بن نوح.
+004149651 24510 L $$602$$aTaz̲karah-ʼi sarv-i Āzād :$$btaḥrīr-i nahāyī = Tad̲kīra-i sarw-i Āzād : final version /$$ctaʼlīf-i Mīr Ghulāmʻalī Āzād Bilgrāmī ; taṣḥīḥ-i Mīr Hāshim Muḥaddis̲.
+004149651 24510 L $$602$$aتذکرۀ سرو آزاد :$$bتحرير نهايى = Tad̲kīra-i sarw-i Āzād : final version /$$cتأليف مير غلامعلى آزاد بلگرامى ؛ تصحيح مير هاشم محدث.
+004149651 2463  L $$aTaz̲kirah-ʼi sarv-i Āzād
+004149651 250   L $$603$$aChāp-i avval.
+004149651 250   L $$603$$aچاپ اول.
+004149651 264 1 L $$604$$aTihrān :$$bSafīr-i Ardihāl,$$c2014.
+004149651 264 1 L $$604$$aتهران :$$bسفير اردهال،$$c2014.
+004149651 300   L $$a663 pages, 4 unnumbered pages ;$$c25 cm
+004149651 336   L $$atext$$2rdacontent
+004149651 337   L $$aunmediated$$2rdamedia
+004149651 338   L $$avolume$$2rdacarrier
+004149651 4901  L $$605$$aTaz̲kirahʹhā-yi Fārsī ;$$v10
+004149651 4901  L $$605$$aتذکره‌اى فارسى ؛$$v10
+004149651 546   L $$aIn Persian; introduction in English.
+004149651 504   L $$aIncludes bibliographical references (page 667).
+004149651 520   L $$aPoets, Persian - India - Biography; Persian poetry - India - History and criticism.
+004149651 5050  L $$606$$aFaṣl 1. Dar z̲ikr-i 143 shuʻarā-yi Fārsī -- Faṣl 2. Dar z̲ikr-i 8 shuʻarā-yi Hindī [i.e. Urdu].
+004149651 5050  L $$606$$aفصل 1. در ذکر 143 شعراى فارسى  فصل 2. در ذکر 8 شعراى هندى [ا.. ارد].
+004149651 650 0 L $$aPoets, Persian$$yEarly modern, 1500-1700.
+004149651 650 0 L $$aPoets, Persian$$y18th century.
+004149651 650 0 L $$aPoets, Persian$$zIndia.
+004149651 650 0 L $$aPersian poetry$$zIndia.
+004149651 650 0 L $$aPoets, Urdu$$yEarly modern, 1500-1700.
+004149651 650 0 L $$aPoets, Urdu$$y18th century.
+004149651 650 0 L $$aPoets, Urdu$$zIndia.
+004149651 650 0 L $$aUrdu poetry$$zIndia.
+004149651 651 0 L $$aBilgrām (India)$$vBiography.
+004149651 7001  L $$607$$aMuḥaddis̲, Mīr Hāshim,$$eeditor.
+004149651 7001  L $$607$$aمحدث، مير هاشم.
+004149651 830 0 L $$608$$aTaz̲kirahʹhā-yi Fārsī ;$$v10.
+004149651 830 0 L $$608$$aتذکره‌هاى فارسى ؛$$v10
+004149651 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6416$$i.A933 2014$$p31142059601248
+004149651 24010 L $$600$$aماءاثر الکرام.$$nدفتر 2
+004149651 24630 L $$600$$aسرو آزاد
+004149651 FMT   L BK
+004119757 LDR   L ^^^^^nam^a2200325^i^4500
+004119757 001   L 004119757
+004119757 003   L NNU
+004119757 005   L 20160425030557.0
+004119757 008   L 160425s2013^^^^ir^a^^^^^s^^^^000^0^eng^d
+004119757 040   L $$aNNU$$beng$$erda$$cTEF
+004119757 066   L $$c(3$$c(4
+004119757 020   L $$a9789643658670$$cprint
+004119757 020   L $$a9643658678$$cprint
+004119757 035   L $$a(OCoLC)947725519
+004119757 043   L $$aa-ir---
+004119757 050 4 L $$aHA4570.2$$b.A2 2013
+004119757 24500 L $$aIran statistical yearbook 1389 :$$b(2010-2011) /$$cStatistical Centre of Iran.
+004119757 264 1 L $$aTehran :$$bStatistical Centre of Iran,$$cApril 2013.
+004119757 300   L $$a958 pages :$$bcolor illustrations ;$$c28 cm
+004119757 336   L $$atext$$btxt$$2rdacontent
+004119757 337   L $$aunmediated$$bn$$2rdamedia
+004119757 338   L $$avolume$$bnc$$2rdacarrier
+004119757 650 0 L $$aStatistics$$zIran.
+004119757 651 0 L $$aIran$$xSocial conditions$$vStatistics.
+004119757 651 0 L $$aIran$$xEconomic conditions$$vStatistics.
+004119757 7102  L $$601$$aMarkaz-i Āmār-i Īrān,$$eproducer.
+004119757 7102  L $$601$$aمرکز آمار ايران،$$eproducer.
+004119757 8590  L $$aNNU$$bBOBST$$cMAIN$$hHA4570.2$$i.A2 2013$$p31142058105589
+004119757 FMT   L BK
+004149533 LDR   L ^^^^^cam^a2200673^i^4500
+004149533 001   L 004149533
+004149533 003   L NNU
+004149533 005   L 20160426110757.0
+004149533 008   L 150409s2014^^^^ir^a^^^^^b^^^^011^0bper^^
+004149533 010   L $$a  2015325171
+004149533 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCF$$dCGU
+004149533 066   L $$c(3$$c(4
+004149533 020   L $$a9789645281876
+004149533 020   L $$a9645281873
+004149533 035   L $$a(OCoLC)907133398
+004149533 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004149533 0410  L $$aper$$aara
+004149533 042   L $$alcode
+004149533 043   L $$aa-ir---
+004149533 090   L $$aBP80.F37$$bR34 2014
+004149533 1001  L $$601$$aRahbariyān, Muḥammad Riz̤ā.
+004149533 1001  L $$601$$aرهبريان، محمد رضا.
+004149533 24510 L $$602$$aShinākhtnāmah-ʼi Ustād ʻAlī Aṣghar Faqīhī :$$b1292-1382 Sh. = A book of recognition presented to Ostad Ali Asgar Faghihi /$$cbih kūshish-i Muḥammad Riz̤ā Rahbariyān zīr-i naẓar va ashrāf-i Mahdī Muḥaqqiq.
+004149533 24510 L $$602$$aشناختنامۀ استاد على اصغر فقيهى :$$b١٢٩٢-١٣٨٢ ش. = A book of recognition presented to Ostad Ali Asgar Faghihi /$$cبه کوشش محمد رضا رهبريان زير نظر و اشراف مهدى محقق.
+004149533 24615 L $$aBook of recognition presented to Ostad Ali Asgar Faghihi
+004149533 24630 L $$603$$aUstād ʻAlī Aṣghar Faqīhī
+004149533 24630 L $$603$$aاستاد على اصغر فقيهى
+004149533 250   L $$604$$aChāp-i avval.
+004149533 250   L $$604$$aچاپ اول.
+004149533 264 1 L $$605$$aTihrān :$$bAnjuman-i Ās̲ār va Mafākhir-i Farhangī,$$c2014.
+004149533 264 1 L $$605$$aتهران :$$bانجمن آثار و مفاخر فرهنگى،$$c2014.
+004149533 300   L $$a690 pages :$$billustrations ;$$c25 cm.
+004149533 336   L $$atext$$2rdacontent
+004149533 337   L $$aunmediated$$2rdamedia
+004149533 338   L $$avolume$$2rdacarrier
+004149533 4900  L $$606$$aSilsilah-i intishārāt-i Anjuman-i Ās̲ār va Mafākhir-i Farhangī ;$$v524
+004149533 4900  L $$606$$aسلسله انتشارات انجمن آثار و مفاخر فرهنگى ؛$$v524
+004149533 4900  L $$607$$aIntishārāt-i Anjuman-i Ās̲ār va Mafākhir-i Farhangī, dawrah-ʼi jadīd ;$$v6
+004149533 4900  L $$607$$aانتشارات انجمن آثار و مفاخر فرهنگى، دورۀ جديد ؛$$v6
+004149533 504   L $$aIncludes bibliographical references and indexes.
+004149533 520   L $$aFaqīhī, ʻAlī Aṣghar, 1913 or 1914-2003 ; Ulama - Iran -- Biography.
+004149533 546   L $$aIn Persian; includes Arabic citations.
+004149533 60010 L $$608$$aFaqīhī, ʻAlī Aṣghar,$$d1913 or 1914-2003.
+004149533 60014 L $$608$$aفقيهى، على اصغر.
+004149533 650 0 L $$aUlama$$zIran$$vBiography.
+004149533 60017 L $$aFaqīhī, ʻAlī Aṣghar,$$d1913 or 1914-2003.$$2fast$$0(OCoLC)fst01897978
+004149533 650 7 L $$aUlama.$$2fast$$0(OCoLC)fst01160605
+004149533 651 7 L $$aIran.$$2fast$$0(OCoLC)fst01204889
+004149533 655 7 L $$aBiography.$$2fast$$0(OCoLC)fst01423686
+004149533 7001  L $$609$$aMuḥaqqiq, Mahdī.
+004149533 7001  L $$609$$aمحقق، مهدى.
+004149533 7001  L $$610$$aFaqīhī, ʻAlī Aṣghar,$$d1913 or 1914-2003,$$ehonoree.
+004149533 7001  L $$610$$aفقيهى، على اصغر.
+004149533 7102  L $$611$$aAnjuman-i Ās̲ār va Mafākhir-i Farhangī.
+004149533 7102  L $$611$$aانجمن آثار و مفاخر فرهنگى.
+004149533 85641 L $$3Table of contents only$$uhttp://catdir.loc.gov/catdir/toc/fy16pdf02/2015325171.html
+004149533 8590  L $$aNNU$$bBOBST$$cMAIN$$p31142059600703
+004149533 FMT   L BK
+004202333 LDR   L ^^^^^cam^a2200433^i^4500
+004202333 001   L 004202333
+004202333 003   L NNU
+004202333 005   L 20160426011226.0
+004202333 008   L 150629s2014^^^^ir^a^^^^^b^^^^001^0^per^^
+004202333 010   L $$a  2015326543
+004202333 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004202333 066   L $$c(3$$c(4
+004202333 020   L $$a9786002781215
+004202333 020   L $$a6002781218
+004202333 035   L $$a(OCoLC)912508403
+004202333 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202333 042   L $$alcode
+004202333 043   L $$aa-ir---
+004202333 050 4 L $$aNB1280$$b.H383 2014
+004202333 1001  L $$601$$aḤasanī, Mīrzā Muḥammad,$$eauthor.
+004202333 1001  L $$601$$aحسنى، ميرزا محمد.
+004202333 24510 L $$602$$aNaqsh barʹjastahʹhā-yi nūʹyāftah-ʼi Sāsānī (1950-2004) /$$cMīrzā Muḥammad Ḥasanī.
+004202333 24510 L $$602$$aنقش بر‌جسته‌هاى نو‌يافتۀ ساسانى (١٩٥٠-٢٠٠٤) /$$cميرزا محمد حسنى.
+004202333 250   L $$603$$aChāp-i avval.
+004202333 250   L $$603$$aچاپ اول.
+004202333 264 1 L $$604$$aTihrān :$$bIntishārāt-i Quqnūs,$$c1393 [2014].
+004202333 264 1 L $$604$$aتهران :$$bانتشارات ققنوس،$$c1393 [2014].
+004202333 300   L $$a207 pages :$$billustrations ;$$c25 cm
+004202333 336   L $$atext$$btxt$$2rdacontent
+004202333 337   L $$aunmediated$$bn$$2rdamedia
+004202333 338   L $$avolume$$bnc$$2rdacarrier
+004202333 504   L $$aIncludes bibliographical references (pages 193-199) and index.
+004202333 546   L $$aIn Persian.
+004202333 650 0 L $$aRelief (Sculpture), Ancient$$zIran.
+004202333 650 0 L $$aSassanids.
+004202333 650 0 L $$aArt, Sassanid.
+004202333 8590  L $$aNNU$$bBOBST$$cMAIN$$hNB1280$$i.H383 2014$$p31142059874514
+004202333 FMT   L BK
+004202424 LDR   L ^^^^^cam^a2200493^i^4500
+004202424 001   L 004202424
+004202424 003   L NNU
+004202424 005   L 20160425025221.0
+004202424 008   L 150630s2014^^^^ir^a^^^^^^^^^^000^0^per^^
+004202424 010   L $$a  2015326609
+004202424 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004202424 066   L $$c(4$$c(3
+004202424 020   L $$a9789643065522
+004202424 020   L $$a9643065529
+004202424 035   L $$a(OCoLC)912874368
+004202424 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202424 0410  L $$aper$$aeng
+004202424 042   L $$alcode
+004202424 043   L $$aa-ir---
+004202424 050 4 L $$aNA3705$$b.P878 2014
+004202424 1001  L $$601$$aPūr Shīravī, Akbar,$$d1962 or 1963-$$eauthor.
+004202424 1001  L $$601$$aپور شيروى، اکبر.
+004202424 24510 L $$602$$aNuqūsh-i tazʼīnī-i Īrān dar hunar-i kāshīʹ kārī =$$bPersian decorative design in tile making art /$$cAkbar Pūr Shīravī ; mudīr-i fannī, Muḥammad Zāhidī.
+004202424 24510 L $$602$$aنقوش تزئينى ايران در هنر کاشى‌ کارى =$$bPersian decorative design in tile making art /$$cاکبر پور شىروى ؛ مدىر فنى، محمد زاهدى.
+004202424 24630 L $$603$$aHunar-i kāshīʹkārī
+004202424 24630 L $$603$$aهنر کاشى‌کارى
+004202424 2461  L $$iTitle on page 4 of cover:$$aPersian decorative design in tile making art
+004202424 24630 L $$aTile making art
+004202424 250   L $$604$$aChāp-i avval.
+004202424 250   L $$604$$aچاپ اول.
+004202424 264 1 L $$605$$aTihrān :$$bIntishārāt-i Yasāvulī,$$c1393 [2014 or 2015]
+004202424 264 1 L $$605$$aتهران :$$bانتشارات يساولى،$$c1393 [2014 or 2015].
+004202424 300   L $$a132 pages :$$billustrations (chiefly color) ;$$c22 cm
+004202424 336   L $$atext$$2rdacontent
+004202424 337   L $$aunmediated$$2rdamedia
+004202424 338   L $$avolume$$2rdacarrier
+004202424 546   L $$aIn Persian and English.
+004202424 500   L $$a" Rang-i panjum"--Title page verso.
+004202424 650 0 L $$aTiles$$zIran.
+004202424 7001  L $$606$$aZāhidī, Muḥammad,$$eeditor.
+004202424 7001  L $$606$$aزاهدى، محمد.
+004202424 8590  L $$aNNU$$bBOBST$$cMAIN$$hNA3705$$i.P878 2014$$p31142059874969
+004202424 FMT   L BK
+004202408 LDR   L ^^^^^cam^a2200481^i^4500
+004202408 001   L 004202408
+004202408 003   L NNU
+004202408 005   L 20160425041745.0
+004202408 008   L 150630s2014^^^^ir^a^^^^^b^^^^000^0^per^^
+004202408 010   L $$a  2015326588
+004202408 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202408 066   L $$c(4$$c(3
+004202408 020   L $$a9786006248387
+004202408 020   L $$a6006248387
+004202408 035   L $$a(OCoLC)913117025
+004202408 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202408 042   L $$alcode
+004202408 043   L $$aa-ir---
+004202408 050 4 L $$aDS266$$b.P875 2014
+004202408 1001  L $$601$$aPūrjaʻfar, Muḥammad Riz̤ā,$$d1956-$$eauthor.
+004202408 1001  L $$601$$aپورجعفر، محمد رضا.
+004202408 24510 L $$602$$aTajallī-i khurdah farhangʹhā-yi Īrānī Islāmī dar ṭarrāḥī-i faz̤āʹhā-yi shahrī =$$bManifestation of the Iranian-Islamic subculture in designing urban spaces /$$cDuktur Muḥammad Riz̤ā Pūrjaʻfar, Sayyid  ʻAlīriz̤ā Arbāb Zādagān Hāshimī, ʻAlī Pūr Jaʻfar.
+004202408 24510 L $$602$$aتجلى خرده فرهنگ‌هاى ايرانى اسلامى در طراحى فضا‌هاى شهرى =$$bManifestation of the Iranian-Islamic subculture in designing urban spaces /$$cدکتر محمد رضا پورجعفر، سيد عليرضا ارباب زادگان هاشمى، على پور جعفر.
+004202408 2461  L $$iTitle on page 4 of cover:$$aManifestation of the Iranian-Islamic subculture in designing urban spaces
+004202408 250   L $$603$$aChāp-i avval.
+004202408 250   L $$603$$aچاپ اول.
+004202408 264 1 L $$604$$aTihrān :$$bIntishārāt-i Ārmānʹshahr,$$c1393 [2014 or 2015].
+004202408 264 1 L $$604$$aتهران :$$bانتشارات آرمان‌شهر،$$c1393 [2014 or 2015].
+004202408 300   L $$a251 pages :$$billustrations (some color) ;$$c24 cm
+004202408 336   L $$atext$$2rdacontent
+004202408 337   L $$aunmediated$$2rdamedia
+004202408 338   L $$avolume$$2rdacarrier
+004202408 504   L $$aIncludes bibliographical references (pages 245-251).
+004202408 546   L $$aIn Persian.
+004202408 650 0 L $$aSubculture$$zIran.
+004202408 650 0 L $$aEthnicity$$xSocial aspects$$zIran.
+004202408 7001  L $$605$$aArbāb Zādagān Hāshimī, ʻAlīriz̤ā,$$d1984 or 1985-$$eauthor.
+004202408 7001  L $$605$$aارباب زادگان هاشمى، عليرضا.
+004202408 7001  L $$606$$aPūr Jaʻfar, ʻAlī,$$d1988 or 1989-$$eauthor.
+004202408 7001  L $$606$$aپور جعفر، على.
+004202408 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS266$$i.P875 2014$$p31142059874803
+004202408 FMT   L BK
+004202423 LDR   L ^^^^^cam^a2200481^i^4500
+004202423 001   L 004202423
+004202423 003   L NNU
+004202423 005   L 20160425031629.0
+004202423 008   L 150630s2014^^^^ir^ab^^^^b^^^^100^0^per^^
+004202423 010   L $$a  2015326608
+004202423 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dOCLCA$$dTEF
+004202423 066   L $$c(3$$c(4
+004202423 020   L $$a9789649887968
+004202423 020   L $$a9649887962
+004202423 035   L $$a(OCoLC)912874506
+004202423 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202423 042   L $$alcode
+004202423 050 4 L $$aNA1490.I72$$bH363 2015
+004202423 1112  L $$601$$aHamāyish-i Bayn al-Milalī-i Mīrās̲-i Mushtarak-i Īrān va ʻIrāq$$n(1st :$$d2015 :$$cTehran, Iran)
+004202423 1112  L $$601$$aهمايش بين المللى ميراث مشترک ايران و عراق.
+004202423 24510 L $$602$$aGuz̲arī bar mīrās̲-i miʻmārī-i ʻIrāq /$$cmuʼallifīn, Duktur Sumayyah Umīdvārī [and two others].
+004202423 24510 L $$602$$aگذرى بر ميراث معمارى عراق /$$cمؤلفين، دکتر سميه اميدوارى [و دو نفر ديگر].
+004202423 250   L $$603$$aChāp-i avval.
+004202423 250   L $$603$$aچاپ اول.
+004202423 264 1 L $$604$$aQum, Īrān :$$bMajmaʻ-i Z̲akhāʼir-i Islāmī, bā hamkārī-i Muʼassasah-i Āl al-Bayt ʻalayhim al-salām li-Iḥyāʼ al-Turās̲,$$c2015.
+004202423 264 1 L $$604$$aقم، ايران :$$bمجمع ذخائر اسلامى، با همکارى مؤسسه آل البيت عليهم السلام لاحياء التراث،$$c2015.
+004202423 300   L $$a314 pages :$$billustrations (chiefly color), maps ;$$c21 x 22 cm
+004202423 336   L $$atext$$btxt$$2rdacontent
+004202423 337   L $$aunmediated$$bn$$2rdamedia
+004202423 338   L $$avolume$$bnc$$2rdacarrier
+004202423 4900  L $$605$$aKitāb-i ḥāz̤ir bih munāsibat-i barguzārī-i Avvalīn Hamāyish-i Bayn al-Milalī-i Mīrās̲-i Mushtarak-i Īrān va ʻIrāq muntashir shudah ast.
+004202423 4900  L $$605$$aکتاب حاضر به مناسبت برگزارى اولىن هماىش بىن المللى مىراث مشترک ايران و عراق منتشر شده است.
+004202423 500   L $$a" Dabīrkhānah-ʼi Avvalīn Hamāyish-i Bayn al-Milalī-i Mīrās̲-i Mushtarak-i Īrān va ʻIrāq"--Page 4 of cover.
+004202423 504   L $$aIncludes bibliographical references.
+004202423 546   L $$aIn Persian.
+004202423 650 0 L $$aArchitecture$$zIraq$$xHistory$$vCongresses.
+004202423 7001  L $$606$$aUmīdvārī, Sumayyah.
+004202423 7001  L $$606$$aاميدوارى، سميه.
+004202423 7102  L $$607$$aMajmaʻ-i Z̲akhāʼir-i Islāmī (Qum, Iran)
+004202423 7102  L $$607$$aمجمع ذخائر اسلامى (قم، ايران)
+004202423 8590  L $$aNNU$$bBOBST$$cMAIN$$hNA1490.I72$$iH363 2015$$p31142059874951
+004202423 FMT   L BK
+004202410 LDR   L ^^^^^cam^a2200517^i^4500
+004202410 001   L 004202410
+004202410 003   L NNU
+004202410 005   L 20160426112319.0
+004202410 008   L 150630s2014^^^^ir^bd^^^^b^^^^000^0^per^^
+004202410 010   L $$a  2015326590
+004202410 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202410 066   L $$c(3$$c(4
+004202410 020   L $$a9789643616731
+004202410 020   L $$a9643616738
+004202410 035   L $$a(OCoLC)913117244
+004202410 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202410 042   L $$alcode
+004202410 043   L $$aa-ir---
+004202410 050 4 L $$aHC412$$b.S537 2014
+004202410 1001  L $$601$$aSharīʻatīʹniyā, Muḥsin,$$d1978 or 1979-$$eauthor.
+004202410 1001  L $$601$$aشريعتى‌نيا، محسن.
+004202410 24510 L $$602$$aHamgarāyī-i Āsiyāyī :$$bfurṣatʹhā va tahdīdāt barā-yi Īrān = Asian integration : opportunities and threats for Iran /$$cMuḥsin Sharīʻatīʹniyā, Zahrā Tawḥīdī.
+004202410 24510 L $$602$$aهمگرايى آسيايى :$$bفرصت‌ها و تهديدات براى ايران = Asian integration : opportunities and threats for Iran /$$cمحسن شريعتى‌نيا، زهرا توحيدى.
+004202410 24615 L $$aAsian integration :$$bopportunities and threats for Iran
+004202410 250   L $$603$$aChāp-i avval.
+004202410 250   L $$603$$aچاپ اول.
+004202410 264 1 L $$604$$aTihrān :$$bIdārah-i Nashr-i Vizārat-i Umūr-i Khārijah,$$c1393 [2014].
+004202410 264 1 L $$604$$aتهران :$$bاداره نشر وزارت امور خارجه،$$c1393 [2014].
+004202410 300   L $$a184 pages :$$bmaps, charts ;$$c24 cm
+004202410 336   L $$atext$$2rdacontent
+004202410 337   L $$aunmediated$$2rdamedia
+004202410 338   L $$avolume$$2rdacarrier
+004202410 500   L $$605$$a" Daftar-i Muṭālaʻāt-i Siyāsī va Bayn al-Milalī".
+004202410 500   L $$605$$a" دفتر مطالعات سىاسى و بىن المللى".
+004202410 504   L $$aIncludes bibliographical references (pages 165-178).
+004202410 546   L $$aIn Persian.
+004202410 651 0 L $$aAsia$$xEconomic conditions$$y1945-
+004202410 650 0 L $$aEconomic forecasting$$zAsia.
+004202410 650 0 L $$aEconomic assistance$$zIran.
+004202410 7001  L $$606$$aTawḥīdī, Zahrā,$$eauthor.
+004202410 7001  L $$606$$aتوحيدى، زهرا،$$eauthor.
+004202410 7102  L $$607$$aDaftar-i Muṭālaʻāt-i Siyāsī va Bayn al-Milalī (Iran)
+004202410 7102  L $$607$$aدفتر مطالعات سياسى و بين المللى (رن)
+004202410 8590  L $$aNNU$$bBOBST$$cMAIN$$hHC412$$i.S537 2014$$p31142059874829
+004202410 FMT   L BK
+004119957 LDR   L ^^^^^nam^a2200625^i^4500
+004119957 001   L 004119957
+004119957 003   L NNU
+004119957 005   L 20160426024634.0
+004119957 008   L 160425s2012^^^^ir^^^^^^^^^^^^000^p^per^d
+004119957 040   L $$aNNU$$beng$$erda$$cTEF
+004119957 066   L $$c(3$$c(4
+004119957 020   L $$a9789641203001$$cprint$$qseries
+004119957 020   L $$a9641203002$$cprint$$qseries
+004119957 020   L $$a9789641203018$$qv.1
+004119957 020   L $$a9641203010$$qv.1
+004119957 020   L $$a9789641203025$$qv.2
+004119957 020   L $$a9641203029$$qv.2
+004119957 020   L $$a9789641203032$$qv.3
+004119957 020   L $$a9641203037$$qv.3
+004119957 020   L $$a9789641203049$$qv.4
+004119957 020   L $$a9641203045$$qv.4
+004119957 020   L $$a9789641203056$$qv.5
+004119957 020   L $$a9641203053$$qv.5
+004119957 020   L $$a9789641203063$$qv.6
+004119957 020   L $$a9641203061$$qv.6
+004119957 020   L $$a9789641203070$$qv.7
+004119957 020   L $$a964120307X$$qv.7
+004119957 020   L $$a9789641203087$$qv.8
+004119957 020   L $$a9641203088$$qv.8
+004119957 020   L $$a9789641203094$$qv.9
+004119957 020   L $$a9641203096$$qv.9
+004119957 035   L $$a(OCoLC)947720446
+004119957 050 4 L $$aPK6455$$b.A1 2012
+004119957 1000  L $$601$$aFirdawsī,$$eauthor.
+004119957 1000  L $$601$$aفردوسى،$$eauthor.
+004119957 24510 L $$602$$aShāhnāmah /$$cAbū al-Qāsim Firdawsī ; bih taṣḥīḥ va ihtimām-i Muḥammad Nūrī ʻUthmānūf, Rustam Mūsá ʻAlīʹaf ; zayr-i niẓar-i Mahdī Qarīb.
+004119957 24510 L $$602$$aشاهنامه /$$cابو القاسم فردوسى ؛ به تصحىح و اهتمام محمد نورى عثمانوف، رستم موسى على‌اف ؛ زىر نظر مهدى قرىب.
+004119957 250   L $$603$$aChāp-i avval.
+004119957 250   L $$603$$aچاپ اول.
+004119957 264 1 L $$604$$aTihrān :$$bIntishārāt-i Surūsh bā hamkārī-i Dānishgāh-i Khāvarshināsī-i Muskū,$$c1391 [2012 or 2013].
+004119957 264 1 L $$604$$aتهران :$$bانتشارات سروش با همکارى دانشگاه خاورشناسى مسکو،$$c1391 [2012 or 2013].
+004119957 300   L $$a9 volumes ;$$c25 cm
+004119957 336   L $$atext$$btxt$$2rdacontent
+004119957 337   L $$aunmediated$$bn$$2rdamedia
+004119957 338   L $$avolume$$bnc$$2rdacarrier
+004119957 546   L $$aIn Persian.
+004119957 7001  L $$605$$aʻUthmānūf, Muḥammad Nūrī,$$eeditor.
+004119957 7001  L $$605$$aعثمانوف، محمد نورى،$$eeditor.
+004119957 7001  L $$606$$aAliev, Rustam M.,$$eeditor.
+004119957 7001  L $$606$$aعلى‌اف، رستم م.،$$eeditor.
+004119957 7001  L $$607$$aQarīb, Mahdī,$$eeditor.
+004119957 7001  L $$607$$aقرىب، مهدى،$$eeditor.
+004119957 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6455$$i.A1 2012$$p31142058147854
+004119957 FMT   L BK
+004202422 LDR   L ^^^^^cam^a2200445^i^4500
+004202422 001   L 004202422
+004202422 003   L NNU
+004202422 005   L 20160426100505.0
+004202422 008   L 150630s2014^^^^ir^ae^^^^b^^^^000^0^per^^
+004202422 010   L $$a  2015326607
+004202422 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202422 066   L $$c(3$$c(4
+004202422 020   L $$a9786007363027
+004202422 020   L $$a6007363023
+004202422 035   L $$a(OCoLC)912874498
+004202422 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202422 042   L $$alcode
+004202422 043   L $$aa-ir---
+004202422 050 4 L $$aNA2542.36$$b.A363 2014
+004202422 1001  L $$601$$aAḥmadī, Zahrā,$$d1976 or 1977-$$eauthor.
+004202422 1001  L $$601$$aاحمدى، زهرا.
+004202422 24510 L $$602$$aMiʻmārī-i pāydār :$$bulgūʹhā-yi pāydārī dar miʻmārī-i Īrān = Sustainbale architecture : sustainable patterns of Iranian architecture /$$cZahrā Aḥmadī.
+004202422 24510 L $$602$$aمعمارى پايدار :$$bالگو‌هاى پايدارى در معمارى ايران = Sustainbale architecture : sustainable patterns of Iranian architecture /$$cزهرا احمدى.
+004202422 2461  L $$iTitle on page [4] of cover:$$aSustainbale architecture :$$bsustainable patterns of Iranian architecture
+004202422 250   L $$603$$aChāp-i avval.
+004202422 250   L $$603$$aچاپ اول.
+004202422 264 1 L $$604$$aTihrān :$$bIntishārāt-i Avval va Ākhar,$$c1393 [2014 or 2015].
+004202422 264 1 L $$604$$aتهران :$$bانتشارات اول و آخر،$$c1393 [2014 or 2015].
+004202422 300   L $$a112 pages :$$billustrations, plans ;$$c24 cm
+004202422 336   L $$atext$$2rdacontent
+004202422 337   L $$aunmediated$$2rdamedia
+004202422 338   L $$avolume$$2rdacarrier
+004202422 546   L $$aIn Persian.
+004202422 504   L $$aIncludes bibliographical references (pages 107-112).
+004202422 650 0 L $$aSustainable architecture.
+004202422 650 0 L $$aSustainable architecture$$zIran.
+004202422 650 0 L $$aArchitecture$$zIran.
+004202422 8590  L $$aNNU$$bBOBST$$cMAIN$$hNA2542.36$$i.A363 2014$$p31142059874944
+004202422 FMT   L BK
+004119906 LDR   L ^^^^^nam^a2200373^i^4500
+004119906 001   L 004119906
+004119906 003   L NNU
+004119906 005   L 20160426024833.0
+004119906 008   L 160426s2014^^^^ir^^^^^^^^^^^^000^0^per^d
+004119906 040   L $$aNNU$$beng$$erda$$cTEF
+004119906 066   L $$c(3$$c(4
+004119906 020   L $$a9786009432318$$cprint
+004119906 020   L $$a6009432316$$cprint
+004119906 035   L $$a(OCoLC)947859268
+004119906 0411  L $$aara$$aper$$hara
+004119906 050 4 L $$aBP104.6$$b2014
+004119906 1300  L $$601$$aQurʼan.$$lArabic & Persian.
+004119906 1300  L $$601$$aقرآن.$$lArabic & Persian.
+004119906 24510 L $$602$$aQurʼān-i majīd :$$bbā tarjumah-ʼi ʻibārat bih ʻibārat bih zanān-i Fārsī /$$ctarjumah-ʼi Fārsī az Ḥusayn Ustād valī ; tanẓīm-i Sayyid Muḥammad Riz̤ā Qarāʼī.
+004119906 24510 L $$602$$aقرآن مجىد :$$bبا ترجمۀ عبارت به عبارت به زنان فارسى /$$cترجمۀ فارسى از حسىن استاد ولى ؛ تنظىم سيد محمد رضا قرائي.
+004119906 264 1 L $$603$$aTihrān :$$bNashr-i Ufuq Bīʹpāyān,$$c1393 [2014 or 2015].
+004119906 264 1 L $$603$$aتهران :$$bنشر افق بى‌پاىان،$$c1393 [2014 or 2015].
+004119906 300   L $$a808 pages ;$$c25 cm
+004119906 336   L $$atext$$btxt$$2rdacontent
+004119906 337   L $$aunmediated$$bn$$2rdamedia
+004119906 338   L $$avolume$$bnc$$2rdacarrier
+004119906 546   L $$aIn Arabic and Persian.
+004119906 7001  L $$604$$aUstād Valī, Ḥusayn,$$etranslator.
+004119906 7001  L $$604$$aاستاد ولى، حسىن،$$etranslator.
+004119906 7001  L $$605$$aQarāʼī, Sayyid Muḥammad Riz̤ā,$$eeditor.
+004119906 7001  L $$605$$aقرائي، سيد محمد رضا،$$eeditor.
+004119906 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP104.6$$i2014$$p31142058106983
+004119906 FMT   L BK
+004087070 LDR   L ^^^^^cam^a2200373^a^4500
+004087070 001   L 004087070
+004087070 003   L NNU
+004087070 005   L 20160425041350.0
+004087070 008   L 110222s2013^^^^ir^a^^^^^^^^^^000^1^per^d
+004087070 040   L $$aHLS$$beng$$cHLS$$dOCLCO$$dOCLCQ$$dTEF
+004087070 066   L $$c(3$$c(4
+004087070 020   L $$a9786001521522
+004087070 020   L $$a6001521522
+004087070 035   L $$a(OCoLC)903437067
+004087070 050 4 L $$aPK6481$$b.M7 2013
+004087070 1001  L $$601$$aZarrīnʹkilk, Nūr al-Dīn,$$eauthor.
+004087070 1001  L $$601$$aزرىن‌کلک، نور الدىن.
+004087070 24510 L $$602$$aKhar biraft va khar biraft va khar biraft :$$bdāstānʹhāʼī shīrīn va talkh az Mas̲navī-i Maʻnavī /$$cNūr al-Dīn Zarrīnʹkilk.
+004087070 24510 L $$602$$aخر برفت و خر برفت و خر برفت :$$bداستان‌هاىى شىرن و تلخ از مثنوى معنوى /$$cنورالدىن زرىن‌کلک.
+004087070 24615 L $$aDonkey's gone, is gone, is gone :$$bstories of Masnavi, Rumi's masterpiece
+004087070 250   L $$603$$aChāp-i 1.
+004087070 250   L $$603$$aچاپ 1.
+004087070 260   L $$604$$aTihrān :$$bChāp va Nashr-i Naẓar,$$c1392 [2013 or 2014].
+004087070 260   L $$604$$aتهران :$$bچاپ و نشر نظر،$$c1392 [2013 or 2014].
+004087070 300   L $$a158 pages :$$bcolor illustrations ;$$c24 cm
+004087070 336   L $$atext$$btxt$$2rdacontent
+004087070 337   L $$aunmediated$$bn$$2rdamedia
+004087070 338   L $$avolume$$bnc$$2rdacarrier
+004087070 7000  L $$605$$aJalāl al-Dīn Rūmī,$$cMaulana,$$d1207-1273.$$tMas̲navī.
+004087070 7000  L $$605$$aجلال الدىن رومى،$$cمولانا.$$tمثنوى.
+004087070 752   L $$aIran$$dTehran.
+004087070 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6481$$i.M7 2013$$p31142057915160
+004087070 FMT   L BK
+004149586 LDR   L ^^^^^cam^a2200409^i^4500
+004149586 001   L 004149586
+004149586 003   L NNU
+004149586 005   L 20160425035902.0
+004149586 008   L 150409s2014^^^^ir^^^^^^^^^^^^000^1^per^^
+004149586 010   L $$a  2015325216
+004149586 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004149586 066   L $$c(3$$c(4
+004149586 020   L $$a9789643377045
+004149586 020   L $$a9643377040
+004149586 035   L $$a(OCoLC)907133508
+004149586 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004149586 042   L $$alcode
+004149586 050 4 L $$aPK6561.Z3304$$bT38 2014
+004149586 1001  L $$601$$aZāhidī, Tūraj,$$eauthor.
+004149586 1001  L $$601$$aزاهدى، تورج.
+004149586 24510 L $$602$$aTaṣarruf /$$cTūraj Zāhidī.
+004149586 24510 L $$602$$aتصرف /$$cتورج زاهدى.
+004149586 250   L $$603$$aChāp-i avval.
+004149586 250   L $$603$$aچاپ اول.
+004149586 264 1 L $$604$$aTihrān :$$bKitāb-i Nayistān,$$c1393 [2014 or 2015]
+004149586 264 1 L $$604$$aتهران :$$bکتاب نيستان،$$c1393 [2014 or 2015].
+004149586 300   L $$a744 pages ;$$c22 cm.
+004149586 336   L $$atext$$btxt$$2rdacontent
+004149586 337   L $$aunmediated$$bn$$2rdamedia
+004149586 338   L $$avolume$$bnc$$2rdacarrier
+004149586 4900  L $$605$$aAdabīyāt-i bartar ;$$vrumān 33
+004149586 4900  L $$605$$aادبيات برتر ؛$$vرمان 33
+004149586 500   L $$aNovel.
+004149586 546   L $$aIn Persian.
+004149586 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6561.Z3304$$iT38 2014$$p31142059600380
+004149586 FMT   L BK
+004119854 LDR   L ^^^^^cam^a2200577^i^4500
+004119854 001   L 004119854
+004119854 003   L NNU
+004119854 005   L 20160426123637.0
+004119854 008   L 141208s2014^^^^ir^h^^^^^b^^^^001^0^per^^
+004119854 010   L $$a  2014310617
+004119854 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004119854 066   L $$c(3$$c(4
+004119854 020   L $$a9786002030511
+004119854 020   L $$a6002030514
+004119854 035   L $$a(OCoLC)897946795
+004119854 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004119854 0410  L $$aper$$aara$$beng
+004119854 042   L $$alcode
+004119854 050 4 L $$aQB23$$b.T433 2014
+004119854 1000  L $$601$$aThābit ibn Qurrah al-Ḥarrānī,$$d-901.
+004119854 1001  L $$601$$aثابت بن قرة الحراني.
+004119854 24510 L $$602$$aSih risālah az s̲ābit ibn Qurrah :$$bSāʻatʹhā-yi āftābī, Ḥarakkat-i khūrshīd vā māh, Chahārdah vajhī-i muḥāṭ dar kurah = Three treatises by thābit ibn Qurrah : Sundials, Solar and lunar motions, A fourteen-sided solid inscribed in a given sphere  /$$cbā muqaddamah-ʼi Pūyān Riz̤vānī.
+004119854 24510 L $$602$$aسه رساله از ثابت بن قره :$$bساعت‌هاى آفتابى، حرکت خورشيد وا ماه، چهارده وجهى محاط در کره = Three treatises by thābit ibn Qurrah : Sundials, Solar and lunar motions, A fourteen-sided solid inscribed in a given sphere /$$cبا مقدمۀ پويان رضوانى.
+004119854 24615 L $$aThree treatises by thābit ibn Qurrah :$$bSundials, Solar and lunar motions, A fourteen-sided solid inscribed in a given sphere
+004119854 250   L $$603$$aChāp-i avval.
+004119854 250   L $$603$$aچاپ اول.
+004119854 264 1 L $$604$$aTihrān :$$bMarkaz-i Pizhūhishī-i Mīrās̲-i Maktūb bā hamkārī-i Pizhūhishkadah-ʼi Tārīkh-i ʻIlm-i Dānishgāh-i Tihrān,$$c2014.
+004119854 264 1 L $$604$$aتهران :$$bمرکز پژوهشى ميراث مکتوب با همکارى پژوهشکدۀ تاريخ علم دانشگاه تهران،$$c2014.
+004119854 300   L $$a34, 124, 6 pages :$$bfacsimiles ;$$c24 cm.
+004119854 336   L $$atext$$2rdacontent
+004119854 337   L $$aunmediated$$2rdamedia
+004119854 338   L $$avolume$$2rdacarrier
+004119854 4900  L $$605$$aMīrās̲-i Maktūb ;$$v262.$$aNuskhah bargardān ;$$v16
+004119854 4900  L $$605$$aميراث مکتوب ؛$$v262.$$aنسخه برگردان ؛$$v16
+004119854 500   L $$a"Nuskhah bargardān bih qaṭʻ-i aṣl-i nuskhah-i khaṭṭī bih shumārah-i 948 Kitābkhānah-i Kūprūlū (Istānbūl) kitābat 370 hijrī".
+004119854 500   L $$a"A facsimile edition of the manuscript (MS 948, Koprulu Library, Istanbul, Turkey) copied in 370 A.H (981 A.D)"--Added title page.
+004119854 504   L $$aIncludes bibliographical references (preliminary pages 32-34) and index.
+004119854 546   L $$aIn Persian and Arabic ; introduction in English.
+004119854 650 0 L $$aAstronomy, Medieval.
+004119854 650 0 L $$aAstronomy, Arab.
+004119854 650 0 L $$aMathematics, Arab.
+004119854 650 0 L $$aSundials$$vEarly works to 1800.
+004119854 7001  L $$606$$aRiz̤vānī, Pūyān,$$d1986 or 1987-
+004119854 7001  L $$606$$aرضوانى، پويان.
+004119854 7102  L $$607$$aDānishgāh-i Tihrān.$$bPizhūhishkadah-ʼi Tārīkh-i ʻIlm.
+004119854 7102  L $$607$$aدانشگاه تهران.$$bپژوهشکدۀ تاريخ علم.
+004119854 7102  L $$608$$aMarkaz-i Nashr-i Mīrās̲-i Maktūb.
+004119854 7102  L $$608$$aمرکز نشر ميراث مکتوب.
+004119854 8590  L $$aNNU$$bBOBST$$cMAIN$$hQB23$$i.T433 2014$$p31142058106017
+004119854 FMT   L BK
+004149664 LDR   L ^^^^^cam^a2200433^i^4500
+004149664 001   L 004149664
+004149664 003   L NNU
+004149664 005   L 20160425032234.0
+004149664 008   L 150130s2014^^^^ir^^^^^^^^^^^^000^1^per^^
+004149664 010   L $$a  2014310752
+004149664 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004149664 066   L $$c(3$$c(4
+004149664 020   L $$a9789642160839
+004149664 020   L $$a9642160838
+004149664 020   L $$a9789642160327
+004149664 020   L $$a9642160323
+004149664 020   L $$a9789642160860
+004149664 020   L $$a9642160862
+004149664 035   L $$a(OCoLC)902138958
+004149664 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004149664 042   L $$alcode
+004149664 050 4 L $$aPK6562.29.A343$$bS53 2014
+004149664 1001  L $$601$$aṢaffārīʹpūr Iṣfahānī, Humā,$$d1990 or 1991-$$eauthor.
+004149664 1001  L $$601$$aصفارى‌پور اصفهانى، هما.
+004149664 24510 L $$602$$aShām-i mahtāb /$$cnivishtah-i Humā Ṣaffārīʹpūr Iṣfahānī.
+004149664 24510 L $$602$$aشام مهتاب /$$cنوشته هما صفارى‌پور اصفهانى.
+004149664 250   L $$603$$aChāp-i avval.
+004149664 250   L $$603$$aچاپ اول.
+004149664 264 1 L $$604$$aTihrān :$$bShaqāyiq,$$c1393 [2014 or 2015].
+004149664 264 1 L $$604$$aتهران :$$bشقايق،$$c1393 [2014 or 2015].
+004149664 300   L $$a613 pages ;$$c22 cm
+004149664 336   L $$atext$$btxt$$2rdacontent
+004149664 337   L $$aunmediated$$bn$$2rdamedia
+004149664 338   L $$avolume$$bnc$$2rdacarrier
+004149664 500   L $$aNovel.
+004149664 546   L $$aIn Persian.
+004149664 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6562.29.A343$$iS53 2014$$p31142059600984
+004149664 FMT   L BK
+004202413 LDR   L ^^^^^cam^a2200517^i^4500
+004202413 001   L 004202413
+004202413 003   L NNU
+004202413 005   L 20160426105815.0
+004202413 008   L 150630s2014^^^^ir^^^^^^^b^^^^000^0^per^^
+004202413 010   L $$a  2015326593
+004202413 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202413 066   L $$c(3$$c(4
+004202413 020   L $$a9786003230279
+004202413 020   L $$a6003230274
+004202413 035   L $$a(OCoLC)913117246
+004202413 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202413 042   L $$alcode
+004202413 043   L $$aa-ir---
+004202413 050 4 L $$aKMH3800$$b.V378 2014
+004202413 1001  L $$601$$aVarvāʼī, Akbar,$$d1966 or 1967-$$eauthor.
+004202413 1001  L $$601$$aوروائى، اکبر.
+004202413 24510 L $$602$$aḤuqūq-i muttaham-i taḥt-i naẓarī dar niẓām-i ḥuqūq-i kayfarī-i Īrān /$$cDuktur Akbar Varvāʼī,  Rasūl Bihrāmīʹpūr, Muḥammad Iḥsān Parākūhī.
+004202413 24510 L $$602$$aحقوق متهم تحت نظرى در نظام حقوق کيفرى ايران /$$cدکتر اکبر وروائى، رسول بهرامى‌پور، محمد احسان پراکوهى.
+004202413 250   L $$603$$aChāp-i avval.
+004202413 250   L $$603$$aچاپ اول.
+004202413 264 1 L $$604$$aTihrān :$$bIntishārāt-i Bihnāmī,$$c1393 [2014 or 2015].
+004202413 264 1 L $$604$$aتهران :$$bانتشارات بهنامى،$$c1393 [2014 or 2015].
+004202413 300   L $$a256 pages ;$$c24 cm
+004202413 336   L $$atext$$2rdacontent
+004202413 337   L $$aunmediated$$2rdamedia
+004202413 338   L $$avolume$$2rdacarrier
+004202413 546   L $$aIn Persian.
+004202413 500   L $$605$$a"Dānishgāh-i Āzād-i Islāmī, Vāḥid-i ʻUlūm va Taḥqīqāt-i Kirmānshāh."
+004202413 500   L $$605$$a"دانشگاه آزاد اسلامى، واحد علوم و تحقىقات کرمانشاه."
+004202413 504   L $$aIncludes bibliographical references (pages 248-256).
+004202413 650 0 L $$aCriminal law$$zIran.
+004202413 650 0 L $$aPrisoners$$zIran.
+004202413 7001  L $$606$$aBahrāmīʹpūr, Rasūl,$$d1979 or 1980-$$eauthor.
+004202413 7001  L $$606$$aبهرامى‌پور، رسول.
+004202413 7001  L $$607$$aParākūhī, Muḥammad Iḥsān,$$d1981 or 1982-$$eauthor.
+004202413 7001  L $$607$$aپراکوهى، محمد احسان.
+004202413 7102  L $$608$$aDānishgāh-i Āzād-i Islāmī.$$bVāḥid-i ʻUlūm va Taḥqīqāt-i Kirmānshāh.
+004202413 7102  L $$608$$aدانشگاه آزاد اسلامى.$$bواحد علوم و تحقيقات کرمانشاه.
+004202413 8590  L $$aNNU$$bBOBST$$cMAIN$$hKMH3800$$i.V378 2014$$p31142059874852
+004202413 FMT   L BK
+004087060 LDR   L ^^^^^nam^a2200445^i^4500
+004087060 001   L 004087060
+004087060 003   L NNU
+004087060 005   L 20160425034407.0
+004087060 008   L 160425s2013^^^^ir^^^^^^^b^^^^001^0^per^d
+004087060 040   L $$aNNU$$beng$$erda$$cTEF
+004087060 066   L $$c(4$$c(3
+004087060 020   L $$a9786005747508
+004087060 020   L $$a6005747509
+004087060 035   L $$a(OCoLC)947730677
+004087060 050 4 L $$aPK6482$$b.K866 2013
+004087060 1001  L $$601$$aKumpānī, Mahdī,$$d1980 or 1981-$$eauthor.
+004087060 1001  L $$601$$aکمپانى، مهدى،$$eauthor.
+004087060 24510 L $$602$$aMawlānā va madrasah-ʼi ʻishq /$$cnigārish-i Mahdī Kampānī Zāriʻ.
+004087060 24510 L $$602$$aمولانا و مدرسۀ عشق /$$cنگارش مهدى کمپانى زارع.
+004087060 250   L $$603$$aChāp-i avval.
+004087060 250   L $$603$$aچاپ اول.
+004087060 264 1 L $$604$$aTihrān :$$bKitābnāmah, Nashr-i NIgāh-i Muʻāṣir,$$c1392 [2013 or 2014].
+004087060 264 1 L $$604$$aتهران :$$bکتابنامه، نشر ناگاه معاصر،$$c1392 [2013 or 2014].
+004087060 300   L $$a700 pages ;$$c22 cm
+004087060 336   L $$atext$$btxt$$2rdacontent
+004087060 337   L $$aunmediated$$bn$$2rdamedia
+004087060 338   L $$avolume$$bnc$$2rdacarrier
+004087060 4901  L $$605$$aBīnish-i maʻnavī ;$$v58
+004087060 4901  L $$605$$aبىنش معنوى ؛$$v58
+004087060 546   L $$aIn Persian.
+004087060 504   L $$aIncludes bibliographical references (pages 687-693) and index.
+004087060 60000 L $$606$$aJalāl al-Dīn Rūmī,$$cMaulana,$$d1207-1273.
+004087060 60004 L $$606$$aجلال الدىن رومى،$$cمولانا.
+004087060 650 0 L $$aMysticism$$xIslam.
+004087060 650 0 L $$aLove$$xReligious aspects$$xIslam.
+004087060 830 0 L $$607$$aBīnish-i maʻnavī ;$$v58.
+004087060 830 0 L $$607$$aبىنش معنوى ؛$$v58.
+004087060 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6482$$i.K866 2013$$p31142057915129
+004087060 FMT   L BK
+004087056 LDR   L ^^^^^cam^a2200709^i^4500
+004087056 001   L 004087056
+004087056 003   L NNU
+004087056 005   L 20160425022109.0
+004087056 008   L 150217s2014^^^^ir^ab^^^^b^^^^000^0^per^^
+004087056 010   L $$a  2015325069
+004087056 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dOCLCA$$dTEF
+004087056 066   L $$c(3$$c(4
+004087056 020   L $$a9786005210866
+004087056 020   L $$a6005210866
+004087056 035   L $$a(OCoLC)914339469
+004087056 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004087056 0410  L $$aper$$beng
+004087056 042   L $$alcode
+004087056 043   L $$aa-ir---
+004087056 050 4 L $$aDS262.T358$$bA843 2014
+004087056 1001  L $$601$$aʻAsgarī Chāvardī, ʻAlī Riz̤ā,$$eauthor.
+004087056 1001  L $$601$$aعسگرى چاوردى، على رضا.
+004087056 24510 L $$602$$aPizhūhishʹhā-yi bāstānʹshināsī-i Tul-i Ispīd, Fārs =$$bArchaeological excavation at Tol- e Spid, Fars, Iran /$$cDuktur ʻAlīriz̤ā ʻAskarī Chāvardī (Dānishgāh-i Shīrāz), Duktur Kāmarūn Pītrī (Dānishgāh-i Kambrīj), Duktur Muzhgān Sayyidīn (Pizhūhishkadah-ʼi Bāstānʹshināsī); vīrāstār, Pūryā Khadīsh.
+004087056 24510 L $$602$$aپژوهش‌هاى باستان‌شناسى تل اسپيد، فارس =$$bArchaeological excavation at Tol- e Spid, Fars, Iran /$$cدکتر عليرضا عسکرى چاوردى (دانشگاه شيراز)، دکتر کامرون پيترى (دانشگاه کمبريج)، دکتر مژگان سيدين (پژوهشکدۀ باستان‌شناسى) ؛ ويراستار، پوريا خديش.
+004087056 24615 L $$aArchaeological excavation at Tol- e Spid, Fars, Iran
+004087056 250   L $$603$$aChāp-i avval.
+004087056 250   L $$603$$aچاپ اول.
+004087056 264 1 L $$604$$aTihrān :$$bNashr-i Hamʹpā :$$bDānishgāh-i Hunar-i Shīrāz,$$c2014.
+004087056 264 1 L $$604$$aتهران :$$bنشر هم‌پا :$$bدانشگاه هنر شيراز،$$c2014.
+004087056 300   L $$a364, 12 pages :$$billustrations (some color), maps ;$$c30 cm.
+004087056 336   L $$atext$$btxt$$2rdacontent
+004087056 337   L $$aunmediated$$bn$$2rdamedia
+004087056 338   L $$avolume$$bnc$$2rdacarrier
+004087056 4900  L $$605$$aDānishgāh-i Hunar-i Shīrāz ;$$vintishārāt-i 3
+004087056 4900  L $$605$$aدانشگاه هنر شيراز ؛$$vانتشارات 3
+004087056 500   L $$a"Sāzmān-i Mīrās̲-i Farhangī, Ṣanāyiʻ-i Dastī va Gardishgarī, Pizhūhishkadah-i Bāstānʹshināsī"--Cover.
+004087056 500   L $$a" Iranian Center for Archaeological Research ; Sāzmān-i Mīrās̲-i Farhangī, Ṣanāyiʻ-i Dastī va Gardishgarī, ICAR"--Page 4 of cover.
+004087056 504   L $$aIncludes bibliographical references (pages 317-331).
+004087056 520   L $$aExcavations (Archaeology) - Iran - Mamasanī ; Tol- e Spid (Iran) -- Antiquities.
+004087056 546   L $$aIn Persian; introduction in English.
+004087056 650 0 L $$aExcavations (Archaeology)$$zIran$$zMamasānī.
+004087056 651 0 L $$aFārs (Iran)$$xAntiquities.
+004087056 7001  L $$aPetrie, Cameron,$$eauthor.
+004087056 7001  L $$606$$aSayyidīn, Muzhgān,$$d1969 or 1970-$$eeditor.
+004087056 7001  L $$606$$aسيدين، مژگان.
+004087056 7001  L $$607$$aKhadīsh, Pūryā,$$eeditor.
+004087056 7001  L $$607$$aخديش، پوريا.
+004087056 7102  L $$608$$aDānishgāh-i Hunar-i Shīrāz.
+004087056 7102  L $$608$$aدانشگاه هنر شيراز.
+004087056 7102  L $$609$$aMarkaz-i Bāstānshināsī-i Īrān.
+004087056 7102  L $$609$$aمرکز باستانشناسى ايران.
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.1$$p31142057915012
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.2$$p31142057915020
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.3$$p31142057915038
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.4$$p31142057915046
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.5$$p31142057915053
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.6$$p31142057915061
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.7$$p31142057915079
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.8$$p31142057915087
+004087056 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS262.T358$$iA843 2014$$3V.9$$p31142057915095
+004087056 FMT   L BK
+004086998 LDR   L ^^^^^cam^a2200541^i^4500
+004086998 001   L 004086998
+004086998 003   L NNU
+004086998 005   L 20160425042728.0
+004086998 008   L 141015s2013^^^^ir^^^^^^^b^^^^001^0^ara^^
+004086998 010   L $$a  2014310289
+004086998 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004086998 066   L $$c(3$$c(4
+004086998 020   L $$a9786002201744
+004086998 020   L $$a6002201742
+004086998 035   L $$a(OCoLC)893202938
+004086998 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004086998 042   L $$alcode
+004086998 050 4 L $$aBP193.1.A3$$bK845 2013
+004086998 1001  L $$601$$aKūfī, Aḥmad ibn Yaḥyá,$$eauthor.
+004086998 1001  L $$601$$aكوفي، أحمد بن يحيى.
+004086998 24510 L $$602$$aMulḥaq Nahj al-Balāghah =$$bMulḥaq Nahjulbalāgha /$$cbarawāyah Aḥmad ibn Yaḥyá ibn Nāqah al-Kūfī ; taḥqīq, Muḥammad Jaʻfar al-Islāmī ; bā ashrāf, al-Ustād Qays al-ʻAṭṭār.
+004086998 24510 L $$602$$aملحق نهج البلاغة =$$bMulḥaq Nahjulbalāgha /$$cبرواية أحمد بن يحيى بن ناقة الكوفي ؛ تحقيق، محمد جعفر الإسلامي ؛ با اشراف، الأستاد قيس العطار.
+004086998 24615 L $$aMulḥaq Nahjulbalāgha
+004086998 250   L $$603$$aal-Ṭabʻah al-ūlá.
+004086998 250   L $$603$$aالطبعة الأولي.
+004086998 264 1 L $$604$$aṬihrān :$$bMaktabah wa Mutaḥaf wa Markaz Wathaʼq Majlis al-Shūrá al-Islāmī,$$c2013.
+004086998 264 1 L $$604$$aطهران :$$bمكتبة و متحف و مركز وثأق مجلس الشورى الإسلامي،$$c2013.
+004086998 300   L $$a131 pages ;$$c23 cm
+004086998 336   L $$atext$$2rdacontent
+004086998 337   L $$aunmediated$$2rdamedia
+004086998 338   L $$avolume$$2rdacarrier
+004086998 4900  L $$605$$aKitābkhānah, Mūzih va Markaz-i Asnād-i Majlis-i Shūrā-yi Islāmī ;$$v394
+004086998 4900  L $$605$$aکتابخانه، موزه و مرکز اسناد مجلس شوراى اسلامى ؛$$v394
+004086998 546   L $$aIn Arabic.
+004086998 504   L $$aIncludes bibliographical references and index.
+004086998 520   L $$aʻAlī ibn Abī Ṭālib, Caliph, 600 (ca.)-661 -Public speaking.
+004086998 60000 L $$606$$aʻAlī ibn Abī Ṭālib,$$cCaliph,$$dapproximately 600-661$$xOratory.
+004086998 60004 L $$606$$aعلي بن ابي طالب$$cخليفة.
+004086998 7001  L $$607$$aIslāmī, Muḥammad Jaʻfar.
+004086998 7001  L $$607$$aاسلامى، محمد جعفر.
+004086998 7001  L $$608$$aʻAṭṭār, Qays.
+004086998 7001  L $$608$$aعطار، قيس.
+004086998 7101  L $$609$$aIran.$$bMajlis-i Shūrā-yi Islāmī.$$bKitābkhānah, Mūzih va Markaz-i Asnād.
+004086998 7101  L $$609$$aIran.$$bمجلس شوراى اسلامى.$$bکتابخانه، موزه و مرکز اسناد.
+004086998 85641 L $$3Table of contents only$$uhttps://www.loc.gov/catdir/toc/fy16pdf03/2014310289.html
+004086998 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP193.1.A3$$iK845 2013$$p31142057914817
+004086998 FMT   L BK
+004202310 LDR   L ^^^^^cam^a2200553^i^4500
+004202310 001   L 004202310
+004202310 003   L NNU
+004202310 005   L 20160426101046.0
+004202310 008   L 150629s2014^^^^ir^^^^^^^br^^^001^0^per^^
+004202310 010   L $$a  2015326530
+004202310 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202310 066   L $$c(3$$c(4
+004202310 020   L $$a9786001380655
+004202310 020   L $$a6001380651
+004202310 035   L $$a(OCoLC)912508280
+004202310 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202310 042   L $$alcode
+004202310 043   L $$aa-ir---
+004202310 050 4 L $$aHF5382.5.I7$$bA853 2014
+004202310 24500 L $$601$$aAṭlas-i mashāghil-i būmī-i Ustān-i Markazī /$$ctadvīn va girdʹāvarī-i, Murtaz̤á Pākdilʹniyā [and three others] ; vīrāstārān-i ʻilmī, Muḥammad Ḥasan Tafrishī [and three others] ; vīrāstār-i adabī, Sayyid Jalāl Khudāyī.
+004202310 24500 L $$601$$aاطلس مشاغل بومى استان مرکزى /$$cتدوين و گرد‌آورى، مرتضى پاکدل‌نيا [و سه نفر ديگر] ؛ ويراستاران علمى، محمد حسن تفرشى [و سه نفر ديگر] ؛ ويراستار ادبى، سيد جلال خدايى.
+004202310 24630 L $$602$$aMarkazī
+004202310 24630 L $$602$$aمرکزى
+004202310 250   L $$603$$aChāp-i avval.
+004202310 250   L $$603$$aچاپ اول.
+004202310 264 1 L $$604$$aTihrān :$$bVarā-yi Dānish,$$c1393 [2014].
+004202310 264 1 L $$604$$aتهران :$$bوراى دانش،$$c1393 [2014].
+004202310 300   L $$a118 pages ;$$c24 cm
+004202310 336   L $$atext$$btxt$$2rdacontent
+004202310 337   L $$aunmediated$$bn$$2rdamedia
+004202310 338   L $$avolume$$bnc$$2rdacarrier
+004202310 500   L $$a"Jumhūrī-i Islāmī-i Īrān, Idārah-i Kull-i Āmūzish va Parvarish-i Ustān-i Markazī, Muʻāvanat-i Parvarishī va Farhangī ; Idārah-i Mushāvarah-yi Tarbīyatī"--Cover.
+004202310 500   L $$a"Idārah-yi Kull-i Āmūzish va Parvarish-i Ustān-i Markazī ; Shūrā-yi Barnāmah'rīzī-i Ustān"--Title page verso.
+004202310 504   L $$aIncludes bibliographical references (page 118).
+004202310 546   L $$aIn Persian.
+004202310 650 0 L $$aOccupations$$zIran$$zMarkazī$$vDirectories.
+004202310 7001  L $$605$$aPākdilʹniyā, Murtaz̤á,$$d1963 or 1964-$$ecompiler.
+004202310 7001  L $$605$$aپاکدل‌نيا، مرتضى.
+004202310 7001  L $$606$$aTafrishī, Muḥammad Ḥasan,$$d1971 or 1972-$$eeditor.
+004202310 7001  L $$606$$aتفرشى، محمد حسن.
+004202310 7001  L $$607$$aKhudāyī, Sayyid Jalāl,$$eeditor.
+004202310 7001  L $$607$$aخدايى، سيد جلال.
+004202310 7101  L $$608$$aIran.$$bVizārat-i Āmūzish va Parvarish.$$bMuʻāvanat-i Parvarishī va Farhangī.
+004202310 7101  L $$608$$aاىران.$$bوزارت آموزش و پرورش.$$bمعاونت پرورشى و فرهنگى.
+004202310 7102  L $$609$$aIdārah-i Kull-i Āmūzish va Parvarish-i Ustān-i Markazī.
+004202310 7102  L $$609$$aاداره کل آموزش و پرورش استان مرکزى.
+004202310 8590  L $$aNNU$$bBOBST$$cMAIN$$hHF5382.5.I7$$iA853 2014$$p31142059874548
+004202310 FMT   L BK
+004149623 LDR   L ^^^^^cam^a2200553^a^4500
+004149623 001   L 004149623
+004149623 003   L NNU
+004149623 005   L 20160426020331.0
+004149623 008   L 110222s2014^^^^ir^h^^^^^b^^^^001^0^ara^d
+004149623 040   L $$aHLS$$beng$$erda$$cHLS$$dOCLCO$$dOCLCF$$dOCLCO$$dTEF
+004149623 066   L $$c(3$$c(4
+004149623 020   L $$a9786003131897
+004149623 020   L $$a6003131896
+004149623 035   L $$a(OCoLC)937041447
+004149623 0410  L $$aper$$aara
+004149623 050 4 L $$aBP188.9$$b.S93 2014
+004149623 1001  L $$601$$aSuhrawardī, ʻUmar ibn Muḥammad,$$d1145-1234.
+004149623 1001  L $$601$$aسهروزدی, عمر بن محمد,$$d1145-1234.
+004149623 24510 L $$602$$aʻAwārif al-maʻārif /$$ctaʼlīf-i Shaykh Shahāb al-Dīn ʻUmar Suhravardī ; bih kūshish-i Umīd Surūrī.
+004149623 24510 L $$602$$aعوارف المعارف /$$cتألیف شیخ شهاب الدین عمر سهروردی.
+004149623 2463  L $$603$$aDhayl ʻAwārif al-maʻārif
+004149623 2463  L $$603$$aذیل معارف العوارف
+004149623 24615 L $$aAwaref al-ma'aref
+004149623 24615 L $$aDhail-e Ma'aref al-awaref
+004149623 2463  L $$aʻAvārif al-maʻārif
+004149623 264 1 L $$604$$aTihrān :$$bBunyādhā-yi Shukū :$$bSafīr-i Ardihāl,$$c1393 [2014 or 2015]
+004149623 264 1 L $$604$$aتهران :$$bبنادهای شکو :$$bسفیر اردهال,$$c1393 [2014 or 2015]
+004149623 300   L $$a742 pages :$$billustrations ;$$c25 cm
+004149623 336   L $$atext$$btxt$$2rdacontent
+004149623 337   L $$aunmediated$$bn$$2rdamedia
+004149623 338   L $$avolume$$bnc$$2rdacarrier
+004149623 500   L $$aFacsimile edition.
+004149623 504   L $$aIncludes bibliographical references and index.
+004149623 546   L $$aPersian and Arabic.
+004149623 650 0 L $$aSufism$$vEarly works to 1800.
+004149623 650 0 L $$aMysticism$$xIslam$$xEarly works to 1800.
+004149623 650 7 L $$aMysticism$$xIslam.$$2fast$$0(OCoLC)fst01031643
+004149623 650 7 L $$aSufism.$$2fast$$0(OCoLC)fst01137257
+004149623 655 7 L $$aEarly works.$$2fast$$0(OCoLC)fst01411636
+004149623 7001  L $$605$$aṢadr al-Dīn Shīrāzī, Muḥammad ibn Ibrāhīm,$$d-1641.
+004149623 7001  L $$605$$aصدر الدین شیرازی, محمد بن ابراهیم,$$d-1641
+004149623 7001  L $$606$$aSurūrī, Umīd,$$d1980 or 1981-
+004149623 7001  L $$606$$aسروری, امید,$$d1980 or 1981-
+004149623 7102  L $$aKitābkhānah-ʼi Majlis-i Shūrā-yi Millī (Iran).$$kManuscript.$$n36.
+004149623 7102  L $$aÂtıf Efendi Kütüphanesi (Istanbul, Turkey).$$kManuscript.$$n1437.
+004149623 752   L $$aIran$$dTehran.
+004149623 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP188.9$$i.S93 2014$$3V.3$$p31142059600976
+004149623 FMT   L BK
+004202582 LDR   L ^^^^^nam^a2200397^i^4500
+004202582 001   L 004202582
+004202582 003   L NNU
+004202582 005   L 20160427023517.0
+004202582 008   L 160427s2015^^^^ir^^^^^^^^^^^^000^h^per^d
+004202582 040   L $$aNNU$$beng$$erda$$cTEF
+004202582 066   L $$c(4$$c(3
+004202582 020   L $$a9786006047225$$cprint
+004202582 020   L $$a6006047225$$cprint
+004202582 035   L $$a(OCoLC)948029068
+004202582 0411  L $$aper$$heng
+004202582 050 4 L $$aPN6231.C6142$$bK651675 2012
+004202582 1001  L $$aKolakowski, Nick,$$eauthor.
+004202582 24010 L $$aHow to become an intellectual.$$lPersian
+004202582 24510 L $$601$$aChigūnah mīʹtavān rūshanfikr shud :$$b100 aṣl-i z̤ururī-i barā-yi digardīsī bih farhījatahʹtarīn-i andīshmandān /$$cNīk Kūlākūfskī, [mutarjim] Bābak Maẓlūmī.
+004202582 24510 L $$601$$aچگونه مى‌توان روشنفکر شد :$$b100 اصل ضررى براى دگردىسى به فرهىجته‌ترىن اندىشمندان /$$cنىک کولاکوفسکى، [مترجم] بابک مظلومى.
+004202582 250   L $$602$$aChāp-i yikum.
+004202582 250   L $$602$$aچاپ ىکم.
+004202582 264 1 L $$603$$aTihrān :$$bNashr-i Hanūz,$$c1394 [2015 or 2016].
+004202582 264 1 L $$603$$aتهران :$$bنشر هنوز،$$c1394 [2015 or 2016].
+004202582 300   L $$a338 pages ;$$c21 cm
+004202582 336   L $$atext$$btxt$$2rdacontent
+004202582 337   L $$aunmediated$$bn$$2rdamedia
+004202582 338   L $$avolume$$bnc$$2rdacarrier
+004202582 546   L $$aIn Persian.
+004202582 650 0 L $$aConduct of life$$vHumor.
+004202582 650 0 L $$aIntellectuals$$vHumor.
+004202582 650 0 L $$aSnobs and snobbishness$$vHumor.
+004202582 650 0 L $$aAmerican wit and humor$$vTranslations into Persian.
+004202582 8590  L $$aNNU$$bBOBST$$cMAIN$$hPN6231.C6142$$iK651675 2012$$p31142059875917
+004202582 FMT   L BK
+004202329 LDR   L ^^^^^cam^a2200457^i^4500
+004202329 001   L 004202329
+004202329 003   L NNU
+004202329 005   L 20160427010159.0
+004202329 008   L 150629s2014^^^^ir^a^^^^^^^^^^000^0^per^^
+004202329 010   L $$a  2015326540
+004202329 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCQ$$dTEF
+004202329 066   L $$c(3$$c(4
+004202329 020   L $$a9789647610803$$q(v. 1)
+004202329 020   L $$a9647610807$$q(v. 1)
+004202329 020   L $$a9789647610810$$q(v. 2)
+004202329 020   L $$a9647610815$$q(v. 2)
+004202329 035   L $$a(OCoLC)912508400
+004202329 037   L $$bLibrary of Congress -- Islamabad Overseas Office
+004202329 042   L $$alcode
+004202329 043   L $$aa-ir---
+004202329 050 4 L $$aNK2809.P4$$bS233 2014
+004202329 1001  L $$601$$aSabahi, Taher,$$eauthor.
+004202329 1001  L $$601$$aصباحى، طاهر،$$eauthor.
+004202329 24510 L $$602$$aChikīdahʹʼī az tārīkh va hunar-i qālīʹbāfī-i mashriq zamīn /$$cDuktur Sayyid Ṭāhir Ṣabāḥī.
+004202329 24510 L $$602$$aچکىده‌ئي از تارىخ و هنر قالى‌بافى مشرق زمىن /$$cدکتر سيد طاهر صباحى.
+004202329 24614 L $$603$$aQālīn :$$bchikīdahʹʼī az tārīkh va hunar-i qālīʹbāfī-i mashriq zamīn
+004202329 24614 L $$603$$aقالىن :$$bچکىده‌ئي از تارىخ و هنر قالى‌بافى مشرق زمىن
+004202329 250   L $$604$$aChāp-i avval.
+004202329 250   L $$604$$aچاپ اول.
+004202329 264 1 L $$605$$aTihrān :$$bKhānah-i Farhang va Hunar-i Gūyā,$$c1393 [2014].
+004202329 264 1 L $$605$$aتهران :$$bخانه فرهنگ و هنر گوىا،$$c1393 [2014].
+004202329 300   L $$a2 volumes :$$bcolor illustrations ;$$c35 cm
+004202329 336   L $$atext$$btxt$$2rdacontent
+004202329 337   L $$aunmediated$$bn$$2rdamedia
+004202329 338   L $$avolume$$bnc$$2rdacarrier
+004202329 546   L $$aIn Persian.
+004202329 650 0 L $$aCarpets$$zIran$$xHistory.
+004202329 8590  L $$aNNU$$bBOBST$$cMAIN$$hNK2809.P4$$iS233 2014$$3v.1$$p31142059875875
+004202329 8590  L $$aNNU$$bBOBST$$cMAIN$$hNK2809.P4$$iS233 2014$$3v.2$$p31142059875883
+004202329 FMT   L BK
+004202501 LDR   L ^^^^^nam^a2200337^i^4500
+004202501 001   L 004202501
+004202501 003   L NNU
+004202501 005   L 20160427100432.0
+004202501 008   L 160427s2014^^^^ir^a^^^^^s^^^^001^0^eng^d
+004202501 040   L $$aNNU$$cTEF
+004202501 066   L $$c(3$$c(4
+004202501 020   L $$a9789643659516$$cprint
+004202501 020   L $$a9643659518$$cprint
+004202501 035   L $$a(OCoLC)947963491
+004202501 043   L $$aa-ir---
+004202501 050 4 L $$aHA4570.2$$b.A2 2014
+004202501 24500 L $$aIran statistical yearbook 1391 :$$b(2012-2013).
+004202501 264 1 L $$aTehran :$$bStatistical Centre of Iran,$$cDecember 2014.
+004202501 300   L $$a1046 pages :$$bcolor illustrations ;$$c28 cm
+004202501 336   L $$atext$$btxt$$2rdacontent
+004202501 337   L $$aunmediated$$bn$$2rdamedia
+004202501 338   L $$avolume$$bnc$$2rdacarrier
+004202501 500   L $$aIncludes index.
+004202501 650 0 L $$aStatistics$$zIran.
+004202501 651 0 L $$aIran$$xSocial conditions$$vStatistics.
+004202501 651 0 L $$aIran$$xEconomic conditions$$vStatistics.
+004202501 7102  L $$601$$aMarkaz-i Āmār-i Īrān,$$eproducer.
+004202501 7102  L $$601$$aمرکز آمار ايران،$$eproducer.
+004202501 8590  L $$aNNU$$bBOBST$$cMAIN$$hHA4570.2$$i.A2 2014$$p31142059875396
+004202501 FMT   L BK
+004202496 LDR   L ^^^^^cam^a2200481^i^4500
+004202496 001   L 004202496
+004202496 003   L NNU
+004202496 005   L 20160427014059.0
+004202496 008   L 150730s2014^^^^ir^^^^^^^b^^^^001^0^per^^
+004202496 010   L $$a  2015326689
+004202496 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004202496 066   L $$c(3$$c(4
+004202496 020   L $$a9786006730134
+004202496 020   L $$a6006730138
+004202496 035   L $$a(OCoLC)915324072
+004202496 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202496 042   L $$alcode
+004202496 043   L $$aa-ir---
+004202496 050 4 L $$aBL1060$$b.A957 2014
+004202496 1001  L $$601$$aĀzhīr, Asad Allāh,$$d1969 or 1970-$$eauthor.
+004202496 1001  L $$601$$aآژير، اسد الله.
+004202496 24510 L $$602$$aMunjīʹbāvarī dar kīsh-i Zartushtī va adyān-i Ibrāhīmī =$$bMessianism in Zoroastrianism and Abrahamic religions /$$cAsad Allāh Āzhīr ; tahīyah, Pizhūhishkadah-i Adyān va Maz̲āhib.
+004202496 24510 L $$602$$aمنجى‌باورى در کيش زرتشتى و اديان ابراهيمى =$$bMessianism in Zoroastrianism and Abrahamic religions /$$cاسد الله آژير ؛ تهيه، پژوهشکده اديان و مذاهب.
+004202496 2461  L $$iTitle on page 4 of cover:$$aMessianism in Zoroastrianism and Abrahamic religions
+004202496 250   L $$603$$aChāp-i avval.
+004202496 250   L $$603$$aچاپ اول.
+004202496 264 1 L $$604$$aQum :$$bIntishārāt-i Dānishgāh-i Adyān va Maz̲āhib,$$c1392 [2014].
+004202496 264 1 L $$604$$aقم :$$bانتشارات دانشگاه اديان و مذاهب،$$c1392 [2014].
+004202496 300   L $$a490 pages ;$$c22 cm.
+004202496 336   L $$atext$$btxt$$2rdacontent
+004202496 337   L $$aunmediated$$bn$$2rdamedia
+004202496 338   L $$avolume$$bnc$$2rdacarrier
+004202496 4900  L $$605$$aIntishārāt-i Dānishgāh-i Adyān va Maz̲āhib.$$aPizhūhishkadah-i Adyān va Maz̲āhib ;$$v118
+004202496 4900  L $$605$$aانتشارات دانشگاه اديان و مذاهب.$$aپژوهشکده اديان و مذاهب ؛$$v118
+004202496 546   L $$aIn Persian.
+004202496 504   L $$aIncludes bibliographical references (pages 478-490) and index.
+004202496 650 0 L $$aMessianism.
+004202496 650 0 L $$aMahdism.
+004202496 7102  L $$606$$aDānishgāh-i Adyān va Maz̲āhib (Iran)
+004202496 7102  L $$606$$aدانشگاه اديان و مذاهب (ايران)
+004202496 8590  L $$aNNU$$bBOBST$$cMAIN$$hBL1060$$i.A957 2014$$p31142059875339
+004202496 FMT   L BK
+004202561 LDR   L ^^^^^cam^a2200469^i^4500
+004202561 001   L 004202561
+004202561 003   L NNU
+004202561 005   L 20160427034702.0
+004202561 008   L 150730s2014^^^^ir^a^^^^^b^^^^000^0^per^^
+004202561 010   L $$a  2015326740
+004202561 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202561 066   L $$c(3$$c(4
+004202561 020   L $$a9786005747904
+004202561 020   L $$a6005747908
+004202561 035   L $$a(OCoLC)915310063
+004202561 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202561 042   L $$alcode
+004202561 043   L $$aa-ir---
+004202561 050 4 L $$aDS275$$b.A233 2014
+004202561 1001  L $$601$$aʻAbbāsī, Muslim,$$d1981 or 1982-$$eauthor.
+004202561 1001  L $$601$$aعباسى، مسلم.
+004202561 24510 L $$602$$aTaḥavvul-i andīshah-i siyāsī dar Īrān-i bāstān :$$bmuṭālaʻah-i taṭbīqī-i Rīgʹvidā, Gāhān, Sangʹnabishtah-i Baghistān va barʹrasī-i andīshah-i siyāsī-i ʻĪlām-i bāstān /$$cMuslim ʻAbbāsī  ; mudīr-i hunarī, Bāsim al-Rassām.
+004202561 24510 L $$602$$aتحول انديشه سياسى در ايران باستان :$$bمطالعه تطبيقى ريگ‌ودا، گاهان، سنگ‌نبشته بغستان و بر‌رسى انديشه سياسى عىلام باستان /$$cمسلم عباسى ؛ مدير هنرى، باسم الرسام.
+004202561 250   L $$603$$aChāp-i avval.
+004202561 250   L $$603$$aچاپ اول.
+004202561 264 1 L $$604$$a[Tihrān] :$$bNashr-i Nigāh-i Muʻāṣir (vābastah bih Muʼassasah-ʼi Pizhūhishī-i Nigāh-i Muʻāṣir),$$c1393 [2014 or 2015].
+004202561 264 1 L $$604$$a[تهران] :$$bنشر نگاه معاصر (وابسته به مؤسسۀ پژوهشى نگاه معاصر)،$$c1393 [2014 or 2015].
+004202561 300   L $$a205 pages, 16 unnumbered pages :$$billustrations ;$$c24 cm.
+004202561 336   L $$atext$$btxt$$2rdacontent
+004202561 337   L $$aunmediated$$bn$$2rdamedia
+004202561 338   L $$avolume$$bnc$$2rdacarrier
+004202561 4900  L $$605$$aAndīshah-i siyāsī  :$$v26
+004202561 4900  L $$605$$aانديشه سياسى :$$v26
+004202561 546   L $$aIn Persian; dialect words given in roman form.
+004202561 504   L $$aIncludes bibliographical references (pages 195-205).
+004202561 651 0 L $$aIran$$xHistory$$yTo 640.
+004202561 651 0 L $$aElam$$xHistory.
+004202561 7001  L $$606$$aAl-Rassām, Bāsim,$$eeditor.
+004202561 7001  L $$606$$aرسام، باسم.
+004202561 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS275$$i.A233 2014$$p31142059875743
+004202561 FMT   L BK
+004227808 LDR   L ^^^^^cam^a2200433^i^4500
+004227808 001   L 004227808
+004227808 003   L NNU
+004227808 005   L 20160427044159.0
+004227808 008   L 151127s2014^^^^ir^a^^^^^b^^^^000^0^per^^
+004227808 010   L $$a  2015325743
+004227808 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004227808 066   L $$c(3$$c(4
+004227808 020   L $$a9786003250413
+004227808 020   L $$a6003250410
+004227808 035   L $$a(OCoLC)930576252
+004227808 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227808 042   L $$alcode
+004227808 043   L $$aa-ir---
+004227808 050 4 L $$aKMH110.K388$$bB3 2014
+004227808 24500 L $$601$$aBā qāfilah-i ʻadālat :$$byādʹnāmah-i ustād duktur Nāṣir Kātūziyān /$$cbih khvāstārī-i Dānishkadah-i Ḥuqūq va ʻUlūm-i Ijtimāʻī-i Dānishgāh-i Tabrīz ; bih ihtimām-i Duktur Ibrāhīm Shuʻāriyān.
+004227808 24500 L $$601$$aبا قافله عدالت :$$bىاد‌نامه استاد دکتر ناصر کاتوزىان /$$cبه خواستارى دانشکده حقوق و علوم اجتماعى دانشگاه تبرىز ؛ به اهتمام دکتر ابراهىم شعارىان.
+004227808 250   L $$602$$aChāp-i avval.
+004227808 250   L $$602$$aچاپ اول.
+004227808 264 1 L $$603$$aTabrīz :$$bSutūdah,$$c1393 [2014].
+004227808 264 1 L $$603$$aتبرىز :$$bستوده،$$c1393 [2014].
+004227808 300   L $$a1176 pages, 14 unnumbered pages of plates :$$billustrations, some color ;$$c25 cm
+004227808 336   L $$atext$$btxt$$2rdacontent
+004227808 337   L $$aunmediated$$bn$$2rdamedia
+004227808 338   L $$avolume$$bnc$$2rdacarrier
+004227808 546   L $$aIn Persian.
+004227808 504   L $$aIncludes bibliographical references.
+004227808 60010 L $$604$$aKātūziyān, Nāṣir.
+004227808 60014 L $$604$$aکاتوزىان، ناصر.
+004227808 650 0 L $$aLawyers$$zIran.
+004227808 7001  L $$605$$aShuʻāriyān, Ibrāhīm,$$eeditor.
+004227808 7001  L $$605$$aشعارىان، ابراهىم،$$eeditor.
+004227808 8590  L $$aNNU$$bBOBST$$cMAIN$$hKMH110.K388$$iB3 2014$$p31142059881766
+004227808 FMT   L BK
+004202497 LDR   L ^^^^^nam^a2200397^i^4500
+004202497 001   L 004202497
+004202497 003   L NNU
+004202497 005   L 20160427011711.0
+004202497 008   L 160317s2014^^^^ir^a^^^^^b^^^^000^0^per^^
+004202497 040   L $$aNOC$$beng$$erda$$cNOC
+004202497 066   L $$c(3$$c(4
+004202497 020   L $$a9789645405517
+004202497 020   L $$a9645405513
+004202497 035   L $$a(OCoLC)944973852
+004202497 042   L $$apcc
+004202497 043   L $$aa-su---$$aa-ir---
+004202497 050 4 L $$aBP187.3$$b.S925 2014
+004202497 1001  L $$601$$aSulṭānī Muqaddam, Ḥamīdah,$$d1982 or 1983-$$eauthor.
+004202497 1001  L $$601$$aسلطانى مقدم، حميده،$$d1982 or 1983-
+004202497 24510 L $$602$$aBarguzārī-i ḥaj dar dawrah-i Pahlavī /$$cḤamīdah Sulṭānī Muqaddam.
+004202497 24510 L $$602$$aبرگزارى حج در دوره پهلوى /$$cحميده سلطانى مقدم.
+004202497 250   L $$603$$aNawbat-i chāp: avval.
+004202497 250   L $$603$$aنوبت چاپ: اول.
+004202497 264 1 L $$604$$aTihrān :$$bMuʼassasah-i Farhangī Hunarī-i Mashʻar,$$c1393 [2014 or 2015]
+004202497 264 1 L $$604$$aتهران :$$bمؤسسه فرهنگى هنرى مشعر،$$c1393 [2014 or 2015]
+004202497 300   L $$a136 pages :$$billustrations ;$$c22 cm
+004202497 336   L $$atext$$btxt$$2rdacontent
+004202497 337   L $$aunmediated$$bn$$2rdamedia
+004202497 338   L $$avolume$$bnc$$2rdacarrier
+004202497 504   L $$aIncludes bibliographical references (pages 77-79).
+004202497 546   L $$aIn Persian.
+004202497 650 0 L $$aPilgrims and pilgrimages$$zSaudi Arabia$$zMecca$$xHistory.
+004202497 651 0 L $$aIran$$xHistory$$yPahlavi dynasty, 1925-1979.
+004202497 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP187.3$$i.S925 2014$$p31142059875347
+004202497 FMT   L BK
+004227850 LDR   L ^^^^^cem^a2200541^i^4500
+004227850 001   L 004227850
+004227850 003   L NNU
+004227850 005   L 20160427033710.0
+004227850 007   L ad^canzn
+004227850 008   L 151127s2015^^^^ir^bci^^^^e^^^^^0^^^per^^
+004227850 010   L $$a  2015325767
+004227850 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dNUI
+004227850 066   L $$c(3$$c(4
+004227850 020   L $$a9789643424480
+004227850 020   L $$a9643424480
+004227850 0341  L $$aa$$b1000000
+004227850 035   L $$a(OCoLC)930763775
+004227850 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227850 042   L $$alcode
+004227850 043   L $$aa-ir---
+004227850 052   L $$a7621
+004227850 090   L $$aG2256.P2$$bS55 2015
+004227850 1102  L $$601$$aShirkat-i Gītā Shināsī.$$bVāḥid-i Pizhūhish va Taʼlīf.
+004227850 1102  L $$601$$aشرکت گىتا شناسى.$$bواحد پژوهش و تاءلىف.
+004227850 24510 L $$602$$aAṭlas-i rāhʹhā-yi Īrān 1394.
+004227850 24510 L $$602$$aاطلس راه‌اى ايران 1394.
+004227850 2461  L $$iEnglish title on page [4] of cover :$$aRoad Atlas of Iran, 2015
+004227850 250   L $$603$$aChāp-i avval.
+004227850 250   L $$603$$aچاپ اڤل.
+004227850 255   L $$aScale 1:1,000,000.
+004227850 264 1 L $$604$$aTihrān :$$bMuʼassasah-i Jughrāfiyāyī va Kārtūgirāfī-i Gītāshināsī,$$c2015.
+004227850 264 1 L $$604$$aتهران :$$bمؤسسه جغرافىاىى و کارتوگرافى گىتاشناسى،$$c2015.
+004227850 300   L $$a1 atlas (311 pages) :$$bcolor illustrations, color maps ;$$c25 cm.
+004227850 336   L $$acartographic image$$bcri$$2rdacontent
+004227850 337   L $$aunmediated$$bn$$2rdamedia
+004227850 338   L $$avolume$$bnc$$2rdacarrier
+004227850 4900  L $$605$$aSirī Aṭlasʹhā-yi Gītāshināsī,$$v545
+004227850 4900  L $$605$$aسرى اطلس‌اى گىتاشناسى،$$v545
+004227850 500   L $$aRelief shown pictorially and by shading and gradient tints. Depths shown by bathymetric tints.
+004227850 500   L $$aIncludes indexes.
+004227850 520   L $$aRoads - Iran - Maps ; Cities and towns - Iran ; Villages - Iran.
+004227850 546   L $$aIn Persian.
+004227850 650 0 L $$aRoads$$zIran$$vMaps.
+004227850 650 0 L $$aCities and towns$$zIran$$vMaps.
+004227850 650 0 L $$aVillages$$zIran$$vMaps.
+004227850 8590  L $$aNNU$$bBOBST$$cMAIN$$p31142059881485
+004227850 FMT   L MP
+004227855 LDR   L ^^^^^cam^a2200517^i^4500
+004227855 001   L 004227855
+004227855 003   L NNU
+004227855 005   L 20160427040905.0
+004227855 008   L 151127s2015^^^^ir^^^^^^^b^^^^001^0^per^^
+004227855 010   L $$a  2015325772
+004227855 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dHLS$$dOCLCO$$dOCLCF$$dOCLCO$$dTEF
+004227855 066   L $$c(3$$c(4
+004227855 020   L $$a9786002202130
+004227855 020   L $$a6002202137
+004227855 035   L $$a(OCoLC)930576236
+004227855 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227855 042   L $$alcode
+004227855 043   L $$aa-ir---
+004227855 050 4 L $$aD13.5.I7$$bA438 2015
+004227855 1001  L $$601$$aAlburzī, Parvīz,$$eauthor.
+004227855 1001  L $$601$$aالبرزى، پروىز،$$eauthor.
+004227855 24510 L $$602$$aNaqd va barʹrasī-i mutūn-i tārīkhī bih zabān-i Fārsī :$$bbā shinākhtī az tārīkhʹhā va tārīkhʹnigārān-i Īrān va guzīnish va sharḥ-i nimūnahʹhāyī az mutūn-i tārīkhī az sadah-i chahārum tā Inqilāb-i Mashrūṭah /$$cParvīz Alburz.
+004227855 24510 L $$602$$aنقد و بر‌رسى متون تارىخى به زبان فارسى :$$bبا شناختى از تارىخ‌ها و تارىخ‌نگاران ايران و گزىنش و شرح نمونه‌هاىى از متون تارىخى از سده چهارم تا انقلاب مشروطه /$$cپروىز البرز.
+004227855 24615 L $$aCriticism and study of historical texts in Persian :$$bwith a cognition of histories and historians of Iran from IVth century to the Constitutional Revolution and selection & explanation of some samples of historical texts
+004227855 250   L $$603$$aChāp-i avval.
+004227855 250   L $$603$$aچاپ اول.
+004227855 264 1 L $$604$$aTihrān :$$bKitābkhānah, Mūzih va Markaz-i Asnād-i Majlis-i Shūrā-yi Islāmī,$$c2015.
+004227855 264 1 L $$604$$aتهران :$$bکتابخانه, موزه و مرکز اسناد مجلس شورای اسلامی,$$c2015.
+004227855 300   L $$a1154 pages ;$$c25 cm.
+004227855 336   L $$atext$$btxt$$2rdacontent
+004227855 337   L $$aunmediated$$bn$$2rdamedia
+004227855 338   L $$avolume$$bnc$$2rdacarrier
+004227855 546   L $$aIn Persian.
+004227855 504   L $$aIncludes bibliographical references and index.
+004227855 520   L $$aHistoriography - Iran - History ; Historians - Iran.
+004227855 650 0 L $$aHistoriography$$zIran$$xHistory.
+004227855 650 0 L $$aHistorians$$zIran.
+004227855 650 7 L $$aHistorians.$$2fast$$0(OCoLC)fst00957686
+004227855 650 7 L $$aHistoriography.$$2fast$$0(OCoLC)fst00958221
+004227855 651 7 L $$aIran.$$2fast$$0(OCoLC)fst01204889
+004227855 655 7 L $$aHistory.$$2fast$$0(OCoLC)fst01411628
+004227855 7101  L $$605$$aIran.$$bMajlis-i Shūrā-yi Islāmī.$$bKitābkhānah, Mūzih va Markaz-i Asnād.
+004227855 7101  L $$605$$aايران.$$bمجلس شوراى اسلامى.$$bکتابخانه، موزه و مرکز اسناد.
+004227855 8590  L $$aNNU$$bBOBST$$cMAIN$$hD13.5.I7$$iA438 2015$$p31142059881527
+004227855 FMT   L BK
+004227802 LDR   L ^^^^^cam^a2200421^i^4500
+004227802 001   L 004227802
+004227802 003   L NNU
+004227802 005   L 20160427050051.0
+004227802 008   L 151127s2015^^^^ir^^^^^^^b^^^^001^0^per^^
+004227802 010   L $$a  2015325740
+004227802 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004227802 066   L $$c(3$$c(4
+004227802 020   L $$a9789642246649
+004227802 020   L $$a9642246643
+004227802 035   L $$a(OCoLC)930576172
+004227802 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227802 042   L $$alcode
+004227802 050 4 L $$aHT166$$b.A378 2015
+004227802 1001  L $$601$$aAfrūgh, ʻImād,$$d1957 or 1958-$$eauthor.
+004227802 1001  L $$601$$aافروغ، عماد،$$eauthor.
+004227802 24510 L $$602$$aFaz̤ā va jāmiʻah :$$bfaz̤ā-yi shahrī va nāʹbarābarī-i ijtimāʻī "irāʼah-i ulgūyī barā-yi judāyī guzīnī-i faz̤āyī va payāmadʹhā-yi ān" /$$cʻImād Afrūgh.
+004227802 24510 L $$602$$aفضا و جامعه :$$bفضاى شهرى و نا‌برابرى اجتماعى "اراءه الگوىى براى جداىى گزىنى فضاىى و پىامد‌هاى آن" /$$cعماد افروغ.
+004227802 250   L $$603$$aChāp-i avval.
+004227802 250   L $$603$$aچاپ اول.
+004227802 264 1 L $$604$$aTihrān :$$bNashr-i ʻIlm,$$c1394 [2015].
+004227802 264 1 L $$604$$aتهران :$$bنشر علم،$$c1394 [2015].
+004227802 300   L $$a343  pages ;$$c24 cm
+004227802 336   L $$atext$$btxt$$2rdacontent
+004227802 337   L $$aunmediated$$bn$$2rdamedia
+004227802 338   L $$avolume$$bnc$$2rdacarrier
+004227802 546   L $$aIn Persian.
+004227802 504   L $$aIncludes bibliographical references (pages 307-318) and index.
+004227802 650 0 L $$aCity planning.
+004227802 650 0 L $$aCity planning$$xSocial aspects.
+004227802 650 0 L $$aCity planning$$xPhilosophy.
+004227802 8590  L $$aNNU$$bBOBST$$cMAIN$$hHT166$$i.A378 2015$$p31142059881782
+004227802 FMT   L BK
+004202498 LDR   L ^^^^^nam^a2200409^i^4500
+004202498 001   L 004202498
+004202498 003   L NNU
+004202498 005   L 20160219103331.8
+004202498 008   L 160219s2014^^^^ir^^^^^^^b^^^^000^0^per^^
+004202498 040   L $$aNOC$$beng$$erda$$cNOC
+004202498 066   L $$c(3$$c(4
+004202498 020   L $$a9789643214005
+004202498 020   L $$a9643214001
+004202498 042   L $$apcc
+004202498 050 4 L $$aCB251$$b.S483 2014
+004202498 1001  L $$601$$aShayegan, Darius,$$eauthor.
+004202498 1001  L $$601$$aشايگان، داريوش.
+004202498 24510 L $$602$$aButʹhā-yi z̲ihnī va khāṭirah-ʼi azalī /$$cDāryūsh Shāyigān = Idols of the mind and perennial memory / by Daryush Shayegan.
+004202498 24510 L $$602$$aبتهاى ذهنى و خاطرۀ ازلى /$$cداريوش شايگان = Idols of the mind and perennial memory / by Daryush Shayegan.
+004202498 24615 L $$aIdols of the mind and perennial memory
+004202498 250   L $$603$$aChāp-i avval.
+004202498 250   L $$603$$aچاپ اول.
+004202498 264 1 L $$604$$a[Tehran] :$$bNashr-i Farzān-i Rūz,$$c1393 [2014 or 2015]
+004202498 264 1 L $$604$$a[Tehran] :$$bنشر فرزان روز،$$c1393 [2014 or 2015]
+004202498 300   L $$a231 pages ;$$c22 cm
+004202498 336   L $$atext$$btxt$$2rdacontent
+004202498 337   L $$aunmediated$$bn$$2rdamedia
+004202498 338   L $$avolume$$bnc$$2rdacarrier
+004202498 504   L $$aIncludes bibliographical references.
+004202498 650 0 L $$aEast and West.
+004202498 650 0 L $$aCivilization, Oriental.
+004202498 650 0 L $$aCivilization, Western.
+004202498 650 7 L $$aCivilization, Oriental.$$2fast$$0(OCoLC)fst00863115
+004202498 650 7 L $$aCivilization, Western.$$2fast$$0(OCoLC)fst00863138
+004202498 650 7 L $$aEast and West.$$2fast$$0(OCoLC)fst00901090
+004202498 8590  L $$aNNU$$bBOBST$$cMAIN$$hCB251$$i.S483 2014$$p31142059875354
+004202498 FMT   L BK
+004227854 LDR   L ^^^^^cam^a2200433^i^4500
+004227854 001   L 004227854
+004227854 003   L NNU
+004227854 005   L 20160427030447.0
+004227854 008   L 151127s2015^^^^ir^a^^^^^b^^^^001^0^per^^
+004227854 010   L $$a  2015325771
+004227854 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004227854 066   L $$c(3$$c(4
+004227854 020   L $$a9786006069012
+004227854 020   L $$a6006069016
+004227854 035   L $$a(OCoLC)930576226
+004227854 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227854 042   L $$alcode
+004227854 043   L $$aa-ir---
+004227854 050 4 L $$aD13.5.I7$$bA336 2015
+004227854 1001  L $$601$$aĀdamīyat, Farīdūn,$$d1920-$$eauthor.
+004227854 1001  L $$601$$aآدميت، فرىدون،$$eauthor.
+004227854 24510 L $$602$$aInḥīṭāṭ-i tārīkhnigārī dar Īrān :$$bmaqālāt-i tārīkhī /$$cFarīdūn Ādamīyat ; bih ihtimām-i Sayyid Ibrāhīm Ashkʹshīrīn.
+004227854 24510 L $$602$$aانحىطاط تارىخنگارى در ايران :$$bمقالات تارىخى /$$cفرىدون آدمية ؛ به اهتمام سيد ابراهىم اشک‌شىرىن.
+004227854 250   L $$603$$aChāp-i avval.
+004227854 250   L $$603$$aچاپ اول.
+004227854 264 1 L $$604$$aTihrān :$$bNashr-i Gustarah,$$c1394 [2015].
+004227854 264 1 L $$604$$aتهران :$$bنشر گستره،$$c1394 [2015].
+004227854 300   L $$a314 pages :$$billustrations ;$$c25 cm
+004227854 336   L $$atext$$btxt$$2rdacontent
+004227854 337   L $$aunmediated$$bn$$2rdamedia
+004227854 338   L $$avolume$$bnc$$2rdacarrier
+004227854 546   L $$aIn Persian.
+004227854 504   L $$aIncludes bibliographical references and index.
+004227854 650 0 L $$aHistoriography$$zIran.
+004227854 7001  L $$605$$aAshk Shīrīn, Ibrāhīm,$$d1959 or 1960-$$eeditor.
+004227854 7001  L $$605$$aاشک شىرىن، ابراهىم،$$eeditor.
+004227854 8590  L $$aNNU$$bBOBST$$cMAIN$$hD13.5.I7$$iA336 2015$$p31142059881519
+004227854 FMT   L BK
+004202511 LDR   L ^^^^^nam^a2200361^i^4500
+004202511 001   L 004202511
+004202511 003   L NNU
+004202511 005   L 20160427121809.0
+004202511 008   L 160427s2014^^^^ir^a^^^^^s^^^^000^0^per^d
+004202511 040   L $$aNNU$$beng$$erda$$cTEF
+004202511 066   L $$c(3$$c(4
+004202511 035   L $$a(OCoLC)948012666
+004202511 050 4 L $$aHD7359.2.T44$$bM375 2014
+004202511 24500 L $$601$$aIṭlāʻāt-i qaymat va ijārah-i muskin dar shahr Tihrān, Tābistān 1393.
+004202511 24500 L $$601$$aاطلاعات قىمت و اجاره مسکن در شهر تهران، تابستان 1393.
+004202511 250   L $$602$$aChāp-i avval.
+004202511 250   L $$602$$aچاپ اول.
+004202511 264 1 L $$603$$aTihrān :$$bMarkaz-i Āmār-i Īrān,$$c1393 [2014 or 2015].
+004202511 264 1 L $$603$$aتهران :$$bمرکز آمار ايران،$$c1393 [2014 or 2015].
+004202511 300   L $$a21 pages :$$billustrations ;$$c30 cm
+004202511 336   L $$atext$$btxt$$2rdacontent
+004202511 337   L $$aunmediated$$bn$$2rdamedia
+004202511 338   L $$avolume$$bnc$$2rdacarrier
+004202511 546   L $$aIn Persian.
+004202511 500   L $$604$$aAt head of title: Riyāsat-i Jumhūrī, Muʻāvinat-i Barnāmah-i Rīzī va Niẓārat-i Rāhbardī.
+004202511 500   L $$604$$aAt head of title: رىاست جمهورى، معاونت برنامه رىزى و نظارت راهبردى.
+004202511 650 0 L $$aHousing$$zIran$$zTehran$$vStatistics.
+004202511 650 0 L $$aHousing$$xPrices$$zIran$$zTehran$$vStatistics.
+004202511 650 0 L $$aHousing$$zIran$$zTehran$$xCosts$$vStatistics.
+004202511 650 0 L $$aRent charges$$zIran$$zTehran$$vStatistics.
+004202511 8590  L $$aNNU$$bBOBST$$cMAIN$$hHD7359.2.T44$$iM375 2014$$p31142059875495
+004202511 FMT   L BK
+004202440 LDR   L ^^^^^cam^a2200433^i^4500
+004202440 001   L 004202440
+004202440 003   L NNU
+004202440 005   L 20160427014532.0
+004202440 008   L 150630s2014^^^^ir^^^^^^^^^^^^000^0^per^^
+004202440 010   L $$a  2015326615
+004202440 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202440 066   L $$c(3$$c(4
+004202440 020   L $$a9786003162297
+004202440 020   L $$a6003162295
+004202440 035   L $$a(OCoLC)912874426
+004202440 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202440 042   L $$alcode
+004202440 050 4 L $$aPK6424.L39$$bM346 2014
+004202440 1001  L $$601$$aMaḥmūdī, Maryam,$$d1973 or 1974-
+004202440 1001  L $$601$$aمحمودى، مريم.
+004202440 24510 L $$602$$aNigāhī-i dīgar :$$bbāzʹbīnī-i mutūn-i mans̲ūr-i adab-i Fārsī az manẓar-i ḥūqūq-i kayfarī /$$cDuktur Maryam Maḥmūdī.
+004202440 24510 L $$602$$aنگاهى ديگر :$$bباز‌بينى متون منثور ادب فارسى از منظر حوقوق کيفرى /$$cدکتر مريم محمودى.
+004202440 2463  L $$603$$aBāzʹbīnī-i mutūn-i mans̲ūr-i adab-i Fārsī az manẓar-i ḥūqūq-i kayfarī
+004202440 2463  L $$603$$aباز‌بينى متون منثور ادب فارسى از منظر حوقوق کيفرى
+004202440 250   L $$604$$aChāp-i avval.
+004202440 250   L $$604$$aچاپ اول.
+004202440 264 1 L $$605$$aTihrān :$$bIntishārāt-i Jangal, Jāvidanah,$$c1393 [2014 or 2015].
+004202440 264 1 L $$605$$aتهران :$$bانتشارات جنگل، جاودنه،$$c1393 [2014 or 2015].
+004202440 300   L $$a11, 136 pages ;$$c22 cm
+004202440 336   L $$atext$$2rdacontent
+004202440 337   L $$aunmediated$$2rdamedia
+004202440 338   L $$avolume$$2rdacarrier
+004202440 546   L $$aIn Persian.
+004202440 650 0 L $$aLaw in literature.
+004202440 650 0 L $$aPersian prose literature$$y11th century$$xHistory and criticism.
+004202440 650 0 L $$aPersian prose literature$$y12th century$$xHistory and criticism.
+004202440 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6424.L39$$iM346 2014$$p31142059875040
+004202440 FMT   L BK
+004202547 LDR   L ^^^^^cam^a2200493^i^4500
+004202547 001   L 004202547
+004202547 003   L NNU
+004202547 005   L 20160427010739.0
+004202547 008   L 150730s2015^^^^ir^^^^^^^b^^^^001^0^per^^
+004202547 010   L $$a  2015326732
+004202547 040   L $$aDLC$$beng$$erda$$cDLC$$dHLS$$dOCLCO$$dOCLCF$$dTEF
+004202547 066   L $$c(3$$c(4
+004202547 020   L $$a9786006826738
+004202547 020   L $$a6006826739
+004202547 035   L $$a(OCoLC)915309878
+004202547 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202547 042   L $$alcode
+004202547 043   L $$aa-ir---
+004202547 050 4 L $$aDS266$$b.B363 2015
+004202547 1001  L $$601$$aBaqāʼī, Muḥammad,$$d1944 or 1945-
+004202547 1001  L $$601$$aبقائى، محمد.
+004202547 24510 L $$602$$aNigarishʹhā-yi Īrānī /$$cMuḥammad Baqāyī Mākān.
+004202547 24510 L $$602$$aنگرش‌هاى ايرانى /$$cمحمد بقاىى ماکان.
+004202547 250   L $$603$$aChāp-i avval.
+004202547 250   L $$603$$aچاپ اول.
+004202547 264 1 L $$604$$aTihrān :$$bNashr-i Risānish-i Nuvīn,$$c1394 [2015 or 2016]
+004202547 264 1 L $$604$$aتهران :$$bنشر رسانش نوين،$$c1394 [2015 or 2016].
+004202547 300   L $$a504 pages ;$$c22 cm
+004202547 336   L $$atext$$btxt$$2rdacontent
+004202547 337   L $$aunmediated$$bn$$2rdamedia
+004202547 338   L $$avolume$$bnc$$2rdacarrier
+004202547 504   L $$aIncludes bibliographical references and index.
+004202547 520   L $$aCollection of articles on Iranian history, culture and identity, 20th Century.
+004202547 546   L $$aIn Persian.
+004202547 651 0 L $$aIran$$xHistory.
+004202547 651 0 L $$aIran$$xCivilization.
+004202547 650 0 L $$aIranians$$xEthnic identity.
+004202547 650 7 L $$aCivilization.$$2fast$$0(OCoLC)fst00862898
+004202547 650 7 L $$aIranians$$xEthnic identity.$$2fast$$0(OCoLC)fst00978820
+004202547 651 7 L $$aIran.$$2fast$$0(OCoLC)fst01204889
+004202547 655 7 L $$aHistory.$$2fast$$0(OCoLC)fst01411628
+004202547 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS266$$i.B363 2015$$p31142059875727
+004202547 FMT   L BK
+004202575 LDR   L ^^^^^cam^a2200469^i^4500
+004202575 001   L 004202575
+004202575 003   L NNU
+004202575 005   L 20160427023938.0
+004202575 008   L 150730s2014^^^^ir^^^^^^^b^^^^000^0^per^^
+004202575 010   L $$a  2015326756
+004202575 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202575 066   L $$c(3$$c(4
+004202575 020   L $$a9789646401921
+004202575 020   L $$a9646401929
+004202575 035   L $$a(OCoLC)915310084
+004202575 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202575 042   L $$alcode
+004202575 043   L $$aa-ir---
+004202575 050 4 L $$aDS324.Q8$$bA363 2014
+004202575 1001  L $$601$$aAḥmadīʹzādagān, Nargis,$$d1982 or 1983-$$eauthor.
+004202575 1001  L $$601$$aاحمدى‌زادگان، نرگس.
+004202575 24510 L $$602$$aQum dar dawrah-i Ṣafavīyah :$$bbarʹrasī-i farhangī, ijtimāʻī, maz̲habī va siyāsī /$$cmuʼallif, Nargis Aḥmadīʹzādagān.
+004202575 24510 L $$602$$aقم در دوره صفويه :$$bبر‌رسى فرهنگى، اجتماعى، مذهبى و سياسى /$$cمؤلف، نرگس احمدى‌زادگان.
+004202575 250   L $$603$$aChāp-i avval.
+004202575 250   L $$603$$aچاپ اول.
+004202575 264 1 L $$604$$aQum :$$bZāʼir, Āstān-i Muqaddas,$$c1393 [2014 or 2015].
+004202575 264 1 L $$604$$aقم :$$bزائر، آستان مقدس،$$c1393 [2014 or 2015].
+004202575 300   L $$a280 pages ;$$c22 cm.
+004202575 336   L $$atext$$btxt$$2rdacontent
+004202575 337   L $$aunmediated$$bn$$2rdamedia
+004202575 338   L $$avolume$$bnc$$2rdacarrier
+004202575 4900  L $$605$$aZāʼir, Intishārāt-i Āstān-i Muqaddas-i Ḥaz̤rat-i Fāṭimah Maʻṣūmah ;$$v476.$$aMudīrīyat-i Pizhūhishī-i Āstān-i Muqaddas-i Qum ;$$vshumārah-i as̲ar-i 93
+004202575 4900  L $$605$$aزائر، انتشارات آستان مقدس حضرت فاطمه معصومه ؛$$v476.$$aمديريت پزوهشى آستان مقدس قم ؛$$vشماره اثر 93
+004202575 500   L $$a"Zāʼir, Intishārāt-i Āstān-i Muqaddas-i Ḥaz̤rat-i Fāṭimah Maʻṣūmah"--Cover.
+004202575 546   L $$aIn Persian.
+004202575 504   L $$aIncludes bibliographical references (pages 265-280).
+004202575 651 0 L $$aQum (Iran : Province)$$xHistory.
+004202575 7102  L $$606$$aĀstānah-ʼi Muqaddas-i Ḥaz̤rat-i Maʻṣūmah.$$bIntishārāt-i Zāʼir.
+004202575 7102  L $$606$$aآستانۀ مقدس حضرت معصومه.$$bانتشارات زائر.
+004202575 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS324.Q8$$iA363 2014$$p31142059875859
+004202575 FMT   L BK
+004202483 LDR   L ^^^^^cam^a2200493^i^4500
+004202483 001   L 004202483
+004202483 003   L NNU
+004202483 005   L 20160427012311.0
+004202483 008   L 150630s2014^^^^ir^a^^^^^^^^^^000^0aper^^
+004202483 010   L $$a  2015326647
+004202483 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dEYM$$dOCLCO$$dTEF
+004202483 066   L $$c(3$$c(4
+004202483 020   L $$a9789641853879
+004202483 020   L $$a9641853872
+004202483 035   L $$a(OCoLC)912874787
+004202483 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202483 042   L $$alcode
+004202483 043   L $$aa-ir---
+004202483 050 4 L $$aDS324.A9$$bA233 2014
+004202483 1001  L $$601$$aʻAbd al-ʻAlīʹzādah, ʻAlī,$$d1954-
+004202483 1001  L $$601$$aعبد العلى‌زاده، على.
+004202483 24510 L $$602$$aĀqā-yi ustāndār :$$bkhāṭirāt-i ʻAlī ʻAbd al-ʻAlīʹzādah az dawrān-i ustāndārī-i Āz̲arbāyjān-i Sharqī /$$cbih kūshish-i Nādir Dāvūdī ; vīrāstār, Sārā Kulhar.
+004202483 24510 L $$602$$aآقاى استاندار :$$bخاطرات على عبد العلى‌زاده از دوران استاندارى آذربايجان شرقى /$$cبه کوشش نادر داوودى ؛ ويراستار، سارا کلهر.
+004202483 250   L $$603$$aChāp-i duvvum.
+004202483 250   L $$603$$aچاپ دوم.
+004202483 264 1 L $$604$$aTihrān :$$bNashr-i Nay,$$c1393 [2014 or 2015].
+004202483 264 1 L $$604$$aتهران :$$bنشر نى،$$c1393 [2014 or 2015].
+004202483 300   L $$a200 pages :$$billustrations ;$$c22 cm
+004202483 336   L $$atext$$2rdacontent
+004202483 337   L $$aunmediated$$2rdamedia
+004202483 338   L $$avolume$$2rdacarrier
+004202483 520   L $$aʻAbd al-ʻAlīʹzādah, ʻAlī -- Diaries ; Governors - Iran -- Āz̲arbāyjān-i Khāvarī - Diaries.
+004202483 546   L $$aIn Persian.
+004202483 60010 L $$605$$aʻAbd al-ʻAlīʹzādah, ʻAlī$$vDiaries.
+004202483 60014 L $$605$$aعبد العلى‌زاده، على.
+004202483 650 0 L $$aGovernors$$zIran$$zAzerbaijan$$vBiography.
+004202483 651 0 L $$aAzerbaijan (Iran)$$xHistory.
+004202483 7001  L $$606$$aDāvūdī, Nādir,$$d1962 or 1963-
+004202483 7001  L $$606$$aداودى، نادر.
+004202483 7001  L $$607$$aKalhur, Sārā.
+004202483 7001  L $$607$$aکلهر، سارا.
+004202483 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS324.A9$$iA233 2014$$p31142059875206
+004202483 FMT   L BK
+004227856 LDR   L ^^^^^cam^a2200421^i^4500
+004227856 001   L 004227856
+004227856 003   L NNU
+004227856 005   L 20160427013437.0
+004227856 008   L 151127s2015^^^^ir^^^^^^^^^^^^000^0bper^^
+004227856 010   L $$a  2015325773
+004227856 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004227856 066   L $$c(3$$c(4
+004227856 020   L $$a9789643205379
+004227856 020   L $$a9643205371
+004227856 035   L $$a(OCoLC)930576279
+004227856 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227856 042   L $$alcode
+004227856 050 4 L $$aDS288.7$$b.T333 2015
+004227856 1001  L $$601$$aṬabarī, Iḥsān,$$eauthor.
+004227856 1001  L $$601$$aطبرى، احسان،$$eauthor.
+004227856 24510 L $$602$$aAbū al-Faz̤l Bayhaqī va jāmiʻah-i Ghaznavī /$$cnavishtih-i Iḥsān Ṭabarī.
+004227856 24510 L $$602$$aابو الفضل بىهقى و جامعه غزنوى /$$cنوشته احسان طبرى.
+004227856 250   L $$603$$aChāp-i avval.
+004227856 250   L $$603$$aچاپ اول.
+004227856 264 1 L $$604$$aTihrān :$$bIntishārāt-i Firdaws,$$c1394 [2015].
+004227856 264 1 L $$604$$aتهران :$$bانتشارات فردوس،$$c1394 [2015].
+004227856 300   L $$a167 pages ;$$c22 cm
+004227856 336   L $$atext$$btxt$$2rdacontent
+004227856 337   L $$aunmediated$$bn$$2rdamedia
+004227856 338   L $$avolume$$bnc$$2rdacarrier
+004227856 546   L $$aIn Persian.
+004227856 60010 L $$605$$aBayhaqī, Abū al-Faz̤l Muḥammad ibn Ḥusayn,$$dapproximately 996-1077.
+004227856 60014 L $$605$$aبىهقى، ابو الفضل محمد بن حسىن.
+004227856 650 0 L $$aGhaznevids.
+004227856 651 0 L $$aIran$$xHistory$$y640-1256.
+004227856 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS288.7$$i.T333 2015$$p31142059881501
+004227856 FMT   L BK
+004202492 LDR   L ^^^^^cam^a2200505^i^4500
+004202492 001   L 004202492
+004202492 003   L NNU
+004202492 005   L 20160428102422.0
+004202492 008   L 150730s2015^^^^ir^^^^^^^b^^^^001^0^per^^
+004202492 010   L $$a  2015326687
+004202492 040   L $$aDLC$$beng$$erda$$cDLC$$dIXA$$dOCLCF$$dTEF
+004202492 066   L $$c(3$$c(4
+004202492 020   L $$a9789642995370
+004202492 020   L $$a9642995379
+004202492 035   L $$a(OCoLC)915324070
+004202492 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202492 0410  L $$aper$$aave
+004202492 042   L $$alcode
+004202492 050 4 L $$aBL1515.5.Y3$$bV355 2015
+004202492 1001  L $$601$$aVakīlī, Sharvīn,$$d1974 or 1975-$$eauthor.
+004202492 1001  L $$601$$aوکيلى، شروين.
+004202492 24510 L $$602$$aGāhān va Zand Gāhān /$$cDuktur Sharvīn Vakīlī ; vīrāstār va numūnahkhvān, Masʻūd Luqmān.
+004202492 24510 L $$602$$aگاهان و زند گاهان /$$cدکتر شروين وکيلى ؛ ويراستار و نمونهخوان، مسعود لقمان.
+004202492 24614 L $$603$$aZandʹgāhān
+004202492 24614 L $$603$$aزند‌گاهان
+004202492 250   L $$604$$aChāp-i nukhust.
+004202492 250   L $$604$$aچاپ نخست.
+004202492 264 1 L $$605$$aTihrān :$$bNashr-i Shūrʹāfarīn,$$c1394 [2015 or 2016].
+004202492 264 1 L $$605$$aتهران :$$bنشر شور‌آفرين،$$c1394 [2015 or 2016].
+004202492 300   L $$a414 pages ;$$c24 cm
+004202492 336   L $$atext$$btxt$$2rdacontent
+004202492 337   L $$aunmediated$$bn$$2rdamedia
+004202492 338   L $$avolume$$bnc$$2rdacarrier
+004202492 546   L $$aIn Persian and Avestan (in Avenstan script and romanized).
+004202492 500   L $$aParallel title in Avenstan script on title-page.
+004202492 504   L $$aIncludes bibliographical references (pages 395-399) and index.
+004202492 520   L $$aZoroastrianism ; Avesta - Yasna - Gathas - Criticism, interpretation, etc.
+004202492 63000 L $$aAvesta.$$pYasna.$$pGathas$$xCriticism, interpretation, etc.
+004202492 63007 L $$aAvesta.$$pYasna.$$pGathas.$$2fast$$0(OCoLC)fst01357805
+004202492 655 7 L $$aCriticism, interpretation, etc.$$2fast$$0(OCoLC)fst01411635
+004202492 7001  L $$606$$aLuqmān, Masʻūd,$$eeditor.
+004202492 7001  L $$606$$aلقمان، مسعود،$$eeditor.
+004202492 8590  L $$aNNU$$bBOBST$$cMAIN$$hBL1515.5.Y3$$iV355 2015$$p31142059875297
+004202492 FMT   L BK
+004227800 LDR   L ^^^^^cam^a2200541^i^4500
+004227800 001   L 004227800
+004227800 003   L NNU
+004227800 005   L 20160428102720.0
+004227800 008   L 151127s2015^^^^ir^a^^^^^b^^^^000^0^pero^
+004227800 010   L $$a  2015325738
+004227800 040   L $$aDLC$$beng$$erda$$cDLC$$dNOC$$dOCLCO
+004227800 066   L $$c(3$$c(4
+004227800 020   L $$a9786005158243
+004227800 020   L $$a6005158244
+004227800 035   L $$a(OCoLC)930576244
+004227800 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227800 042   L $$alcode
+004227800 050 4 L $$aBP135.A2$$bA44734 2014
+004227800 1001  L $$601$$aIbn Khātūn al-ʻĀmilī, Muḥammad ibn ʻAlī,$$dactive 17th century,$$eauthor.
+004227800 1001  L $$601$$aابن خاتون العاملى، محمد بن على،$$dactive 17th century.
+004227800 24510 L $$602$$aMatn-i kāmil-i Arbaʻīn, yā, Chihil ḥadīs̲-i Shaykh Bahāyī /$$ctarjumah: Shams al-Dīn Shaykh Muḥammad ibn ʻAlī ibn Khātūn al-ʻĀmilī al-Ṭūsī ; muqaddamah va taṣḥīḥ: Ibrāhīm Aḥmadiyān.
+004227800 24510 L $$602$$aمتن کامل اربعين، يا، چهل حديث شيخ بهايى /$$cترجمه: شمس الدين شيخ محمد بن على بن خاتون العاملى الطوسى ؛ مقدمه و تصحيح: ابراهيم احمديان.
+004227800 24613 L $$603$$aChihil ḥadīs̲-i Shaykh Bahāyī.
+004227800 24613 L $$603$$aچهل حديث شيخ بهايى.
+004227800 24615 L $$604$$aTarjumah-i Quṭb Shāhī
+004227800 24615 L $$604$$aترجمه قطب شاهى
+004227800 250   L $$605$$aChāp-i avval.
+004227800 250   L $$605$$aچاپ اول.
+004227800 264 1 L $$606$$aTihrān :$$bIntishārāt-i Farāhānī,$$c1393 [2014 or 2015]
+004227800 264 1 L $$606$$aتهران :$$bانتشارات فراهانى،$$c1393 [2014 or 2015]
+004227800 300   L $$a637 pages :$$billustrations ;$$c25 cm
+004227800 336   L $$atext$$btxt$$2rdacontent
+004227800 337   L $$aunmediated$$bn$$2rdamedia
+004227800 338   L $$avolume$$bnc$$2rdacarrier
+004227800 500   L $$a"Mawsūm bih: Tarjumah-i Quṭb Shāhī (az ʻulamā-yi qarn-i yāzdahum); bih hamrāh: taṣāvīr va asnād-i muʻtabir"--Added title page.
+004227800 504   L $$aIncludes bibliographical references.
+004227800 520   L $$aTranslation of and commentary on Bahāʼ al-Dīn al-ʻĀmilī's Arbaʻūn ḥadīthan.
+004227800 546   L $$aIn Persian.
+004227800 60010 L $$607$$aʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn,$$d1547-1621.$$tArbaʻūn ḥadīthan.
+004227800 60010 L $$607$$aعاملي، بهاء الدين محمد بن حسين،$$d1547-1621.$$tأربعون حديثا.
+004227800 650 0 L $$aHadith$$vCommentaries$$vEarly works to 1800.
+004227800 70012 L $$608$$aʻĀmilī, Bahāʼ al-Dīn Muḥammad ibn Ḥusayn,$$d1547-1621.$$tArbaʻūn ḥadīthan.$$lPersian.
+004227800 70012 L $$608$$aعاملي، بهاء الدين محمد بن حسين،$$d1547-1621.$$tأربعون حديثا.
+004227800 7001  L $$609$$aAḥmadiyān, Ibrāhīm,$$d1965 or 1966-$$eeditor.
+004227800 7001  L $$609$$aاحمديان، ابراهيم،$$d1965 or 1966-
+004227800 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP135.A2$$iA44734 2014$$p31142059881790
+004227800 FMT   L BK
+004227839 LDR   L ^^^^^cam^a2200445^i^4500
+004227839 001   L 004227839
+004227839 003   L NNU
+004227839 005   L 20160219114225.2
+004227839 008   L 160219s2015^^^^ir^c^^^^^^^^^^000^1^per^^
+004227839 040   L $$aNOC$$beng$$erda$$cNOC$$dNOC
+004227839 066   L $$c(3$$c(4
+004227839 020   L $$a9786006182650
+004227839 020   L $$a6006182653
+004227839 042   L $$apcc
+004227839 050 4 L $$aPK6561.M595$$bG8 2015
+004227839 1001  L $$601$$aMiskūb, Shāhrukh,$$eauthor.
+004227839 1001  L $$601$$aمسکوب، شاهرخ.
+004227839 24510 L $$602$$aGuft va gū dar bāgh /$$cShāhrukh Miskūb.
+004227839 24510 L $$602$$a‏گفت و گو در باغ /‏$$c‏شاهرخ مسكوب.
+004227839 2463  L $$603$$aGuftʹūʹgū dar bāgh
+004227839 2463  L $$603$$aگفت‌و‌گو در باغ
+004227839 2461  L $$iTitle on page 6:$$aDialogue in the garden
+004227839 250   L $$604$$aChāp-i avval.
+004227839 250   L $$604$$aچاپ اول.
+004227839 264 1 L $$605$$aTihrān :$$bFarhang-i Jāvīd,$$c2015.
+004227839 264 1 L $$605$$aتهران :$$bفرهنگ جاويد،$$c2015.
+004227839 300   L $$a93 pages :$$bportrait ;$$c22 cm
+004227839 336   L $$atext$$btxt$$2rdacontent
+004227839 337   L $$aunmediated$$bn$$2rdamedia
+004227839 338   L $$avolume$$bnc$$2rdacarrier
+004227839 500   L $$606$$a"Majmūʻah-ʼi farhang va ʻulūm-i insānī"--Page 6.
+004227839 500   L $$606$$a"مجموعۀ فرهنگ و علوم انسانى"--Page 6.
+004227839 546   L $$aIn Persian.
+004227839 650 0 L $$aPhilosophy, Iranian$$vFiction.
+004227839 650 0 L $$aSufism in literature.
+004227839 650 7 L $$aPhilosophy, Iranian.$$2fast$$0(OCoLC)fst01061003
+004227839 650 7 L $$aSufism in literature.$$2fast$$0(OCoLC)fst01137271
+004227839 655 7 L $$aFiction.$$2fast$$0(OCoLC)fst01423787
+004227839 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6561.M595$$iG8 2015$$p31142059881618
+004227839 FMT   L BK
+004227847 LDR   L ^^^^^cam^a2200397^i^4500
+004227847 001   L 004227847
+004227847 003   L NNU
+004227847 005   L 20160427020126.0
+004227847 008   L 151127s2015^^^^ir^^^^^^^^^^^^000^h^per^^
+004227847 010   L $$a  2015325764
+004227847 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004227847 066   L $$c(3$$c(4
+004227847 020   L $$a9786006182667
+004227847 020   L $$a6006182661
+004227847 035   L $$a(OCoLC)930576232
+004227847 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227847 042   L $$alcode
+004227847 050 4 L $$aPK6562.14.A883$$bA53 2015
+004227847 1001  L $$601$$aDāvūd, Gh.,$$eauthor.
+004227847 1001  L $$601$$aداوود، غ.،$$eauthor.
+004227847 24510 L $$602$$aAndar ādāb va aḥvāl /$$cGh. Dāvūd (Manūchihr Ṣafā).
+004227847 24510 L $$602$$aاندر آداب و احوال /$$cغ. داوود (منوچهر صفا).
+004227847 2461  L $$iTitle on title page verso:$$aOn the rituals
+004227847 250   L $$603$$aChāp-i avval.
+004227847 250   L $$603$$aچاپ اول.
+004227847 264 1 L $$604$$aTihrān :$$bFarhang-i Jāvīd,$$c1394 [2015].
+004227847 264 1 L $$604$$aتهران :$$bفرهنگ جاوىد،$$c1394 [2015].
+004227847 300   L $$a121 pages ;$$c22 cm
+004227847 336   L $$atext$$btxt$$2rdacontent
+004227847 337   L $$aunmediated$$bn$$2rdamedia
+004227847 338   L $$avolume$$bnc$$2rdacarrier
+004227847 546   L $$aIn Persian.
+004227847 650 0 L $$aPersian wit and humor.
+004227847 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6562.14.A883$$iA53 2015$$p31142059881592
+004227847 FMT   L BK
+004202445 LDR   L ^^^^^cam^a2200469^i^4500
+004202445 001   L 004202445
+004202445 003   L NNU
+004202445 005   L 20160427103632.0
+004202445 008   L 150630s2014^^^^ir^a^^^^^^^^^^000^p^per^^
+004202445 010   L $$a  2015326619
+004202445 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dTEF
+004202445 066   L $$c(3$$c(4
+004202445 020   L $$a9786003130920
+004202445 020   L $$a600313092X
+004202445 035   L $$a(OCoLC)912874522
+004202445 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004202445 042   L $$alcode
+004202445 050 4 L $$aPK6549.S565$$bZ53 2014
+004202445 1001  L $$601$$aShukūhī Tabrīzī, Mahdī,$$d1831 or 1832-1895 or 1896,$$eauthor.
+004202445 1001  L $$601$$aشکوهى تبرىزى، مهدى،$$eauthor.
+004202445 24510 L $$602$$aKullīyāt-i Ḥājj Mahdī Shukūhī :$$baz shāʻirān-i ṭanz pardāz-i dawrah-i Qājār dar Āz̲arbāyjān /$$ctaṣḥīḥ-i Duktur Yūsuf Bayg Bābāʹpūr, Duktur Masʻūd Ghulāmīyah ; bā muqaddamah-ʼi Duktur Jalāl Jalāl Shukūhī.
+004202445 24510 L $$602$$aکليات حاج مهدى شکوهى :$$bاز شاعران طنز پرداز دوره قاجار در آذرباىجان /$$cتصحىح دکتر ىوسف بىگ بابا‌ور، دکتر مسعود غلامية ؛ با مقدمۀ دکتر جلال جلال شکوهى.
+004202445 264 1 L $$603$$aTihrān :$$bSafīr-i Ardihāl,$$c1393 [2014].
+004202445 264 1 L $$603$$aتهران :$$bسفير اردهال،$$c1393 [2014].
+004202445 300   L $$a379 pages :$$billustrations ;$$c30 cm.
+004202445 336   L $$atext$$2rdacontent
+004202445 337   L $$aunmediated$$2rdamedia
+004202445 338   L $$avolume$$2rdacarrier
+004202445 4900  L $$604$$aMamjūʻah-i iḥyā-yi mutūn.$$aMīrās̲-i Marāghah ;$$v10
+004202445 4900  L $$604$$aممجوعه احياى متون.$$aميراث مراغه ؛$$v10
+004202445 546   L $$aIn Persian.
+004202445 650 0 L $$aPersian poetry$$y20th century.
+004202445 650 0 L $$aAzerbaijani poetry$$zIran$$y20th century.
+004202445 7001  L $$605$$aGhulāmīyah, Masʻūd,$$d1967 or 1968-$$eeditor.
+004202445 7001  L $$605$$aغلامية، مسعود،$$eeditor.
+004202445 7001  L $$606$$aBābāpūr, Yūsuf Bayg,$$eeditor.
+004202445 7001  L $$606$$aباباپور، ىوسف بىگ،$$eeditor.
+004202445 7001  L $$607$$aJalāl Shukūhī, Jalāl,$$ewriter of introduction.
+004202445 7001  L $$607$$aجلال شکوهى، جلال،$$ewriter of introduction.
+004202445 8590  L $$aNNU$$bBOBST$$cMAIN$$hPK6549.S565$$iZ53 2014$$p31142059875099
+004202445 FMT   L BK
+004227844 LDR   L ^^^^^cam^a2200481^i^4500
+004227844 001   L 004227844
+004227844 003   L NNU
+004227844 005   L 20160427033408.0
+004227844 008   L 151127s2015^^^^ir^^^^^^^b^^^^000^0bper^^
+004227844 010   L $$a  2015325761
+004227844 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+004227844 066   L $$c(3$$c(4
+004227844 020   L $$a9789642247127
+004227844 020   L $$a9642247127
+004227844 035   L $$a(OCoLC)930576272
+004227844 037   L $$aLibrary of Congress -- Islamabad Overseas Office
+004227844 0410  L $$aper$$aeng
+004227844 042   L $$alcode
+004227844 043   L $$aa-ir---
+004227844 050 4 L $$aD15.B388$$bB388 2015
+004227844 1001  L $$601$$aBāstānī Pārīzī, Ḥamīd,$$eauthor.
+004227844 1001  L $$601$$aباستانى پارىزى، حمىد،$$eauthor.
+004227844 24510 L $$602$$aShāʻir-i tārīkh :$$byādigārʹnāmah-i Muḥammad Ibrāhīm Bāstānī Pārīzī /$$cbih khvāstārī va ishrāf-i Ḥamīd va Ḥamīdah Bāstānī Pārīzī.
+004227844 24510 L $$602$$aشاعر تارىخ :$$bىادگار‌نامه محمد ابراهىم باستانى پارىزى /$$cبه خواستارى و اشراف حمىد و حمىده باستانى پارىزى.
+004227844 24615 L $$aRhapsodist of history :$$bin commemoration of M.E. Bastani Parizi
+004227844 250   L $$603$$aChāp-i avval.
+004227844 250   L $$603$$aچاپ اڤل.
+004227844 264 1 L $$604$$aTihrān :$$bNashr-i ʻIlm,$$c1394 [2015].
+004227844 264 1 L $$604$$aتهران :$$bنشر علم،$$c1394 [2015].
+004227844 300   L $$a640, 33 pages ;$$c25 cm
+004227844 336   L $$atext$$btxt$$2rdacontent
+004227844 337   L $$aunmediated$$bn$$2rdamedia
+004227844 338   L $$avolume$$bnc$$2rdacarrier
+004227844 546   L $$aIn Persian and English.
+004227844 504   L $$aIncludes bibliographical references.
+004227844 60010 L $$605$$aBāstānī Pārīzī, Muḥammad Ibrāhīm.
+004227844 60014 L $$605$$aباستانى پارىزى، محمد ابراهىم.
+004227844 650 0 L $$aHistorians$$zIran$$vBiography.
+004227844 7001  L $$606$$aBāstānī Pārīzī, Ḥamīdah,$$eauthor.
+004227844 7001  L $$606$$aباستانى پارىزى، حمىده،$$eauthor.
+004227844 8590  L $$aNNU$$bBOBST$$cMAIN$$hD15.B388$$iB388 2015$$p31142059881600
+004227844 FMT   L BK
+004227861 LDR   L ^^^^^cam^a2200421^i^4500
+004227861 001   L 004227861
+004227861 003   L NNU
+004227861 005   L 20160427045223.0
+004227861 008   L 151127s2015^^^^ir^^^^^^^^^^^^000^0bper^^
+004227861 010   L $$a  2015325775
+004227861 040   L $$aDLC$$beng$$erda$$cDLC$$dOCLCO$$dEYM$$dTEF
+004227861 066   L $$c(3$$c(4
+004227861 020   L $$a9786001490323
+004227861 020   L $$a6001490325
+004227861 035   L $$a(OCoLC)930576280
+004227861 037   L $$bLibrary of Congress -- Islamabad Overseas Office
+004227861 042   L $$alcode
+004227861 050 4 L $$aDS316.9.A436$$bI7 2015
+004227861 1101  L $$601$$aIran.$$bVizārat-i Iṭṭilāʻāt.$$bMarkaz-i Barʹrasī-i Asnād-i Tārīkhī.
+004227861 1101  L $$601$$aارن.$$bوزارت اطلاعات.$$bمرکز بر‌سى اسناد تارىخى.
+004227861 24510 L $$602$$aMuṣṭafá Alamūtīʹniyā.
+004227861 24510 L $$602$$aمصطفى الموتى‌نىا.
+004227861 250   L $$603$$aChāp-i avval.
+004227861 250   L $$603$$aچاپ اول.
+004227861 264 1 L $$604$$aTihrān :$$bVizārat-i Iṭṭilāʻāt, Markaz-i Barʹrasī-i Asnād-i Tārīkhī,$$c1394 [2015].
+004227861 264 1 L $$604$$aتهران :$$bوزارت اطلاعات، مرکز بر‌سى اسناد تارىخى،$$c1394 [2015].
+004227861 300   L $$a396 pages, 5 unnumbered pages :$$billustrations ;$$c24 cm
+004227861 336   L $$atext$$btxt$$2rdacontent
+004227861 337   L $$aunmediated$$bn$$2rdamedia
+004227861 338   L $$avolume$$bnc$$2rdacarrier
+004227861 4900  L $$605$$aRijāl-i ʻaṣr-i Pahlavī bih rivāyat-i asnād-i Sāvāk ;$$v27
+004227861 4900  L $$605$$aرجال عصر پهلوى به رواىت اسناد ساواک ؛$$v27
+004227861 546   L $$aIn Persian.
+004227861 60010 L $$606$$aAlamūtī, Muṣṭafá.
+004227861 60014 L $$606$$aالموتى، مصطفى.
+004227861 8590  L $$aNNU$$bBOBST$$cMAIN$$hDS316.9.A436$$iI7 2015$$p31142059881550
+004227861 FMT   L BK
