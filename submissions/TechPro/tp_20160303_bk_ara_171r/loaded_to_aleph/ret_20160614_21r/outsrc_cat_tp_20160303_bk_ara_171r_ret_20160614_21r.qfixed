@@ -1,0 +1,699 @@
+000000001 LDR   L ^^^^^cam^a2200397^i^4500
+000000001 001   L 004230199
+000000001 003   L NNU
+000000001 005   L 20160613043302.0
+000000001 008   L 151020s2015^^^^mr^^^^^^^b^^^^000^0^ara^^
+000000001 010   L $$a  2015351798
+000000001 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+000000001 066   L $$c(3
+000000001 020   L $$a9789954642160
+000000001 020   L $$a9954642161
+000000001 035   L $$a(OCoLC)948174735
+000000001 042   L $$apcc$$alcode
+000000001 050 4 L $$aKBP637.3$$b.B353 2015
+000000001 1001  L $$601$$aBajdāynī, Ṣābrīnā,$$eauthor.
+000000001 1001  L $$601$$aبجدايني، صابرينا.
+000000001 24513 L $$602$$aal-Qawāʻid al-ijrāʼīyah fī mudawwanat al-awqāf /$$cṢābrīnā al-Bajdāynī, bāḥithah fī al-ʻuqūd wa-al-ʻaqār, Jāmiʻat Muḥammad al-Awwal bi-Wajdah ; taqdīm D. Duniyā Mubārakah, ustādhat al-taʻlīm al-ʻālī bi-Kullīyat al-Ḥuqūq bi-Wajdah.
+000000001 24512 L $$602$$aالقواعد الإجرائية في مدونة الاوقاف /$$cصابرينا البجدايني، باحثة في العقود والعقار، جامعة محمد الأول بوجدة ؛ تقديم د. دنيا مباركة، أستاذة التعليم العالي بكلية الحقوق بوجدة.
+000000001 250   L $$603$$aṬabʻah 2015.
+000000001 250   L $$603$$aطبعة 2015.
+000000001 264 1 L $$604$$aal-Rabāṭ :$$bManshūrāt al-Maʻārif, Dār Nashr al-Maʻarifah lil-Nashr wa-al-Tawzīʻ,$$c2015.
+000000001 264 1 L $$604$$aالرباط :$$bمنشورات المعارف، دار نشر المعرفة للنشر والتوزيع،$$c2015.
+000000001 300   L $$a398 pages ;$$c24 cm
+000000001 336   L $$atext$$btxt$$2rdacontent
+000000001 337   L $$aunmediated$$bn$$2rdamedia
+000000001 338   L $$avolume$$bnc$$2rdacarrier
+000000001 504   L $$aIncludes bibliographical references (pages 385-396).
+000000001 650 0 L $$aWaqf$$zMorocco.
+000000001 650 0 L $$aCharitable uses, trusts, and foundations$$zMorocco.
+000000001 650 0 L $$aEndowments$$zMorocco.
+000000001 8590  L $$aNNU$$bBOBST$$cMAIN$$hKBP637.3$$i.B353 2015$$p31142060002378
+000000001 FMT   L BK
+000000002 LDR   L ^^^^^nam^a2200397^i^4500
+000000002 001   L 004229971
+000000002 003   L NNU
+000000002 005   L 20160613103354.0
+000000002 008   L 160613s2014^^^^mr^^^^^^^b^^^^000^0^ara^d
+000000002 040   L $$aNNU$$beng$$erda$$cTEF
+000000002 066   L $$c(3
+000000002 020   L $$a9789954335871
+000000002 020   L $$a9954335870
+000000002 035   L $$a(OCoLC)951612726
+000000002 050 4 L $$aHV700.M8$$bL384 2014
+000000002 08214 L $$a306.87432$$223
+000000002 1001  L $$601$$aLashqar, Malīkah Nāyit,$$eauthor.
+000000002 1001  L $$601$$aلشقر، مليكة نايت،$$eauthor.
+000000002 24513 L $$602$$aal-Umm al-ʻazibah :$$bmuqāribah sūsīyūdīnīyah /$$cMalīkah Nāyit Lashqar ; taqdīm al-duktūr Aḥmad ʻIbādī.
+000000002 24512 L $$602$$aالام العزبة :$$bمقاربة سوسيودينية /$$cمليكة نايت لشقر ؛ تقديم الدكتور احمد عبادي.
+000000002 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000002 250   L $$603$$aالطبعة الأولى.
+000000002 264 1 L $$a[Morocco] :$$b[Publisher not identified],$$c2014.
+000000002 300   L $$a134 pages ;$$c21 cm
+000000002 336   L $$atext$$btxt$$2rdacontent
+000000002 337   L $$aunmediated$$bn$$2rdamedia
+000000002 338   L $$avolume$$bnc$$2rdacarrier
+000000002 504   L $$aIncludes bibliographical references (pages 125-132).
+000000002 650 0 L $$aSingle mothers$$zMorocco.
+000000002 650 0 L $$aWomen$$xLegal status, laws, etc.$$zMorocco.
+000000002 650 0 L $$aWomen$$zMorocco$$xSocial conditions.
+000000002 7001  L $$604$$aʻIbādī, Aḥmad,$$ewriter of introduction.
+000000002 7001  L $$604$$aعبادي، احمد،$$ewriter of introduction.
+000000002 8590  L $$aNNU$$bBOBST$$cMAIN$$hHV700.M8$$iL384 2014$$p31142060002816
+000000002 FMT   L BK
+000000003 LDR   L ^^^^^cam^a2200613^i^4500
+000000003 001   L 004230099
+000000003 003   L NNU
+000000003 005   L 20160613045825.0
+000000003 008   L 160426s2014^^^^mr^a^^^^^b^^^^000^0bara^c
+000000003 040   L $$aHLS$$beng$$erda$$cHLS$$dOCLCO$$dOSU$$dTEF
+000000003 066   L $$c(3
+000000003 020   L $$a9789981127357$$q(pbk.)
+000000003 020   L $$a9981127353$$q(pbk.)
+000000003 035   L $$a(OCoLC)947836614
+000000003 042   L $$apcc
+000000003 043   L $$af-mr---
+000000003 050 4 L $$aDT324.92.M6$$bQ23 2014
+000000003 1001  L $$601$$aQādirī, ʻAbd al-Ḥayy,$$d1915 or 1916-$$eauthor.
+000000003 1001  L $$601$$aقادري، عبد الحي,$$d1915 or 1916-
+000000003 24510 L $$602$$aRisālat jalāl al-majd al-talīd fī al-qirān al-khalīfī al-saʻīd :$$bibtihājan bi-zawāj Ḥaḍrat Ṣāḥib al-Sumū al-Imbrāṭūrī al-Khalīfah al-Malakī al-Muʻaẓẓam al-Amīr Mawlāy al-Ḥasan ibn al-Mahdī /$$cli-ʻAbd al-Ḥayy al-Qādirī ; dirāsah wa-taqdīm U.D. Jaʻfar bin al-Ḥājj al-Sulamī.
+000000003 24510 L $$602$$aرسالة جلال المجد التليد في القران الخليفي السعيد :$$bابتهاجا بزواج حضرة صاحب السمو الإمبراطوري الخليفة الملكي المعظم الأمير مولاي الحسن بن المهدي /$$cلعبد الحي القادري ؛ دراسة وتقديم أ.د. جعفر ابن الحاج السلمي.
+000000003 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000003 250   L $$603$$aالطبعة الأولى.
+000000003 264 1 L $$604$$aTiṭwān :$$bJamʻīyat Tiṭwan Asamīr,$$c2014.
+000000003 264 1 L $$604$$aتطوان :$$bجمعية تطون اسمير،$$c2014.
+000000003 300   L $$a175 pages :$$billustrations ;$$c21 cm.
+000000003 336   L $$atext$$btxt$$2rdacontent
+000000003 337   L $$aunmediated$$bn$$2rdamedia
+000000003 338   L $$avolume$$bnc$$2rdacarrier
+000000003 4901  L $$605$$aSilsilat turāth ;$$v17
+000000003 4901  L $$605$$aسلسلة تراث ؛$$v17
+000000003 504   L $$aIncludes bibliographical references.
+000000003 60000 L $$606$$aMuḥammad$$bV,$$cKing of Morocco,$$d1909-1961$$xMarriage.
+000000003 60004 L $$606$$aمحمد$$bالخامس،$$cملك المغرب،$$d1909-1961.
+000000003 651 0 L $$aMorocco$$xKings and rulers$$vBiography.
+000000003 650 0 L $$aQādirīyah.
+000000003 60017 L $$aMuḥammad$$bV,$$cKing of Morocco,$$d1909-1961$$2fast$$0(OCoLC)fst00101799
+000000003 650 7 L $$607$$aKings and rulers.$$2fast$$0(OCoLC)fst00987694
+000000003 650 7 L $$607$$aالملوك والحكام.$$2qrmak
+000000003 650 7 L $$608$$aMarriage.$$2fast$$0(OCoLC)fst01010443
+000000003 650 7 L $$608$$aالزواج.$$2qrmak
+000000003 650 7 L $$609$$aQādirīyah.$$2fast$$0(OCoLC)fst01086201
+000000003 650 7 L $$609$$aالقادرية.$$2qrmak
+000000003 651 7 L $$610$$aMorocco.$$2fast$$0(OCoLC)fst01205592
+000000003 651 7 L $$610$$aالمغرب.$$2qrmak
+000000003 655 7 L $$611$$aBiography.$$2fast$$0(OCoLC)fst01423686
+000000003 655 7 L $$611$$aالتراجم الذاتية.$$2qrmak
+000000003 7001  L $$612$$aSulamī, Jaʻfar bin al-Ḥājj,$$eeditor.
+000000003 7001  L $$612$$aسلمي، جعفر ابن الحاج.
+000000003 830 0 L $$613$$aSilsilat turāth (Jamʻīyat Taṭāwin Asmīr) ;$$v17.
+000000003 830 0 L $$613$$aسلسلة تراث (جمعية تطاون اسمير) ؛$$v17.
+000000003 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT324.92.M6$$iQ23 2014$$p31142060002436
+000000003 FMT   L BK
+000000004 LDR   L ^^^^^nam^a2200349^i^4500
+000000004 001   L 004258592
+000000004 003   L NNU
+000000004 005   L 20160608041131.0
+000000004 008   L 160608s2014^^^^mr^^^^^^^b^^^^000^0^ara^d
+000000004 040   L $$aNNU$$beng$$erda$$cTEF
+000000004 066   L $$c(3
+000000004 020   L $$a9789954345030
+000000004 020   L $$a9954345035
+000000004 035   L $$a(OCoLC)951439504
+000000004 050 4 L $$aJC49$$b.S295 2014
+000000004 1001  L $$601$$aṢawlabī, Ḥamīd,$$d1961-$$eauthor.
+000000004 1001  L $$601$$aصولبي، حميد،$$eauthor.
+000000004 24513 L $$602$$aal-Fiqh wa-al-siyāsah :$$bnamādhij min al-tafkīr al-manhajī fī dirāsat al-ʻulūm al-insānīyah /$$cD. Ḥamīd al-Ṣawlabī.
+000000004 24512 L $$602$$aالفقه والسياسة :$$bنماذج من التفكير المنهجي في دراسة العلوم الانسانية /$$cد. حميد الصولبي.
+000000004 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000004 250   L $$603$$aالطبعة الأولى.
+000000004 264 1 L $$604$$aMarrākush :$$bal-Maṭbaʻah wa-al-Warāqah al-Waṭanīyah,$$c2014.
+000000004 264 1 L $$604$$aمراكش :$$bالمطبعة والوراقة الوطنية،$$c2014.
+000000004 300   L $$a197 pages ;$$c21 cm
+000000004 336   L $$atext$$btxt$$2rdacontent
+000000004 337   L $$aunmediated$$bn$$2rdamedia
+000000004 338   L $$avolume$$bnc$$2rdacarrier
+000000004 504   L $$aIncludes bibliographical references (pages 193-196).
+000000004 650 0 L $$aIslam and state.
+000000004 8590  L $$aNNU$$bBOBST$$cMAIN$$hJC49$$i.S295 2014$$p31142060002956
+000000004 FMT   L BK
+000000005 LDR   L ^^^^^cam^a2200505^i^4500
+000000005 001   L 004230064
+000000005 003   L NNU
+000000005 005   L 20160613045707.0
+000000005 008   L 160414s2014^^^^mr^^^^^^^b^^^^000^0^ara^c
+000000005 040   L $$aHLS$$beng$$erda$$cHLS$$dOCLCO$$dOCLCF$$dOSU$$dOCLCA$$dOCLCO$$dTEF
+000000005 066   L $$c(3
+000000005 020   L $$a9789954638132$$q(pbk.)
+000000005 020   L $$a995463813X$$q(pbk.)
+000000005 035   L $$a(OCoLC)946613539
+000000005 042   L $$apcc
+000000005 043   L $$ama-----
+000000005 050 4 L $$aPJ7525.2$$b.K33 2014
+000000005 1001  L $$601$$aKaddū, Fāṭimah,$$eauthor.
+000000005 1001  L $$601$$aكدو، فاطمة.
+000000005 24513 L $$602$$aal-Khiṭāb al-nisāʼī wa-lughat al-ikhtilāf :$$bmuqārabah lil-insāq al-thaqāfīyah /$$cFāṭimah Kaddū.
+000000005 24512 L $$602$$aالخطاب النسائي ولغة الاختلاف :$$bمقاربة للأنساق الثقافية /$$cفاطمة كدو.
+000000005 264 1 L $$603$$aal-Rabāṭ :$$bDār al-Amān,$$c[2014]
+000000005 264 1 L $$603$$aالرباط :$$bدار الأمان،$$c[2014]
+000000005 300   L $$a253 pages ;$$c24 cm
+000000005 336   L $$atext$$btxt$$2rdacontent
+000000005 337   L $$aunmediated$$bn$$2rdamedia
+000000005 338   L $$avolume$$bnc$$2rdacarrier
+000000005 504   L $$aIncludes bibliographical references (pages 249-253).
+000000005 650 0 L $$aArabic literature$$xWomen authors$$xHistory and criticism.
+000000005 650 0 L $$aWomen and literature$$zArab countries.
+000000005 650 0 L $$aArabic literature$$xHistory and criticism.
+000000005 650 7 L $$604$$aArabic literature.$$2fast$$0(OCoLC)fst00812478
+000000005 650 7 L $$604$$aالأدب العربي.$$2qrmak
+000000005 650 7 L $$aArabic literature$$xWomen authors.$$2fast$$0(OCoLC)fst00812518
+000000005 650 7 L $$605$$aWomen and literature.$$2fast$$0(OCoLC)fst01177093
+000000005 650 7 L $$605$$aالمرأة والأدب.$$2local/OSU
+000000005 651 7 L $$606$$aArab countries.$$2fast$$0(OCoLC)fst01240128
+000000005 651 7 L $$606$$aالدول العربية.$$2qrmak
+000000005 655 7 L $$607$$aCriticism, interpretation, etc.$$2fast$$0(OCoLC)fst01411635
+000000005 655 7 L $$607$$aتاريخ و نقد.$$2qrmak
+000000005 8590  L $$aNNU$$bBOBST$$cMAIN$$hPJ7525.2$$i.K33 2014$$p31142060002550
+000000005 650 7 L $$600$$aالمرأة كمؤلفة.$$2qrmak
+000000005 650 7 L $$600$$aالنساء في الأدب.$$2qrmak
+000000005 FMT   L BK
+000000006 LDR   L ^^^^^nam^a2200409^i^4500
+000000006 001   L 004230111
+000000006 003   L NNU
+000000006 005   L 20160613010721.0
+000000006 008   L 160613e201404^^mr^b^^^^^b^^^^000^0^ara^d
+000000006 040   L $$aNNU$$beng$$erda$$cTEF
+000000006 066   L $$c(3
+000000006 020   L $$a9789954334140
+000000006 020   L $$a9954334149
+000000006 035   L $$a(OCoLC)951625141
+000000006 050 4 L $$aPQ6030$$b.D846 2014
+000000006 1001  L $$601$$aDuḥmān, Muḥammad,$$eauthor.
+000000006 1001  L $$601$$aدحمان، محمد،$$eauthor.
+000000006 24513 L $$602$$aal-Sāqīyah al-Ḥamrāʼ wa-Wādī al-Dhahab fī al-kitābāt al-Isbānīyah, 1885-1933 :$$bEmilio Hernando Bonelli, Francisco Argandona Bens, Andres Coll /$$cD. Muḥammad Duḥmān.
+000000006 24512 L $$602$$aالساقية الحمراء ووادي الذهب في الكتابات الاسبانية، 1885-1933 :$$bEmilio Hernando Bonelli, Francisco Argandona Bens, Andres Coll /$$cد. محمد دحمان.
+000000006 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000006 250   L $$603$$aالطبعة الأولى.
+000000006 264 1 L $$604$$a[Morocco] :$$b[Publisher not identified],$$cAbrīl 2014.
+000000006 264 1 L $$604$$a[Morocco] :$$b[Publisher not identified],$$cابريل 2014.
+000000006 300   L $$a172 pages :$$bmaps ;$$c21 cm
+000000006 336   L $$atext$$btxt$$2rdacontent
+000000006 337   L $$aunmediated$$bn$$2rdamedia
+000000006 338   L $$avolume$$bnc$$2rdacarrier
+000000006 504   L $$aIncludes bibliographical references (pages 155-162).
+000000006 60010 L $$aBonelli, Emilio,$$d1854-1926.
+000000006 60010 L $$aArgandona Bens, Francisco.
+000000006 60010 L $$aColl, Andres.
+000000006 650 0 L $$aGeography in literature.
+000000006 650 0 L $$aSpanish literature$$y19th century$$xHistory and criticism.
+000000006 650 0 L $$aSpanish literature$$y20th century$$xHistory and criticism.
+000000006 8590  L $$aNNU$$bBOBST$$cMAIN$$hPQ6030$$i.D846 2014$$p31142060002733
+000000006 FMT   L BK
+000000007 LDR   L ^^^^^cam^a2200337^i^4500
+000000007 001   L 004230224
+000000007 003   L NNU
+000000007 005   L 20160613021350.0
+000000007 008   L 160613s2015^^^^mr^^^^^^^^^^^^000^0^ara^d
+000000007 040   L $$aNNU$$beng$$erda$$cTEF$$dTEF
+000000007 066   L $$c(3
+000000007 020   L $$a9789954594094
+000000007 020   L $$a9954594094
+000000007 035   L $$a(OCoLC)951627897
+000000007 050 4 L $$aBP64.M8$$bT355 2015
+000000007 1001  L $$601$$aTalīdī, Bilāl,$$eauthor.
+000000007 1001  L $$601$$aتليدي، بلال،$$eauthor.
+000000007 24510 L $$602$$aMurājaʻāt al-ḥarakah al-Islāmīyah al-Maghribīyah /$$cBilāl al-Tallīdī.
+000000007 24510 L $$602$$aمراجعات الحركة الاسلامية المغربية /$$cبلال التليدي.
+000000007 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000007 250   L $$603$$aالطبعة الأولى.
+000000007 264 1 L $$a[Morocco] :$$b[Publisher not identified],$$c2015.
+000000007 300   L $$a137 pages ;$$c25 cm
+000000007 336   L $$atext$$btxt$$2rdacontent
+000000007 337   L $$aunmediated$$bn$$2rdamedia
+000000007 338   L $$avolume$$bnc$$2rdacarrier
+000000007 650 0 L $$aIslam$$zMorocco.
+000000007 650 0 L $$aIslam and politics$$zMorocco.
+000000007 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP64.M8$$iT355 2015$$p31142060002790
+000000007 FMT   L BK
+000000008 LDR   L ^^^^^nam^a2200265^i^4500
+000000008 001   L 004229941
+000000008 003   L NNU
+000000008 005   L 20160608014215.0
+000000008 008   L 160608s2014^^^^xx^^^^^^^^^^^^000^0^ara^d
+000000008 040   L $$aNNU$$cTEF
+000000008 066   L $$c(3
+000000008 035   L $$a(OCoLC)951433373
+000000008 050 4 L $$aJQ3945$$b.S253 2014
+000000008 1001  L $$601$$aSalāwī, Muḥammad Adīb,$$eauthor.
+000000008 1001  L $$601$$aسلاوي، محمد اديب،$$eauthor.
+000000008 24510 L $$602$$aAzamāt al-Maghrib ilá ayna? /$$cMuḥammad Adīb al-Salāwī.
+000000008 24510 L $$602$$aازمات المغرب الى اين؟ /$$cمحمد اديب السلاوي.
+000000008 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000008 250   L $$603$$aالطبعة الأولى.
+000000008 264 1 L $$a[Place of publication not identified] :$$b[Publisher not identified],$$c2014.
+000000008 300   L $$a158 pages ;$$c17 cm
+000000008 651 0 L $$aMorocco$$xPolitics and government$$y1999-
+000000008 8590  L $$aNNU$$bBOBST$$cMAIN$$hJQ3945$$i.S253 2014$$p31142060002725
+000000008 FMT   L BK
+000000009 LDR   L ^^^^^cam^a2200397^i^4500
+000000009 001   L 004230223
+000000009 003   L NNU
+000000009 005   L 20160613110248.0
+000000009 008   L 151123s2015^^^^mr^^^^^^^^^^^^000^0^ara^d
+000000009 010   L $$a  2015351487
+000000009 040   L $$aHVL$$beng$$erda$$cHVL$$dDLC$$dTEF
+000000009 066   L $$c(3
+000000009 020   L $$a9789954348666
+000000009 020   L $$a9954348662
+000000009 035   L $$a(OCoLC)945584390
+000000009 050 4 L $$aKSW540$$b.M88 2015
+000000009 1001  L $$601$$aMūs, al-Ḥusayn,$$eauthor.
+000000009 1001  L $$601$$aموس، الحسين.
+000000009 24510 L $$602$$aMudawwanat al-Usrah fī ḍawʼ taqyīd al-Mubāḥ :$$bal-ahlaīyah, al-taʻadud, al-ṭalāq /$$cal-Ḥusayn al-Mūs.
+000000009 24510 L $$602$$aمدونة الأسرة في ضوء تقييد المباح :$$bالاهلية، التعدد، الطلاق /$$cالحسين الموس.
+000000009 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000009 250   L $$603$$aالطبعة الأولى.
+000000009 264 1 L $$604$$aal-Dār al-Bayḍāʼ :$$bMarkaz al-Dirāsāt al-usarīyah wa-al-Baḥth fī al-qiyam wa-al-Qānūn,$$c2015.
+000000009 264 1 L $$604$$aالدار البيضاء :$$bمركز الدراسات الأسرية والبحث في القيم والقانون،$$c2015.
+000000009 300   L $$a238 pages ;$$c22 cm
+000000009 336   L $$atext$$btxt$$2rdacontent
+000000009 337   L $$aunmediated$$bn$$2rdamedia
+000000009 338   L $$avolume$$bnc$$2rdacarrier
+000000009 4900  L $$605$$aSilsilat rasāʼil jāmiʻīyah ;$$v1
+000000009 4900  L $$605$$aسلسلة رسائل جامعية ؛$$v1
+000000009 520   L $$aCivil law; domistic relation; laws and legislations; Morocco.
+000000009 504   L $$aIncludes bibliographical references (pages 210-234).
+000000009 650 0 L $$aDomestic relations$$zMorocco.
+000000009 8590  L $$aNNU$$bBOBST$$cMAIN$$hKSW540$$i.M88 2015$$p31142060002493
+000000009 FMT   L BK
+000000010 LDR   L ^^^^^nam^a2200373^i^4500
+000000010 001   L 004230260
+000000010 003   L NNU
+000000010 005   L 20160613020241.0
+000000010 008   L 160613s2014^^^^mr^ab^^^^b^^^^000^0^ara^d
+000000010 040   L $$aNNU$$beng$$erda$$cTEF
+000000010 066   L $$c(3
+000000010 020   L $$a9789954344323
+000000010 020   L $$a9954344322
+000000010 035   L $$a(OCoLC)951627033
+000000010 050 4 L $$aDT313.3.I339$$bA955 2014
+000000010 1001  L $$601$$aAzīkī, ʻAbd Allāh,$$eauthor.
+000000010 1001  L $$601$$aازيكي، عبد الله،$$eauthor.
+000000010 24513 L $$602$$aal-Mukawwin al-thaqāfī wa-al-shakhṣīyah al-ijtimāʻīyah :$$bqabīlat Īdāw Zīkī bi-al-Aṭlas al-kabīr al-gharbī : muqāribah sūsīyūtārīkhīyah /$$ctaʼlīf ʻAbd Allāh Azīkī ; taqdīm al-duktūr al-Ḥusayn Afā.
+000000010 24512 L $$602$$aالمكون الثقافي والشخصية الاجتماعية :$$bقبيلة ايداو زيكي بالطلس الكبير الغربي : مقاربة سوسيوتاريخية /$$cتأليف عبد الله ازيكي ؛ تقديم الدكتور الحسين افا.
+000000010 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000010 250   L $$603$$aالطبعة الأولى.
+000000010 264 1 L $$a[Morocco] :$$b[Publisher not identified],$$c[2014].
+000000010 300   L $$a427 pages :$$billustrations, maps ;$$c21 cm
+000000010 336   L $$atext$$btxt$$2rdacontent
+000000010 337   L $$aunmediated$$bn$$2rdamedia
+000000010 338   L $$avolume$$bnc$$2rdacarrier
+000000010 504   L $$aIncludes bibliographical references (pages 404-420).
+000000010 650 0 L $$aĪdāw Zīkī (Berber people)
+000000010 651 0 L $$aMorocco$$xSocial conditions.
+000000010 7001  L $$604$$aAfā, al-Ḥusayn,$$ewriter of introduction.
+000000010 7001  L $$604$$aافا، الحسين،$$ewriter of introduction.
+000000010 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT313.3.I339$$iA955 2014$$p31142060002915
+000000010 FMT   L BK
+000000011 LDR   L ^^^^^nam^a2200433^i^4500
+000000011 001   L 004230202
+000000011 003   L NNU
+000000011 005   L 20160608024340.0
+000000011 008   L 160608s2015^^^^mr^^^^^^^b^^^^000^0^ara^d
+000000011 040   L $$aNNU$$beng$$erda$$cTEF
+000000011 066   L $$c(3
+000000011 020   L $$a9789954838587
+000000011 020   L $$a9954838589
+000000011 035   L $$a(OCoLC)951434059
+000000011 0410  L $$aara$$aspa
+000000011 050 4 L $$aDP99$$b.K877 2015
+000000011 24500 L $$601$$aKurrāsāt Andalusīyah.
+000000011 24500 L $$601$$aكرّاسات اندلسية.
+000000011 24615 L $$aCuadernos Andalusíes
+000000011 250   L $$602$$aal-Ṭabʻah al-ūlá.
+000000011 250   L $$602$$aالطبعة الأولى.
+000000011 264 1 L $$603$$aRabāṭ :$$bMarkaz Dirāsāt al-Andalus wa-Ḥiwār al-Ḥaḍārāt,$$c2015.
+000000011 264 1 L $$603$$aرباط :$$bمركز دراسات الاندلس وحوار الحضارات،$$c2015.
+000000011 300   L $$a94, 81 pages ;$$c22 cm
+000000011 336   L $$atext$$btxt$$2rdacontent
+000000011 337   L $$aunmediated$$bn$$2rdamedia
+000000011 338   L $$avolume$$bnc$$2rdacarrier
+000000011 4901  L $$aPublicaciones del Centro de Estudios Al Andalus y Diálogo de Civilizaciones. Cuadernos Andalusíes ;$$v4
+000000011 546   L $$aArabic and Spanish.
+000000011 504   L $$aIncludes bibliographical references.
+000000011 651 0 L $$aSpain$$xHistory$$y711-1516.
+000000011 651 0 L $$aAndalusia (Spain)$$xCivilization.
+000000011 7102  L $$604$$aMarkaz Dirāsāt al-Andalus wa-Ḥiwār al-Ḥaḍārāt (Rabat, Morocco)
+000000011 7102  L $$604$$aمركز دراسات الاندلس وحوار الحضارات (ربة، مر)
+000000011 830 0 L $$605$$aManshūrāt Markaz Dirāsāt al-Andalus wa-Ḥiwār al-Ḥaḍārāt.$$pKurrāsāt Andalusīyah ;$$v4.
+000000011 830 0 L $$605$$aمنشورات مركز دراسات الاندلس وحوار الحضارات.$$pكرّاسات اندلسية ؛$$v4.
+000000011 8590  L $$aNNU$$bBOBST$$cMAIN$$hDP99$$i.K877 2015$$p31142060002485
+000000011 FMT   L BK
+000000012 LDR   L ^^^^^cam^a2200421^i^4500
+000000012 001   L 004230058
+000000012 003   L NNU
+000000012 005   L 20160608042311.0
+000000012 008   L 151117s2014^^^^mr^^^^^^^^^^^^000^0aara^^
+000000012 010   L $$a  2015351951
+000000012 040   L $$aDLC$$beng$$erda$$cDLC$$dTEF
+000000012 066   L $$c(3
+000000012 020   L $$a9789954522561
+000000012 020   L $$a9954522565
+000000012 035   L $$a(OCoLC)931529163
+000000012 037   L $$c15.00 MAD
+000000012 042   L $$alcode$$apcc
+000000012 050 4 L $$aDT325.92.B563$$bA3 2014
+000000012 1001  L $$601$$aBinbarāhīm, Aḥmad bin Muḥammad,$$eauthor.
+000000012 1001  L $$601$$aبنبراهيم، أحمد بن محمد.
+000000012 24510 L $$602$$aWajh ākhar min al-kifāḥ al-waṭanī bi-al-Maghrib wa-bi-al-mahjar :$$bḥiwār, sīrah /$$cAḥmad ibn Muḥammad Binbarāhīm ; ajrá al-ḥiwār wa-aʻaddahu Muḥammad Zād
+000000012 24510 L $$602$$aوجة آخر من الكفاح الوطني بالمغرب وبالمهجر :$$bحوار، سيرة /$$cأحمد بن محمد بنبراهيم ؛ اجرى الحوار وأعده محمد زاد
+000000012 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000012 250   L $$603$$aالطبعة الأولى.
+000000012 264 1 L $$604$$a[Morocco] :$$bal-Mandūbīyah al-Sāmiyah li-Qudamāʼ al-Muqāwimīn wa-Aʻḍāʼ Jaysh al-Taḥrīr,$$c[2014].
+000000012 264 1 L $$604$$a[Morocco] :$$bالمندوبية السامية لقدماء المقاومين وأعضاء جيش التحرير،$$c[2014].
+000000012 300   L $$a80 pages ;$$c20 cm
+000000012 336   L $$atext$$btxt$$2rdacontent
+000000012 337   L $$aunmediated$$bn$$2rdamedia
+000000012 338   L $$avolume$$bnc$$2rdacarrier
+000000012 60010 L $$605$$aBinbarāhīm, Aḥmad ibn Muḥammad$$vInterviews.
+000000012 60014 L $$605$$aبنبراهيم، احمد بن محمد.
+000000012 650 0 L $$aPoliticians$$zMorocco.
+000000012 651 0 L $$aMorocco$$xPolitics and government.
+000000012 651 0 L $$aMorocco$$xHistory.
+000000012 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT325.92.B563$$iA3 2014$$p31142060002717
+000000012 FMT   L BK
+000000013 LDR   L ^^^^^nam^a2200349^i^4500
+000000013 001   L 004230061
+000000013 003   L NNU
+000000013 005   L 20160608044212.0
+000000013 008   L 160608s2015^^^^mr^a^^^^^^^^^^000^0^ara^d
+000000013 040   L $$aNUU$$beng$$erda$$cTEF
+000000013 066   L $$c(3
+000000013 020   L $$a9789954918241
+000000013 020   L $$a9954918248
+000000013 035   L $$a(OCoLC)951440121
+000000013 050 4 L $$aJQ3945$$b.M344 2015
+000000013 1001  L $$601$$aMaḥfūẓī, Muḥammad,$$eauthor.
+000000013 1001  L $$601$$aمحفوظي، محمد،$$eauthor.
+000000013 24510 L $$602$$aKhabāyā 24 sanah li-asīr fī jahīm Tanduf :$$bkhabāyā wa-asrār murtaziqat al-Jazāʼir /$$cMuḥammad Maḥfūẓī.
+000000013 24510 L $$602$$aخبايا 24 سنة لاسير في جهيم تندف :$$bخبايا واسرار مرتزقة الجزائر /$$cمحمد محفوظي.
+000000013 24615 L $$603$$a23 sanah min asr fī jahīm Tanduf
+000000013 24615 L $$603$$a23 سنة من اسر في جهيم تندف
+000000013 264 1 L $$a[Morocco] :$$b[Publisher not identified],$$c2015.
+000000013 300   L $$a335 pages :$$billustrations ;$$c21 cm
+000000013 336   L $$atext$$btxt$$2rdacontent
+000000013 337   L $$aunmediated$$bn$$2rdamedia
+000000013 338   L $$avolume$$bnc$$2rdacarrier
+000000013 61020 L $$aPolisario.
+000000013 651 0 L $$aMorocco$$xPolitics and government.
+000000013 651 0 L $$aAlgeria$$xPolitics and government.
+000000013 8590  L $$aNNU$$bBOBST$$cMAIN$$hJQ3945$$i.M344 2015$$p31142060002501
+000000013 FMT   L BK
+000000014 LDR   L ^^^^^cam^a2200625^i^4500
+000000014 001   L 004230214
+000000014 003   L NNU
+000000014 005   L 20160608020735.0
+000000014 008   L 160415s2015^^^^mr^ab^^^^b^^^^000^0^ara^d
+000000014 040   L $$aPAU$$beng$$erda$$cPAU$$dOSU
+000000014 066   L $$c(3
+000000014 020   L $$a9789954516249
+000000014 020   L $$a9954516247
+000000014 035   L $$a(OCoLC)946738030
+000000014 043   L $$aff-----$$ae-sp---
+000000014 050 4 L $$aDT199$$b.J38 2015
+000000014 1001  L $$601$$aJassūs, ʻIzz al-Dīn,$$eauthor.
+000000014 1001  L $$601$$aجسوس، عز الدين.
+000000014 24514 L $$602$$a"al-Mujtamaʻ al-siyāsī" wa-nasaq tadāwul al-sulṭah bi-al-Maghrib :$$bal-dawlah al-Murābiṭīyah namūdhajan /$$cD. ʻIzz al-Dīn Jassūs.
+000000014 24513 L $$602$$a"المجتمع السياسي" ونسق تداول السلطة بالمغرب :$$bالدولة المرابطية نموذجا /$$cد. عز الدين جسوس.
+000000014 2463  L $$603$$aMujtamaʻ al-siyāsī wa-nasq tadāwul al-sulṭah bi-al-Maghrib :$$bal-dawlah al-Murābiṭīyah namūdhajan
+000000014 2463  L $$603$$aمجتمع السياسي ونسق تداول السلطة بالمغرب :$$bالدولة المرابطية نموذجا
+000000014 264 1 L $$604$$aal-Rabāṭ :$$bManshūrāt al-Zaman,$$c2015.
+000000014 264 1 L $$604$$aالرباط :$$bمنشورات الزمن،$$c2015.
+000000014 300   L $$a156 pages :$$billustrations, map ;$$c21 cm.
+000000014 336   L $$atext$$btxt$$2rdacontent
+000000014 337   L $$aunmediated$$bn$$2rdamedia
+000000014 338   L $$avolume$$bnc$$2rdacarrier
+000000014 4901  L $$605$$aSilsilat shurfāt ;$$val-ʻadad 49
+000000014 4901  L $$605$$aسلسلة شرفات ؛$$vالعدد 49
+000000014 504   L $$aIncludes bibliographical references.
+000000014 651 0 L $$aAfrica, North$$xHistory$$y647-1517.
+000000014 651 0 L $$aSpain$$xHistory$$y711-1516.
+000000014 650 0 L $$aAlmoravides$$xPolitics and government.
+000000014 650 0 L $$aAlmoravides$$xHistory.
+000000014 650 0 L $$aAlmoravides$$xSocial conditions.
+000000014 650 7 L $$606$$aAlmoravides$$2fast$$0(OCoLC)fst00805867
+000000014 650 7 L $$606$$aالمرابطون.$$2qrmak
+000000014 650 7 L $$607$$aPolitics and government$$2fast$$0(OCoLC)fst01919741
+000000014 650 7 L $$607$$aأحوال سياسية.$$2qrmak
+000000014 650 7 L $$608$$aSocial conditions$$2fast$$0(OCoLC)fst01919811
+000000014 650 7 L $$608$$aأحوال الإجتماعية.$$2qrmak
+000000014 651 7 L $$609$$aAfrica, North$$2fast$$0(OCoLC)fst01239515
+000000014 651 7 L $$609$$aشمال إفريقيا.$$2qrmak
+000000014 651 7 L $$610$$aSpain$$2fast$$0(OCoLC)fst01204303
+000000014 651 7 L $$610$$aإسبانيا.$$2qrmak
+000000014 648 7 L $$611$$a647 - 1517$$2fast
+000000014 648 7 L $$611$$a٦٤٧ - ١٥١٧$$2local/OSU
+000000014 655 7 L $$612$$aHistory$$2fast$$0(OCoLC)fst01411628
+000000014 655 7 L $$612$$aتاريخ.$$2qrmak
+000000014 830 0 L $$613$$aSilsilat shurufāt ;$$v49.
+000000014 830 0 L $$613$$aسلسلة شرفات ؛$$v49.
+000000014 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT199$$i.J38 2015$$p31142060002865
+000000014 FMT   L BK
+000000015 LDR   L ^^^^^nam^a2200349^i^4500
+000000015 001   L 004230220
+000000015 003   L NNU
+000000015 005   L 20160608022333.0
+000000015 008   L 160608s2015^^^^mr^^^^^^^b^^^^000^0^ara^d
+000000015 040   L $$aNNU$$beng$$erda$$cTEF
+000000015 066   L $$c(3
+000000015 020   L $$a9789954350256
+000000015 020   L $$a995435025X
+000000015 035   L $$a(OCoLC)951436132
+000000015 050 4 L $$aDT333$$b.S537 2015
+000000015 1001  L $$601$$aSharāyimī, Muḥammad,$$eauthor.
+000000015 1001  L $$601$$aشرايمي، محمد،$$eauthor.
+000000015 24513 L $$602$$aal-Mudun al-Ṣaḥrāwịyah :$$bal-nashʼah wa-al-taṭawwur /$$cMuḥammad Sharāyimī.
+000000015 24512 L $$602$$aالمدن الصحراوية :$$bالنشأة والتطور /$$cمحمد شرايمي.
+000000015 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000015 250   L $$603$$aالطبعة الأولى.
+000000015 264 1 L $$a[Morocco] :$$b[Publisher not identified],$$c[2015].
+000000015 300   L $$a183 pages ;$$c21 cm
+000000015 336   L $$atext$$btxt$$2rdacontent
+000000015 337   L $$aunmediated$$bn$$2rdamedia
+000000015 338   L $$avolume$$bnc$$2rdacarrier
+000000015 504   L $$aIncludes bibliographical references (pages 168-182).
+000000015 651 0 L $$aSahara$$xDescription and travel.
+000000015 651 0 L $$aSahara$$xCivilization.
+000000015 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT333$$i.S537 2015$$p31142060002410
+000000015 FMT   L BK
+000000016 LDR   L ^^^^^nam^a2200409^i^4500
+000000016 001   L 004230045
+000000016 003   L NNU
+000000016 005   L 20160608020444.0
+000000016 008   L 160608s2015^^^^mr^^^^^^^^^^^^000^0^ara^d
+000000016 040   L $$aNNU$$cTEF
+000000016 066   L $$c(3
+000000016 020   L $$a9789954345634
+000000016 020   L $$a9954345639
+000000016 035   L $$a(OCoLC)951433448
+000000016 0411  L $$aara$$hfre
+000000016 050 4 L $$aCB425$$b.A624124 2015
+000000016 1001  L $$601$$aAmin, Samir,$$eauthor.
+000000016 1001  L $$601$$aامين، سمير،$$eauthor.
+000000016 24010 L $$aModernité, religion et démocratie.$$lArabic
+000000016 24513 L $$602$$aal-Ḥadāthah wa-al-taʼwīlāt al-dīnīyah /$$ctaʼlīf Samīr Amīn ; tarjamat Jamāl al-Dīn Ḥabīb ; murājaʻat Ḥasan al-Ṣaʻīb.
+000000016 24512 L $$602$$aالحداثة والتأويلات الدينية /$$cتأليف سمير امين ؛ ترجمة جمال الدين حبيب ؛ مراجعة حسن الصعيب.
+000000016 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000016 250   L $$603$$aالطبعة الأولى.
+000000016 264 1 L $$604$$a[Morocco] :$$bManshūrāt al-Ufuq al-Dīmūqrāṭī,$$c2015.
+000000016 264 1 L $$604$$a[Morocco] :$$bمنشورات الافق الديموقراطي،$$c2015.
+000000016 300   L $$a80 pages ;$$c20 cm
+000000016 650 0 L $$aCivilization, Modern.
+000000016 650 0 L $$aEurocentrism.
+000000016 650 0 L $$aReligions$$xHistory$$y20th century.
+000000016 650 0 L $$aDemocracy$$xHistory$$y20th century.
+000000016 7001  L $$605$$aḤabīb, Jamāl al-Dīn,$$etranslator.
+000000016 7001  L $$605$$aحبيب، جمال الدين،$$etranslator.
+000000016 7001  L $$606$$aṢaʻīb, Ḥasan,$$eeditor.
+000000016 7001  L $$606$$aصعيب، حسن،$$eeditor.
+000000016 8590  L $$aNNU$$bBOBST$$cMAIN$$hCB425$$i.A624124 2015$$p31142060002428
+000000016 FMT   L BK
+000000017 LDR   L ^^^^^cam^a2200349^a^4500
+000000017 001   L 004230158
+000000017 003   L NNU
+000000017 005   L 20160613040430.0
+000000017 008   L 160426s2014^^^^mr^a^^^^^b^^^^000^0^ara^^
+000000017 040   L $$aHLS$$cHLS$$dOCLCO$$dTEF
+000000017 066   L $$c(3
+000000017 020   L $$a9789954330661
+000000017 020   L $$a9954330666
+000000017 035   L $$a(OCoLC)947835918
+000000017 043   L $$af-mr---
+000000017 05000 L $$aDT324.92.Y87$$bT35 2014
+000000017 1001  L $$601$$alāʼiʻ, Mu%ammad.
+000000017 1001  L $$601$$aطائع، محمد.
+000000017 24510 L $$602$$aʻAbd al-Ra%mān al-Yūsufī wa-al-tanāwub al-dīmuqrāmī, al-mujha /$$cMu%ammad al-lāʼiʻ.
+000000017 24510 L $$602$$aعبد الرحمان اليوسفي والتناوب الديمقراطي، المجهض /$$cمحمد الطائع.
+000000017 250   L $$603$$aal-labʻah 1.
+000000017 250   L $$603$$aالطبعة 1.
+000000017 260   L $$604$$a[Morocco] :$$bMu%ammad al-lāʼiʻ,$$c2014.
+000000017 260   L $$604$$a[Morocco] :$$bمحمد الطائع،$$c2014.
+000000017 300   L $$a336 p. :$$bill. ;$$c24 cm.
+000000017 504   L $$aIncludes bibliographical references.
+000000017 60010 L $$aYūsufī, ʻAbd al-Ra%mān.
+000000017 650 0 L $$aPoliticians$$zMorocco$$y21st century.
+000000017 651 0 L $$aMorocco$$xPolitics and government$$y21st century.
+000000017 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT324.92.Y87$$iT35 2014$$p31142060002527
+000000017 FMT   L BK
+000000018 LDR   L ^^^^^cam^a2200385^a^4500
+000000018 001   L 004229935
+000000018 003   L NNU
+000000018 005   L 20160613035451.0
+000000018 008   L 160426s2014^^^^mr^a^^^^^b^^^^000^0^ara^^
+000000018 040   L $$aHLS$$cHLS$$dOCLCO$$dTEF
+000000018 066   L $$c(3
+000000018 020   L $$a9789954339657
+000000018 020   L $$a9954339655
+000000018 035   L $$a(OCoLC)947836087
+000000018 043   L $$af-mr---
+000000018 05000 L $$aBP64.M8$$bI339 2014
+000000018 24500 L $$601$$aIdāwsamlāl :$$bal-masār al-tārīkhī wa-al-ʻamaʼ al-fikrī : ashghāl al-nadwah al-muna₃₃amah bi-Masra% Mu%ammad al-Sādis bi-al-Dār al-Bayāʼ, yawm al-a%ad 23 Fabrāyir 2014 M : aʻmāl muhdāh lil-ʻAllāmah Mu%ammad al-Mukhtār al-Sūsī bi-munāsabat al-dhikrá al-khamsīn li-wafātih /$$ciʻdād wa-tansīq Raī Allāh ʻAbd al-Wāfī al-Mukhtār al-Sūsī.
+000000018 24500 L $$601$$aإداوسملال :$$bالمسار التاريخي والعطاء الفكري : أشغال الندوة المنظمة بمسرح محمد السادس بالدار البيضاء يوم الأحد 23 فبراير 2014 م : أعمال مهداة للعلامة محمد المختار السوسي بمناسبة الذكرى الخمسين لوفاته /$$cإعداد وتنسيق رضي الله عبد الوافي المختار السوسي.
+000000018 250   L $$602$$aal-labʻah 1.
+000000018 250   L $$602$$aالطبعة 1.
+000000018 260   L $$603$$a[Morocco] :$$bJamʻīyat Takīsht Āyat ʻAbbās lil-Tanmiyah wa-al-Taāmun,$$c2014.
+000000018 260   L $$603$$a[Morocco] :$$bجمعية تكضيشت أيت عباس للتنمية والتضامن،$$c2014.
+000000018 300   L $$a280 p. :$$bill. ;$$c24 cm.
+000000018 4900  L $$604$$aManshūrāt Jamʻīyat Takīsht Āyat ʻAbbās lil-Tanmiyah wa-al-Taāmun ;$$v1
+000000018 4900  L $$604$$aمنشورات جمعية تكضيشت أيت عباس للتنمية والتضامن ؛$$v1
+000000018 504   L $$aIncludes bibliographical references.
+000000018 60010 L $$aYūsufī, ʻAbd al-Ra%mān.
+000000018 650 0 L $$aUlama$$zMorocco$$zSous Region$$vBiography.
+000000018 650 0 L $$aIslamic learning and scholarship$$zMorocco$$zSous Region$$xHistory.
+000000018 651 0 L $$aSous Region (Morocco)$$xIntellectual life.
+000000018 7001  L $$605$$aSūsī, Raī Allāh ʻAbd al-Wāfī al-Mukhtār.
+000000018 7001  L $$605$$aسوسي، راضي عبد الله الوافي المختار.
+000000018 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP64.M8$$iI339 2014$$p31142060002402
+000000018 FMT   L BK
+000000019 LDR   L ^^^^^nam^a2200649^i^4500
+000000019 001   L 004229989
+000000019 003   L NNU
+000000019 005   L 20160608041310.0
+000000019 008   L 160303s2014^^^^mr^a^^^^^b^^^^000^0^ara^d
+000000019 040   L $$aOSU$$beng$$erda$$cOSU
+000000019 066   L $$c(4$$c(3
+000000019 020   L $$a9789954918159$$q(pbk.)
+000000019 020   L $$a9954918159$$q(pbk.)
+000000019 035   L $$a(OCoLC)942741561
+000000019 0410  L $$aara$$afre
+000000019 043   L $$af-mr---
+000000019 050 4 L $$aDT305$$b.G38 2014
+000000019 1001  L $$601$$aGaṭṭ, Bū Salhām,$$eauthor.
+000000019 1001  L $$601$$aگط، بو سلهام.
+000000019 24513 L $$602$$aal-Bādīyah al-Maghribīyah bayna ishkālīyat sulṭat al-maʻrifah wa-luʻbat sulṭat al-makhzan? /$$cBūsalhām al-Gaṭṭ.
+000000019 24512 L $$602$$aالبادية المغربية بين إشكالية سلطة المعرفة ولعبة سلطة المخزن؟ /$$cبوسلهام الگط.
+000000019 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000019 250   L $$603$$aالطبعة الأولى.
+000000019 264 1 L $$a[Kenitra? :$$bpublisher not identified],$$c2014.
+000000019 264 3 L $$604$$aal-Qunayṭirah :$$bal-Maṭbaʻah al-Sarīʻah
+000000019 264 3 L $$604$$aالقنيطرة :$$bالمطبعة السريعة
+000000019 300   L $$a351 pages :$$billustrations ;$$c21 cm
+000000019 336   L $$atext$$btxt$$2rdacontent
+000000019 337   L $$aunmediated$$bn$$2rdamedia
+000000019 338   L $$avolume$$bnc$$2rdacarrier
+000000019 500   L $$605$$aAt head of title: Ishkālīyat sulṭat al-maʻrifah wa-luʻbat al-sulṭah fī al-wāqiʻ al-badawī al-Maghribī ..!?
+000000019 500   L $$605$$aAt head of title: إشكالية سلطة المعرفة ولعبة السلطة في الواقع البدوي المغربي ..!؟
+000000019 546   L $$aText in Arabic with an article in French.
+000000019 504   L $$aIncludes bibliographical references (pages 348-351).
+000000019 651 0 L $$aMorocco$$xHistory.
+000000019 650 0 L $$aBedouins$$zMorocco$$xHistory.
+000000019 651 0 L $$aMorocco$$xIntellectual life.
+000000019 651 0 L $$aMorocco$$xPolitics and government.
+000000019 650 0 L $$aIslam and politics$$zMorocco.
+000000019 650 0 L $$aIslam and state$$zMorocco.
+000000019 651 7 L $$606$$aMorocco$$2fast$$0(OCoLC)fst01205592
+000000019 651 7 L $$606$$aالمغرب.$$2qrmak
+000000019 650 7 L $$607$$aBedouins.$$2fast$$0(OCoLC)fst00829496
+000000019 650 7 L $$607$$aالبدو.$$2qrmak
+000000019 650 7 L $$608$$aIntellectual life$$2fast$$0(OCoLC)fst00975769
+000000019 650 7 L $$608$$aالحياة الفكرية .$$2qrmak
+000000019 650 7 L $$609$$aIslam and politics$$2fast$$0(OCoLC)fst00979879
+000000019 650 7 L $$609$$aالإسلام والسياسة.$$2qrmak
+000000019 650 7 L $$610$$aIslam and state$$2fast$$0(OCoLC)fst00979890
+000000019 650 7 L $$610$$aالإسلام والدولة.$$2qrmak
+000000019 650 7 L $$611$$aPolitics and government$$2fast$$0(OCoLC)fst01919741
+000000019 650 7 L $$611$$aأحوال سياسية.$$2qrmak
+000000019 655 7 L $$612$$aHistory$$2fast$$0(OCoLC)fst01411628
+000000019 655 7 L $$612$$aتاريخ.$$2qrmak
+000000019 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT305$$i.G38 2014$$p31142060002907
+000000019 FMT   L BK
+000000020 LDR   L ^^^^^cam^a2200481^i^4500
+000000020 001   L 004230114
+000000020 003   L NNU
+000000020 005   L 20160613042722.0
+000000020 008   L 160613s2013^^^^mr^a^^^^^b^^^^000^0^ara^d
+000000020 040   L $$aNNU$$beng$$erda$$cTEF$$dTEF
+000000020 066   L $$c(3
+000000020 020   L $$a9789954044353
+000000020 020   L $$a9954044353
+000000020 035   L $$a(OCoLC)951633024
+000000020 0410  L $$aara$$afre
+000000020 050 4 L $$aDT329.S253$$bB574 2013
+000000020 1001  L $$601$$aBirḥāb, ʻUkāshah,$$eauthor.
+000000020 1001  L $$601$$aبرحاب، عكاشة،$$eauthor.
+000000020 24513 L $$602$$aal-Saʻīdīyah :$$b"Saʻīdah" sāḥil al-Mutawassiṭ : dirāsah fī al-turāth muʻazzazah bi-al-wathāʼiq /$$cʻUkāshah Birḥāb.
+000000020 24512 L $$602$$aالسعيدية :$$b"سعيده" ساحل المتوسط : دراسة في التراث معززة بالوثائق /$$cعكاشة برحاب.
+000000020 24615 L $$aSaïdia :$$b"l'Heureuse" de la côte méditerranéenne : étude du patrimonie avec textes à l'appui
+000000020 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000020 250   L $$603$$aالطبعة الأولى.
+000000020 264 1 L $$604$$aal-Muḥammadīyah :$$bKullītat al-Ādāb wa-al-ʻUlūm al-Insānīyah,$$c2013.
+000000020 264 1 L $$604$$aالمحمدية :$$bكليتة الآداب والعلوم الانسانية،$$c2013.
+000000020 300   L $$a142, 50 pages :$$billustrations ;$$c24 cm
+000000020 336   L $$atext$$btxt$$2rdacontent
+000000020 337   L $$aunmediated$$bn$$2rdamedia
+000000020 338   L $$avolume$$bnc$$2rdacarrier
+000000020 4901  L $$605$$aDafātir al-baḥth al-ʻilmī ;$$vʻadad 11
+000000020 4901  L $$605$$aدفاتر البحث العلمي ؛$$vعدد 11
+000000020 4901  L $$606$$aMukhtabar al-turāth wa-al-ḥadāthah
+000000020 4901  L $$606$$aمختبر التراث والحداثة
+000000020 546   L $$aIn Arabic and French.
+000000020 504   L $$aIncludes bibliographical references.
+000000020 651 0 L $$aSaidia (Morocco)$$xHistory.
+000000020 830 0 L $$607$$aDafātir al-baḥth al-ʻilmī ;$$vʻadad 11.
+000000020 830 0 L $$607$$aدفاتر البحث العلمي ؛$$vعدد 11.
+000000020 830 0 L $$608$$aMukhtabar al-turāth wa-al-ḥadāthah.
+000000020 830 0 L $$608$$aمختبر التراث والحداثة.
+000000020 8590  L $$aNNU$$bBOBST$$cMAIN$$hDT329.S253$$iB574 2013$$p31142060002535
+000000020 FMT   L BK
+000000021 LDR   L ^^^^^nam^a2200421^i^4500
+000000021 001   L 004230169
+000000021 003   L NNU
+000000021 005   L 20160613032200.0
+000000021 008   L 160613s2014^^^^mr^^^^^^^^^^^^000^0cara^d
+000000021 040   L $$aNNU$$beng$$erda$$cTEF
+000000021 066   L $$c(3
+000000021 020   L $$a9789954339503
+000000021 020   L $$a9954339507
+000000021 035   L $$a(OCoLC)951631055
+000000021 050 4 L $$aBP70$$b.G486 2014
+000000021 1001  L $$601$$aGhumārī al-Ḥasanī, ʻAbd Allāh ʻAbd al-Muʼmin,$$eauthor.
+000000021 1001  L $$601$$aغماري الحسني، عبد الله عبد المؤمن،$$eauthor.
+000000021 24510 L $$602$$aʻUlamāʼ wa-ṣulaḥāʼ adrakatuhum /$$cD. ʻAbd Allāh ʻAbd al-Mūmin al-Ghumarī al-Ḥasanī ; taqdīm faḍīlat al-ustādh al-baḥāthah al-muḥaqqaq al-duktūr ʻAbd Allāh al-Murābaṭ al-Targhī.
+000000021 24510 L $$602$$aعلماء وصلحاء أدركتهم /$$cد. عبد الله عبد المومن الغمري الحسني ؛ تقديم فضيلة الستاذ البحاثة المحقق الدكتور عبد الله المرابط الترغي.
+000000021 250   L $$603$$aal-Ṭabʻah al-ūlá.
+000000021 250   L $$603$$aالطبعة الأولى.
+000000021 264 1 L $$604$$aal-Rabāṭ :$$bDār al-Amān,$$c2014.
+000000021 264 1 L $$604$$aالرباط :$$bدار الامان،$$c2014.
+000000021 300   L $$a213 pages ;$$c24 cm
+000000021 336   L $$atext$$btxt$$2rdacontent
+000000021 337   L $$aunmediated$$bn$$2rdamedia
+000000021 338   L $$avolume$$bnc$$2rdacarrier
+000000021 4901  L $$605$$aDurar al-rijāl
+000000021 4901  L $$605$$aدرر الرجال
+000000021 650 0 L $$aUlama.
+000000021 650 0 L $$aMuslim scholars.
+000000021 7001  L $$606$$aTarghī, ʻAbd Allāh al-Murābiṭ,$$ewriter of introduction.
+000000021 7001  L $$606$$aترغي، عبد الله المرابط،$$ewriter of introduction.
+000000021 830 0 L $$607$$aDurar al-rijāl.
+000000021 830 0 L $$607$$aدرر الرجال.
+000000021 8590  L $$aNNU$$bBOBST$$cMAIN$$hBP70$$i.G486 2014$$p31142060002360
+000000021 FMT   L BK
