@@ -1,12 +1,12 @@
 Procedures to FTP files rec'd from OCLC TechPro for outsource cataloging:
 
---  in Mac Terminal, navigate to the corresponding Techpro batch folder, then:
+--  in Mac Terminal, navigate to the corresponding Techpro batch folder (i.e., “marc_returned), then:
 --  ftp ftp2.oclc.org
---  enter name
+--  enter username
 --  enter pwd
---  at ftp> cd techpro
---  at ftp> cd zyu
+--  at ftp> cd metacoll/out/ongoing/contrsvc
 --  at ftp> ls
 --  at ftp> get [filename]
 --  repeat for each file needed to download
 --  files get saved in the current (Techpro) directory
+—-  at ftp> exit
