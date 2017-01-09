@@ -7,12 +7,12 @@ from pymarc import Record, Field
 #curr_dir = os.path.dirname(os.getcwd())
 #parent_dir = os.chdir("..")
 
-batch_name = 'tp_20160303_bk_ara_171r'
+batch_name = 'tp_20160219_bk_per_273r'
 batch_dir = '../submissions/TechPro/'+batch_name+'/'
 
 #INPUT Files
 orig_marc_recs = pymarc.MARCReader(file(batch_dir + batch_name + '_pkgd_marc_final.mrc'), to_unicode=True, force_utf8=True)
-curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160707_25r/' + batch_name + '_ret_20160707_25r_bsns.mrc'), to_unicode=True, force_utf8=True)
+curr_marc_recs = pymarc.MARCReader(file(batch_dir + 'loaded_to_aleph/ret_20160912_50r/tp_20160912_040802_50r_bsns.mrc'), to_unicode=True, force_utf8=True)
 
 orig_recs_dict = {}
 for orig_rec in orig_marc_recs:
